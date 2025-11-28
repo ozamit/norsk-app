@@ -1,0 +1,171 @@
+Level,People & Identity,Family & Relationships,Body & Health,Feelings & Emotions,Personality & Character Traits,Communication & Language,Thoughts & Mental Processes,Work & Professions,Education & Learning,Art & Creativity,Music & Sound,Literature & Writing,Media & Entertainment,Sports & Recreation,Games & Hobbies,Food & Cooking,Plants & Botany,Animals & Zoology,Nature & Environment,Weather & Climate,Geography & Places,Time & Calendar,Space & Astronomy,Science & Technology,Tools & Equipment,Machines & Devices,Materials & Substances,Clothing & Fashion,Home & Furniture,Buildings & Architecture,Transportation & Vehicles,Travel & Tourism,Money & Finance,Business & Economics,Law & Justice,Government & Politics,Religion & Spirituality,Social Issues & Society,Culture & Traditions,Mathematics & Measurement,Colors & Shapes,Properties & Qualities,Quantity & Amount,Movement & Direction,Cause & Effect,Comparisons & Similarity,Existence & States of Being,Abstract Concepts,Question Words,Verbs – Physical Actions / Motion,Verbs – Mental / Cognitive Actions,Verbs – Communication Actions,Verbs – Creation / Art / Craft,Verbs – Consumption / Interaction,Verbs – Change / Process,Verbs – Auxiliary / Helping Verbs
+1,jeg,mor,hode,glad,snill,ord,tanke,lærer,skole,kunst,musikk,bok,film,fotball,sjakk,brød,tre,hund,elv,regn,by,dag,sol,fysikk,hammer,sykkel,vann,skjorte,bord,hus,bil,reise,penger,marked,lov,stat,kirke,fattigdom,jul,tall,rød,stor,tall,opp,årsak,lik,er,rett,hvem,løpe,tenke,si,male,spise,vokse,være
+1,du,far,hår,trist,slem,tale,tenke,lege,klasse,maleri,lyd,tekst,TV,håndball,kortspill,smør,busk,katt,innsjø,snø,landsby,natt,måne,kjemi,kniv,bil,tre,bukse,stol,bygning,buss,tur,bank,handel,rett,regjering,moské,rikdom,påske,en,blå,liten,noen,ned,virkning,samme,finnes,plikt,hva,gå,huske,snakke,tegne,drikke,endre,bli
+1,han,søster,ansikt,sint,hyggelig,rop,huske,sykepleier,lærer,tegning,sang,lesing,radio,basketball,brettspill,ost,blomst,fugl,hav,sol,tettsted,morgen,stjerne,biologi,øks,tog,metall,kjole,seng,vegg,sykkel,hotell,konto,kjøp,domstol,politiker,tempel,kultur,nyttår,to,gul,høy,mange,venstre,effekt,ulik,tilstede,makt,hvor,hoppe,glemme,skrive,bygge,ta,forandre,ha
+1,hun,bror,øye,redd,vennlig,hviske,glemme,kokk,elev,design,tone,skriving,avis,volleyball,puslespill,melk,gress,ku,skog,vind,land,kveld,himmel,matematikk,sag,trikk,plast,hatt,kjøkken,tak,motorsykkel,hostel,sparing,salg,dommer,valg,synagoge,tradisjon,fest,tre,grønn,lav,få,høyre,resultat,mer,lever,autoritet,når,krype,forstå,rope,designe,holde,modnes,gjøre
+1,vi,barn,øre,rolig,sterk,bokstav,drøm,servitør,student,skulptur,rytme,forfatter,magasin,løping,lego,egg,plante,gris,dal,tåke,region,time,rom,astronomi,spiker,buss,glass,jakke,sofa,vindu,tog,leilighet,inntekt,produkt,advokat,stemme,bønn,religion,marked,fire,svart,lang,alle,frem,konsekvens,mindre,dør,ære,hvorfor,falle,lære,hviske,skrive,klemme,bryte,skal
+1,dere,venn,nese,varm,smart,skrift,mål,bussjåfør,fag,foto,takt,setning,nyheter,jogging,mynter,kjøtt,blad,sau,eng,is,stat,minutt,astronaut,eksperiment,skrue,båt,stein,genser,lenestol,dør,trikk,turist,utgift,tjeneste,politi,offentlig,gud,utdanning,teater,fem,hvit,kort,ingen,tilbake,grunn,høyere,vedvarer,skam,hvordan,gli,drømme,spørre,sy,smake,utvikle,vil
+1,de,nabo,munn,kul,lat,språk,plan,bonde,time,grafikk,volum,ordvalg,underholdning,svømming,maling,fisk,rot,geit,sand,hagl,kontinent,sekund,teleskop,laboratorium,lim,skip,leire,t-skjorte,kommode,trapper,båt,ferie,lån,kunde,fengsel,politikk,tro,helse,musikk,seks,farge,bred,hver,inn,følge,lavere,oppstår,lykke,hvilken,snuble,velge,svare,lage,lukte,forbedre,kan
+1,mann,morfar,tann,lykkelig,rolig,stemme,idé,frisør,lekse,illustrasjon,tempo,stil,show,sykling,tegning,kylling,stamme,kanin,strand,frost,gate,uke,satellitt,måling,tape,motor,gummi,skjørt,skap,balkong,skip,ferieby,rente,leverandør,lovlig,borgermester,åndelighet,bolig,sang,sju,linje,smal,mer,ut,respons,fortere,forblir,sorg,hvilke,hinke,bestemme,fortelle,forme,føle,reparere,må
+1,kvinne,mormor,hals,frykt,kald,muntlig,minne,elektriker,oppgave,mote,instrument,historie,scene,ski,fotografi,svin,frø,rotte,mark,soloppgang,vei,måned,bane,naturvitenskap,pensel,datamaskin,tekstil,sko,hylle,terrasse,ferge,destinasjon,skatt,selskap,ulovlig,parti,prest,sosialt,dans,åtte,punkt,tykk,mindre,rundt,reaksjon,tregere,forsvinner,fred,hvilket,skli,vurdere,lese opp,konstruere,gripe,redusere,bør
+1,gutt,farfar,skulder,glede,modig,skriftlig,beslutning,snekker,test,tekstil,gitar,fortelling,teater,skøyter,skriving,laks,løv,mus,jord,solnedgang,sti,år,gravitasjon,teknikk,stige,telefon,bomull,sokker,lampe,kjeller,hjul,transport,faktura,bedrift,kriminalitet,regjeringstiltak,imam,kriminalitet,kultur,ni,form,tynn,mest,langs,handling,bedre,eksisterer,krig,hvem sin,sykle,tro,be,skape,åpne,øke,kunne
+2,jente,farmor,arm,sorg,tøff,lytting,valg,maler,prøve,keramikk,piano,novelle,spill,turgåing,lesing,torsk,hage,høne,stein,morgen,plass,kalender,solsystem,datamaskin,hjelm,smarttelefon,ull,lue,teppe,loft,ratt,transportmiddel,betaling,firma,lovbrudd,politikkprogram,rabbi,vold,tradisjon,ti,sirkel,tung,minst,svinge,hendelse,verre,eksisterende,håp,hva tid,svømme,anta,dele,dekorere,lukke,utvide,måtte
+2,barn,bestemor,hånd,sinne,hjelpsom,spørsmål,vurdering,butikkansatt,eksamen,skisse,fiolin,dikt,seer,lek,poesi,grønnsaker,blomsterpotte,and,regn,kveld,park,dato,himmellegeme,teknologi,vernebriller,nettbrett,silke,belte,pute,by,billett,flybillett,kort,kontrakt,rettferdighet,statsminister,munk,fred,skikk,addere,kvadrat,lett,halv,bøye,utfall,best,ikke-eksisterende,frykt,hvor mye,fly,planlegge,forklare,planlegge,hente,krympe,ville
+2,venn,bestefar,finger,humør,omsorgsfull,svar,fantasi,sekretær,karakter,akvarell,trommer,vits,publikum,aktivitet,instrument,frukt,krukke,gås,sol,dag,torg,helg,himmelstrøk,ingeniør,hansker,laptop,lær,caps,madrass,landsby,motor,togbillett,kredittkort,avtale,straff,minister,nonne,konflikt,mattradisjon,trekke fra,trekant,varm,del,strekke,betingelse,dårligst,tilstand,mot,hvor mange,danse,fokusere,uttrykke,improvisere,dele,svinne,tørre
+2,nabo,datter,bryst,energi,ærlig,setning,nysgjerrighet,tannlege,notat,olje,bass,kapittel,billetter,fritid,musikk,potet,plen,kalkun,vind,natt,fjell,arbeidsdag,himmelobservasjon,databehandling,verktøykasse,TV,papir,undertøy,klokke,skole,pedaler,kart,debetkort,leder,rettighet,representant,religion,offentlig,bryllup,multiplisere,rektangel,kald,halvpart,hoppe,forbindelse,sterkest,situasjon,ærlighet,hva for,trekke,resonnere,kommentere,veve,røre,helbrede,ønsker
+2,lærer,sønn,mage,kjærlighet,åpen,brev,læring,fysioterapeut,lesing,pastell,fløyte,avsnitt,kommentar,rekreasjon,hobby,vann,enger,bie,sky,årstid,dal,ferie,himmelobjekt,nettverk,arbeidsbord,radio,papp,nattøy,TV,sykehus,clutch,reiserute,kontanter,administrasjon,skyld,embetsmann,religionstilhenger,politikk,begravelse,dividere,oval,myk,tredjedel,løpe,relasjon,svakest,realitet,tillit,hva slags,skyve,oppdage,informere,hugge,bruke,bygge opp,pleie
+2,student,tante,rygg,spent,nysgjerrig,e-post,erfaring,psykolog,skriving,blyant,sangstemme,innledning,streaming,lag,fritid,juice,skog,sommerfugl,tåke,vinter,elv,høytid,planet,internett,skiftenøkkel,klokke,sand,badedrakt,nattbord,bibliotek,gir,bagasje,veksel,organisasjon,bevis,fylkesmann,ritual,demokrati,dåp,sum,ellipse,hard,kvart,gå,kjede,lignende,virkelighet,respekt,hvilken vei,bære,undre seg,advare,støpe,berøre,falle fra hverandre,finnes
+2,ungdom,onkel,ben,stresset,følsom,melding,observasjon,rådgiver,læring,maling,kor,avslutning,internett,spiller,lek,te,jord,marihøne,natur,vår,innsjø,bursdag,komet,digitalisering,skrutrekker,pære,jord,skjerf,skrivebord,museum,brems,koffert,mynt,lønn,vitne,departement,seremoni,befolkning,konfirmasjon,differanse,oransje,sterk,flere,springe,sekvens,forskjellig,liv,lojalitet,hvilket tidspunkt,løfte,tvile,uttrykke seg,smi,inhalere,utvikle seg,begynne
+2,voksen,kusine,lår,irritert,impulsiv,samtale,motivasjon,journalist,kunnskap,pensel,låt,dialog,nettavis,trener,konkurranse,kaffe,vann,edderkopp,fjell,sommer,hav,alder,meteor,elektronisk,tang,lampe,jern,bukseben,gardin,teater,speil,ryggsekk,seddel,utgift,kontrakt,byråd,høytid,samfunn,folkedans,produkt,lilla,svak,ekstra,krype,endring,identisk,død,ansvar,hvem sin tur,kaste,forestille,lovprise,lage musikk,puste,tilpasse,avslutte
+2,eldre,fetter,kne,frustrert,tålmodig,dialog,ambisjon,dataprogrammerer,ferdighet,lerret,vers,skildring,blogg,mål,kort,smake,sollys,insekter,fjord,høst,øy,liv,asteroide,maskin,bor,lyspære,stål,bukselomme,sengesett,kino,lykt,hotellrom,handel,inntekt,avtale,lovgivning,påske,likestilling,folkedrakt,kvotient,rosa,lys,tilstrekkelig,klatre,påvirkning,sammenlignet,overlevelse,trofasthet,hvor lenge,sparke,forestille seg,diskutere,komponere,tygge,transformere,lykkes
+2,tenåring,nevø,legg,engstelig,utålmodig,telefonere,intensjon,designer,utvikling,form,refreng,spørsmål,sosiale medier,poeng,domino,spise,skygge,flue,myr,skyer,kyst,fortid,galakse,robot,drill,skriver,kobber,knapp,dyne,fabrikk,vindu,resepsjon,butikk,kostnad,paragraf,nasjonalforsamling,jul,ulikhet,festival,brøk,brun,mørk,nok,falle,påvirke,analog,eksistens,solidaritet,hvilken retning,snurre,konsentrere seg,argumentere,fotografere,sluke,regenerere,anta
+3,barnunge,niese,fot,nervøs,sjalu,ringe,mening,tekniker,utdanning,farge,konsert,svar,undertekst,friidrett,quiz,drikke,mose,mygg,klippe,skydekke,strand,nåtid,kosmos,programmering,fil,skanner,aluminium,glidelås,gardinstang,butikk,dør,bestilling,marked,budsjett,regel,parlamentsvalg,ramadan,kjønnsroller,høytid,desimal,grå,nyanse,for mye,gli,resultere,parallell,tilstedeværelse,toleranse,hva tid på dagen,rulle,memorere,overbevise,filme,binde,metamorfosere,klare
+3,tenåringsgutt,søskenbarn,tå,overrasket,misunnelig,historie,overbevisning,maskinist,pensum,linje,plate,notat,kanaler,styrketrening,dataspill,koke,sopp,møll,foss,temperatur,skog,fremtid,stjernebild,kode,skrujern,kopimaskin,bly,støvlett,speil,hotell,tak,reservasjon,lønn,regnskap,forskrift,administrasjon,sabbat,migrasjon,midsommer,måle,kontrast,kontrast,for lite,skli,skape,kontrast,nærvær,samarbeid,hvordan fungerer,ro,analysere,beskrive,animere,rive,fermentere,fortsette
+3,tenåringsjente,kollega,frisk,sjalu,sta,fortelling,dagdrøm,operatør,kurs,stil,album,utkast,sending,aerobics,videospill,steke,jordtype,pinnsvin,elvebredd,varme,fjord,øyeblikk,månestein,algoritme,målebånd,kamera,olje,sandalette,bokhylle,hostel,bensintank,sightseeingbuss,budsjett,revisjon,sivil,regjering,sjel,innvandring,Sankthans,lengde,stjerne,rund,altfor,svømme,utløse,ulikhet,fravær,verdighet,hvorfor ikke,padle,reflektere,rapportere,programmere,servere,forvitre,bli nødt til
+3,sjef,kjæreste,syk,misunnelig,bestemt,vits,analyse,assistent,undervisning,dekorasjon,øvelse,publisering,sendingstid,yoga,strikking,grille,blomsterknopp,rådyr,skogbunn,kulde,grense,midnatt,romferd,utvikling,vater,ventilator,bensin,joggesko,skjenk,garasje,bilsete,utflukt,regnskap,markedsføring,straffbar,demokrati,moral,flyktning,karneval,vekt,diamant,firkant,over,fly,oppstå,forskjell,levende,ydmykhet,hvem kan,kjøre,spekulere,presentere,restaurere,tilby,forvandle,tillate
+3,venninne,partner,helse,stolt,ambisiøs,instruksjon,refleksjon,bibliotekar,studium,ornament,publikum,trykk,reklamepause,pilates,hekling,bake,frukt,hest,tåkesky,uvær,hovedstad,middagstid,romstasjon,prosess,håndsag,ovn,gass,dress,skuff,fyrtårn,lastebil,opphold,investering,reklame,lovgivning,diktatur,etikk,arbeidsledighet,seremoni,volum,hjertet,trekantet,under,ro,kausalitet,sammenheng,døende,stolthet,hva er,bremse,evaluere,påpeke,modellere,dra,intensivere,nekte
+3,kamerat,ektefelle,hud,skamfull,arbeidsom,forklaring,kreativitet,administrativ,forelesning,håndverk,applaus,leser,videospill,dans,frimerkesamling,røre,bær,elefant,storm,storm,provins,soloppgang,romforskning,testing,stikksag,komfyr,kull,slips,stolpute,stadion,varebil,turisme,aksje,distribusjon,rettssystem,folkeavstemning,bønnestund,sosialarbeid,ritual,temperatur,kryss,skarp,dobbelt,padle,logikk,samsvar,midlertidig,integritet,når skal,akselerere,reflektere over,annonsere,skrive dikt,skyve,svekke,ha lov til
+3,kone,samboer,blod,skyldig,morsom,dialekt,oppfinnsomhet,ingeniør,seminar,kreativitet,noter,litteratur,serie,ishockey,håndverk,skjære,korn,løve,lyn,lyn,område,solnedgang,romvitenskap,analyse,baufil,kjøleskap,sement,støvler,benk,arena,traktor,flyreise,obligasjon,logistikk,rettslig,sosialpolitikk,meditasjon,omsorg,kunst,areal,pil,myk,tredobbelt,kjøre,begrunnelse,overensstemmelse,permanent,likhet,hvor ligger,stoppe,forklare for seg selv,tilstå,koreografere,klappe,styrke,se ut til
+3,ektemann,kjære,muskel,trygg,humoristisk,aksent,resonnering,advokat,praksis,fantasi,orkester,poesi,dokumentar,tennis,DIY,kutte,plantevern,tiger,torden,torden,distrikt,årstid,planetering,statistikk,knipetang,fryser,betong,sandaler,skoskap,badehus,scooter,togreise,kapital,produksjon,rettsprosess,økonomisk politikk,læresetning,velferd,håndverk,omkrets,kant,bølget,hel,bremse,reaksjonsmåte,forskjellighet,konstant,ulikhet,hvorfor skjer,starte,betrakte,intervjue,tegne kart,samle,erstatte,virke som
+3,kollega,venninne,ledd,usikker,klok,uttrykk,logikk,politi,studieteknikk,inspirasjon,komponist,dramatikk,reklame,badminton,brettspillkveld,helle,hekk,bjørn,dyreliv,regnvær,kommune,vår,jordbane,energi,skiftenøkkel,vaskemaskin,granitt,hansker,skittentøyskurv,brygge,rickshaw,bussreise,formue,forretningsidé,anklage,skattepolitikk,trosbekjennelse,eldreomsorg,historie,sirkel,hjørne,spiral,portion,akselerere,årsaksforhold,tilsvarende,skiftende,rettferdig,hvilken grunn,snu,oppfatte,referere,designe klær,ta på,rekonstruere,gjøre ferdig
+3,leder,kamerat,nerve,håpefull,intelligent,kroppsspråk,strategi,brannmann,repetisjon,uttrykk,dirigent,fabel,podcast,golf,lego-bygging,tallerken,plantevern,ulv,plantevekst,regndråpe,bydel,sommer,månebane,kraft,skruestikke,tørketrommel,marmor,frakk,vaskemaskin,brostein,taxi,cruise,økonomi,investering,tiltale,utenrikspolitikk,skrifter,barnevern,kulturarv,kvadrat,mønster,polygon,mengde,stoppe,årsaksforklaring,analogi,endring,urettferdig,hva heter,dreie,erkjenne,diskutere videre,lage smykker,,vokse sakte,holde på å
+4,medarbeider,svigermor,hjerte,ensom,kreativ,mimikk,målsetting,arkitekt,gruppearbeid,originalitet,improvisasjon,eventyr,reportasje,kampsport,modellbygging,kopp,gartner,rev,flora,tåkesky,sentrum,høst,lysår,celle,hammerbor,ubåt,kalk,kåpe,tørketrommel,port,drosje,seiling,innskudd,aksje,jury,forsvarspolitikk,hellig,kriminalomsorg,språk,trekant,sirkelbue,rombe,volum,starte,motivasjon,forhold,utvikling,velstand,hvem gjorde,bevege,begrunne,fortelle historie,lage kunst,,utvikle ferdighet,være til stede
+4,arbeidstaker,svigerfar,lunge,takknemlig,fantasifull,gest,problemløsning,økonom,diskusjon,komposisjon,musikknotasjon,saga,skuespill,karate,hobbyrom,kniv,hagearbeid,hjort,fauna,vindkast,forstad,vinter,svart hull,organisme,meisel,motorsykkel,messing,blazer,oppvaskmaskin,leilighet,tralle,ekspedisjon,uttak,aksjemarked,rettssak,miljøpolitikk,helligdom,miljøvern,fortelling,rektangel,sektor,trekantvinkel,kapasitet,snu,interaksjon,sammenligne,stabilitet,fattigdom,hva betyr,spasere,overveie,spørre om,komponere sang,,forbedre kvalitet,bli ferdig
+4,forsker,svigersønn,lever,ydmyk,pålitelig,signal,fokus,revisor,spørsmålsstilling,estetikk,musikkvideo,roman,komedie,judo,kunsthåndverk,gaffel,hagebruk,elg,jakt,bris,boligområde,tidsplan,nebulosa,forskning,stikktang,fly,bronse,veske,kjøleskap,slott,vogntog,utforskning,overføring,økonomi,domfellelse,strategi,bønnematte,bærekraft,legende,formel,kvadratmeter,diagonal,antall,dreie,fremkalle,relativ,ubalanse,frihet,hvordan lage,jogge,forutsi,svare på,designe rom,,bryte mønster,ha ansvar
+4,lege,svigerdatter,nyre,fornøyd,lojal,grammatikk,konsentrasjon,pilot,motivasjon,visuell kunst,konsertopptreden,essay,drama,boksing,keramikk,skje,frøplanting,skilpadde,fiske,overskyet,bygning,tidsrom,supernova,oppfinnelse,drillbit,robot,gull,ryggsekk,fryser,tårn,fly,sightseeing,finans,konkurranse,frifinnelse,beslutning,gudstjeneste,klima,myte,ligning,geometrisk,radius,sum,bevege,frembringe,relativt,fenomen,sannhet,hvorfor velge,springe,tenke igjennom,argumentere for,bygge modell,,endre mening,gjøre klart
+4,sykepleier,svigerinne,sår,optimistisk,ansvarlig,diskusjon,oppmerksomhet,kunstner,forståelse,idé,lydopptak,manus,reality,friidrettsøvelser,keramikkmaleri,middag,stikling,krokodille,tur,tropisk,tårn,tidsintervall,kosmisk stråling,oppdagelse,borr,droner,sølv,solbriller,komfyr,bro,børs,attraksjon,valutakurs,kapital,arrest,valgkamp,menighet,minoritet,eventyr,variabel,symmetri,diameter,differanse,bevegelse,generere,likhet,subjekt,rettferdighet,hva skjedde,løpe etter,gruble,forklare nøye,lage skulptur,,forandre utseende,skal kunne
+4,politiker,svoger,feber,pessimistisk,selvsikker,debatt,innsikt,musiker,trening,konsept,mikrofon,forteller,konkurranse,hopping,utendørslek,frokost,buskvekst,slange,fjelltur,polar,kirke,tidslinje,planetarisk system,mikroskop,skiftenøkkelsett,elektrisk bil,harpiks,klokke,ovn,kirke,helikopter,museum,økonomisk,profitt,politiaksjon,partiprogram,kloster,majoritet,skikker,konstant,asymmetri,,total,bevegelighet,initiere,uoverensstemmelse,objekt,kjærlighet,hvem sier,løpe vekk,fundere,beskrive detaljert,skrive novelle,,modnes gradvis,vil gjerne
+4,turist,forlovede,smerte,kjærlig,sjenert,foredrag,forståelse,skuespiller,veiledning,prosjekt,høyttaler,hovedperson,talkshow,kasting,camping,lunsj,vanning,frosk,leir,fuktighet,moské,skuddår,galaktisk,teleskop,universaltang,traktor,fiber,smykke,mikrobølgeovn,moské,ubåt,nasjonalpark,profitt,tap,etterforskning,koalisjon,pilgrimsreise,etnisitet,folk,prosent,rund,,gjennomsnitt,retning,påvirkningskraft,samsvarende,entitet,moral,hva ønsker,løpe opp,analysere nøye,rapportere hendelse,male bilde,,bygge opp tillit,kan utføre
+4,innvandrer,barnebarn,tretthet,avvisende,forsiktig,presentasjon,evaluering,forfatter,studieplan,utstilling,øvingsrom,biperson,talkprogram,konkurranse,fiske,kveldsmat,høsting,øgle,telt,lufttrykk,tempel,tidsmåling,stjernesystem,kjemisk reaksjon,sparkel,gravemaskin,polymer,ring,kaffemaskin,tempel,elbil,strand,tap,innovasjon,forbrytelse,makt,ånd,identitet,identitet,prosentandel,firkant,,rest,kurs,utløser,harmonisk,substans,etikk,hvor finner,hoppe ned,tenke kreativt,uttrykke følelser,tegne portrett,,falle sammen,må gjøre
+4,beboer,oldemor,kvalme,sårbar,risikovillig,rapport,overveielse,forsker,mentor,atelier,musikkstudio,handling,musikkvideo,turnering,friluft,sukker,dekorasjon,hai,økosystem,stormfullt,halvøy,klokke,eksoplanet,DNA,skrape,hjullaster,akryl,halskjede,vannkoker,kapell,hybridbil,fjell,balanse,entreprenør,rettssikkerhet,ledelse,offer,kulturarv,kulturutveksling,proporsjon,trekantet,,overskudd,vei,konsekvensfull,symmetrisk,kvalitet,tro,hvem eier,svømme over,planlegge strategisk,presentere idé,sy klær,,reparere skader,bør prøve
+4,søskenbarn,oldefar,hodepine,nysgjerrig,målrettet,artikkel,vurderingsevne,leder,veileder,galler,musikkterapi,tema,vlog,kamp,eventyrspill,salt,aromatisk,delfin,miljø,ekstremvær,ørken,ur,himmelske legemer,kunstig intelligens,sandpapir,maskin,keramikk,armbånd,blender,kontorbygg,elektrisk sykkel,byvandring,fond,prosjekt,menneskerettigheter,statsapparat,sakrament,diskriminering,kulturminne,statistikk,skarp,,underskudd,rute,virkningsfull,usymmetrisk,karakter,ånd,hva trenger,gå rundt,huske detaljer,kommentere sak,dekorere rom,,redusere risiko,kunne mestre
+5,partner,adoptivmor,svimmelhet,irritasjon,målbevisst,notat,oppdagelse,sjef,bibliotektjeneste,kunstner,karaoke,motiv,influencer,friluftsliv,strategi,pepper,krydderplante,hval,forurensning,nedbør,jungel,alarm,teleskopobservasjon,innovasjon,maskin,maskineri,porselen,hårbånd,kjøkkenbord,kjøpesenter,sparkesykkel,guide,portefølje,ledelse,straffedom,organisasjon,dåp,rasisme,kulturinstitusjon,gjennomsnitt,myk,,prosent,sti,hendelsesforløp,sammenlignelig,essens,sjel,hvordan vet,krype under,forstå sammenhenger,dele erfaring,lage mosaikk,,øke hastighet,måtte vente
+5,kjæreste,adoptivfar,sykdom,spenthet,empatisk,dikt,filosofi,manager,e-læring,arkitektur,musikkformidling,konflikt,anmeldelse,fjelltur,rollespill,krydder,tropisk plante,sjøløve,resirkulering,tørke,savanne,ettermiddag,universets historie,oppfinner,vinkelsliper,motorstyring,vinyl,skohette,kjøkkenstol,skyskraper,skateboard,reisemål,eiendom,forretningsplan,bøter,lovverk,nattverd,menneskerettigheter,museum,median,bølget,,andel,bane,følgevirkning,ikke-sammenlignbar,natur,bevissthet,hvilken metode,løpe raskt,forestille seg muligheter,lese høyt,smi smykker,,utvide område,ville handle
+5,spiller,bonusforelder,forkjølelse,bekymret,kynisk,definisjon,persepsjon,trener,undervisningsmetode,installasjon,jazz,klimaks,kritikk,padling,rollespillverden,ris,jungel,pingvin,bærekraft,stormvarsel,tundra,århundre,astronomi,vitenskapelig metode,multiverktøy,generator,lin,poncho,spisebord,fasade,rullebrett,pakke,forsikring,strategi,forvaring,rettferdighet,frelse,ytringsfrihet,bibliotek,modus,spiral,,variasjon,diagonalt,dominans,analogt,status,kunnskap,hvem vil,løpe sakte,vurdere alternativer,advare mot,forme leire,,krympe størrelse,tørre prøve
+5,atlet,familie,pleie,begeistret,optimistisk,oversettelse,idéutvikling,konsulent,forskning,performance,klassisk,sjanger,premieren,kano,cosplay,pasta,plantevekst,panda,villmark,orkan,vulkan,tiår,astronom,teori,skrustikke,batteri,linoleum,cardigan,spiseplass,konstruksjon,ski,opplevelse,pensjon,franchise,rettsinstans,offentlige tjenester,karma,fattigdomsbekjempelse,festivalprogram,sannsynlighet,polygon,,deling,transportere,utløsning,parallelt,posisjon,visdom,hvorfor spør,hoppe høyt,reflektere kritisk,be om hjelp,designe logo,,svinne bort,ønsker å
+5,idrettsutøver,slektning,medisin,tristhet,pessimistisk,tolk,kreativ tanke,oversetter,analyse,filmkunst,rock,kritik,abonnent,kajakk,samling,nudler,næring,koala,nasjonalpark,tornado,innsjøområde,nyttår,univers,modell,beslag,solcelle,asbest,fashion,entre,arkitektur,kjelke,oppdagelse,trygd,forretningsmodell,vitneforklaring,offentlig sektor,dharma,sosial inkludering,feiring,graf,rombe,,multiplikasjon,trekke,konsekvenskjede,kontrasterende,dimensjon,intelligens,hvem sin idé,hoppe lavt,drømme seg bort,intervjue person,lage film,,regenerere vev,pleie å
+5,deltaker,familiemedlem,skjelett,sjokkert,energisk,språkferdighet,planlegging,tolk,presentasjon,digital kunst,pop,analyse,voiceover,fiske,malingsteknikk,olje,fotosyntese,aper,reservat,lynstorm,industriområde,jul,,simulering,mutter,motorolje,sementblanding,mote,gang,design,slede,reiseforsikring,bonus,fortjeneste,prosedyre,embetsverk,meditasjonsøvelse,toleranse,parade,diagram,trekantvinkel,,tillegg,dytte,kjedereaksjon,evaluere,tilværelse,skjønnhet,,gli ned,spekulere videre,fortelle sannhet,animere figur,,helbrede sår,bli nødt til å
+5,medlem,husstand,influensa,deprimert,rettferdig,kommunikasjon,strategiutvikling,veileder,prosjekt,collage,elektronisk,referat,programleder,jakt,tegneteknikk,eddik,pollinering,gorilla,naturvern,snøstorm,turiststed,påske,,feltarbeid,bolt,maskindel,sementmørtel,,soverom,renovering,paraglider,valuta,provisjon,ressurs,siktelse,regjeringstjeneste,trosretning,solidaritet,samling,koordinat,diagonal,,reduksjon,dra,ettervirkning,målestokk,virke,sannsynlighet,,snurre rundt,undre seg over,forklare konsept,komponere musikk,,tilpasse seg miljø,finnes alltid
+5,innbygger,omsorgsperson,allergi,frydefull,urettferdig,kommunikasjonsevne,analyseferdighet,sikkerhetsvakt,læringsmål,inspirasjonskilde,hiphop,oppsummering,redaksjon,maraton,hobbyklubb,ål,insekt,sjimpanse,bevaring,snøfall,kulturarv,levetid,,teknologiutvikling,justeringsverktøy,verktøy,blanding,,stue,byggmester,hangglider,pass,utbytte,strategiutvikling,juridisk,politisk system,religiøs praksis,frivillighet,arrangement,tallinje,radius,,overflod,løfte,konsekvensanalyse,,funksjon,urett,,rulle bort,tvile på,diskutere problem,konstruere modell,,transformere idé,fortsette arbeidet
+5,gjest,brud,behandling,euforisk,sjenerøs,høytlesning,logisk tenkning,entreprenør,kompetanse,kunsthistorie,reggae,perspektiv,produksjon,stafett,sportshobby,øl,bie,løveunge,klimaendring,klima,historisk sted,evighet,,automatisering,,apparat,materiale,,bad,murstein,trikkeskinner,visum,butikkjeder,økonomistyring,,politikkfelt,åndelig praksis,frivillig arbeid,markering,måleenhet,diameter,,knapphet,senke,effektmål,,aktivitet,,,trekke til seg,anta riktig,informere publikum,skrive manus,,metamorfosere form,begynne nytt
+5,klient,brudgom,operasjon,sinneutbrudd,generøs,argument,konsept,,ferdighetsutvikling,designprosess,,synsvinkel,instruksjon,hinderløype,rubiks,brus,fugl,kattunge,jordbruk,klimasoner,monument,,,,,instrument,substans,,toalett,betong,toglinje,turguide,,partnerskap,,president,trosfellesskap,urbanisering,kulturell praksis,radius,,,begrensning,fremdrift,,,passivitet,,,skyve bort,konsentrere seg godt,uttrykke mening,male vegg,,fermentere mat,avslutte prosjekt
+6,pasient,forlover,vaksine,,egoistisk,argumentasjon,idémyldring,,,formgivning,,bibliografi,event,svømmehall,,eple,alger,,global oppvarming,,slott,,,,,,kjemikalie,,,treverk,togstasjon,,,virksomhet,,,pilegrim,landsbygd,tradisjonsbevaring,diameter,,,kvote,,,,transformasjon,,,hinke frem,evaluere situasjon,annonsere nyhet,tegne skisse,,forvitre materiale,lykkes med
+6,kunstner,ektepar,rehabilitering,,ego-sentrert,retorikk,prioritering,,,skaperkraft,,kilde,festival,,,banan,blomstring,,,,,,,,,,,,,metallstruktur,flyplass,,,,,,,samfunnsutvikling,lokal kultur,,,,,,,,mangler,,,skli på is,,spørre spørsmål,lage keramikk,,modne frukt,tillate handling
+6,skuespiller,verge,,,samarbeidsvillig,formidling,erfaringsoverføring,,,,,redigering,,,,appelsin,,,,,,,,,,,,,,moderne bygg,,,,,,,,,,,,,,,,,,,,løpe i sirkel,,svare ærlig,bygge hus,,forvandle rom,nekte tilbud
+6,musiker,mentor,,,konkurranseorientert,kommunikasjonsteknologi,,,,,,korrektur,,,,sitron,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,falle bakover,,,designe møbel,,intensivere farge,ha lov til å
+6,forfatter,beskytter,,,,taleevne,,,,,,litteraturhistorie,,,,tomat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,snuble over,,,,,svekke strukturen,anta riktig
+6,prest,familiestøtte,,,,,,,,,,,,,,agurk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,løpe til,,,,,styrke muskler,se ut til å
+6,prestinne,familieoverhode,,,,,,,,,,,,,,salat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,hoppe til siden,,,,,erstatte deler,virke sann
+6,helt,,,,,,,,,,,,,,,løk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,svømme raskt,,,,,rekonstruere bygning,gjøre ferdig oppgave
+6,heltinne,,,,,,,,,,,,,,,gulrot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,spasere sakte,,,,,,klare oppgaven
+6,filosof,,,,,,,,,,,,,,,ert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gå frem,,,,,,holde på å starte
+7,lederfigur,,,,,,,,,,,,,,,bønne,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,gå tilbake,,,,,,
+7,diktator,,,,,,,,,,,,,,,mais,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,balansere,,,,,,
+7,,,,,,,,,,,,,,,,sopp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,balansere på line,,,,,,
+7,,,,,,,,,,,,,,,,nøtter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,krype inn,,,,,,
+7,,,,,,,,,,,,,,,,mandel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,krype ut,,,,,,
+7,,,,,,,,,,,,,,,,olivenolje,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,løpe om kapp,,,,,,
+7,,,,,,,,,,,,,,,,appelsin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,transportere,,,,,,
+7,,,,,,,,,,,,,,,,sitron,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bevegelighet,,,,,,
+7,,,,,,,,,,,,,,,,pære,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bevegelse,,,,,,
+7,,,,,,,,,,,,,,,,plomme,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,fremdrift,,,,,,
+8,,,,,,,,,,,,,,,,fersken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,retning,,,,,,
+8,,,,,,,,,,,,,,,,nektarin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kurs,,,,,,
+8,,,,,,,,,,,,,,,,kirsebær,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,vei,,,,,,
+8,,,,,,,,,,,,,,,,granateple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,rute,,,,,,
+8,,,,,,,,,,,,,,,,skinke,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sti,,,,,,
+8,,,,,,,,,,,,,,,,reker,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bane,,,,,,
+8,,,,,,,,,,,,,,,,tunfisk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,,,,,,,,,,,,,,,,sild,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,,,,,,,,,,,,,,,,krabbe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,,,,,,,,,,,,,,,,blåskjell,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,,,,,,,,,,,,,,,,aubergine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,,,,,,,,,,,,,,,,squash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,,,,,,,,,,,,,,,,rødbeter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,,,,,,,,,,,,,,,,selleri,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,,,,,,,,,,,,,,,,reddik,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,,,,,,,,,,,,,,,,fennikel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,,,,,,,,,,,,,,,,asparges,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,,,,,,,,,,,,,,,,avocado,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,,,,,,,,,,,,,,,,valnøtter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,,,,,,,,,,,,,,,,hasselnøtter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,,,,,,,,,,,,,,,,peanøtter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,,,,,,,,,,,,,,,,cashewnøtter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,,,,,,,,,,,,,,,,solsikkeolje,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,,,,,,,,,,,,,,,,smørbrød,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,,,,,,,,,,,,,,,,suppe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,,,,,,,,,,,,,,,,saus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,,,,,,,,,,,,,,,,dessert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,,,,,,,,,,,,,,,,kake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,,,,,,,,,,,,,,,,sjokolade,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,,,,,,,,,,,,,,,,iskrem,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,,,,,,,,,,,,,,,,yoghurt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,,,,,,,,,,,,,,,,krydret,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,,,,,,,,,,,,,,,,søt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,,,,,,,,,,,,,,,,saltet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,,,,,,,,,,,,,,,,sur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,,,,,,,,,,,,,,,,bitter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,,,,,,,,,,,,,,,,smakfull,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,,,,,,,,,,,,,,,,rå,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,,,,,,,,,,,,,,,,stekt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,,,,,,,,,,,,,,,,kokt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,,,,,,,,,,,,,,,,bakt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,,,,,,,,,,,,,,,,grillet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,,,,,,,,,,,,,,,,dampet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,,,,,,,,,,,,,,,,marinert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,,,,,,,,,,,,,,,,frokostblanding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,,,,,,,,,,,,,,,,havregryn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,,,,,,,,,,,,,,,,spaghetti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,,,,,,,,,,,,,,,,maisstivelse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,,,,,,,,,,,,,,,,honning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,,,,,,,,,,,,,,,,syltetøy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,,,,,,,,,,,,,,,,ketchup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,,,,,,,,,,,,,,,,sennep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,,,,,,,,,,,,,,,,majones,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,,,,,,,,,,,,,,,,pickles,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,,,,,,,,,,,,,,,,brunsaus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,,,,,,,,,,,,,,,,fiskesaus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,,,,,,,,,,,,,,,,soyasaus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,,,,,,,,,,,,,,,,tomatsaus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,,,,,,,,,,,,,,,,pesto,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,,,,,,,,,,,,,,,,basilikum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,,,,,,,,,,,,,,,,oregano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,,,,,,,,,,,,,,,,timian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,,,,,,,,,,,,,,,,rosmarin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,,,,,,,,,,,,,,,,persille,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,,,,,,,,,,,,,,,,dill,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,,,,,,,,,,,,,,,,kanel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,,,,,,,,,,,,,,,,ingefær,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,,,,,,,,,,,,,,,,kardemomme,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,,,,,,,,,,,,,,,,muskatnøtt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,,,,,,,,,,,,,,,,paprika krydder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,,,,,,,,,,,,,,,,chili pulver,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,,,,,,,,,,,,,,,,hvit pepper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,,,,,,,,,,,,,,,,grønnsaksbuljong,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,,,,,,,,,,,,,,,,kjøttbuljong,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,,,,,,,,,,,,,,,,fiskebuljong,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,,,,,,,,,,,,,,,,melkekrem,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,,,,,,,,,,,,,,,,fløte,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,,,,,,,,,,,,,,,,rømme,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,,,,,,,,,,,,,,,,margarin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,,,,,,,,,,,,,,,,vegetabilsk olje,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,,,,,,,,,,,,,,,,limejuice,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,,,,,,,,,,,,,,,,tomatpuré,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,,,,,,,,,,,,,,,,brødsmuler,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,,,,,,,,,,,,,,,,mel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,,,,,,,,,,,,,,,,hvetemel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,,,,,,,,,,,,,,,,grovt mel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,,,,,,,,,,,,,,,,maismel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,,,,,,,,,,,,,,,,gjær,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,,,,,,,,,,,,,,,,bakepulver,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,,,,,,,,,,,,,,,,natron,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,,,,,,,,,,,,,,,,vanilje,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,,,,,,,,,,,,,,,,sjokoladekake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,,,,,,,,,,,,,,,,eplekake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,,,,,,,,,,,,,,,,rundstykke,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,,,,,,,,,,,,,,,,baguette,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,,,,,,,,,,,,,,,,croissant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,,,,,,,,,,,,,,,,muffins,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,,,,,,,,,,,,,,,,smørbrødskive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,,,,,,,,,,,,,,,,pålegg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,,,,,,,,,,,,,,,,storfekjøtt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
