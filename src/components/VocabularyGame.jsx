@@ -280,6 +280,7 @@ function VocabularyGame({ onBack }) {
     if (categoriesLoading) {
         return (
             <div className="loading-container">
+                <div className="spinner"></div>
                 <h1>Loading categories...</h1>
             </div>
         )
@@ -309,8 +310,8 @@ function VocabularyGame({ onBack }) {
             <>
                 <div className="game-header">
                     <button onClick={onBack} className="back-button">← Main Menu</button>
-                    <div style={{ textAlign: 'center', flex: 1 }}>
-                        <h1>Norwegian Quiz</h1>
+                    <div style={{ textAlign: 'center', flex: 1, fontSize: '0.6rem', marginBottom: '-1rem' }}>
+                        <h1>Norwegian Vocabulary</h1>
                     </div>
                 </div>
                 <p className="subtitle">Choose a category to start learning</p>
@@ -345,7 +346,7 @@ function VocabularyGame({ onBack }) {
                             )}
                         </div>
                     ))}
-
+                    {/* 
                     <div className="category-group">
                         <h3 className="group-title">Mix Mode</h3>
                         <div className="category-grid">
@@ -353,7 +354,7 @@ function VocabularyGame({ onBack }) {
                                 Start Mix Mode
                             </button>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </>
         )
