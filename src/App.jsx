@@ -8,9 +8,9 @@ function App() {
 
   const renderMenu = () => (
     <div className="main-menu">
-      <div class="heading-container">
+      <div className="heading-container">
+        <span className="emoji-flag">🇳🇴</span>
         <h1>Norwegian Vocabulary Learning App</h1>
-        <span class="emoji-flag">🇳🇴</span>
       </div>
       {/* <p className="subtitle">Select a mode to start learning</p> */}
 

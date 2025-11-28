@@ -279,10 +279,8 @@ function VocabularyGame({ onBack }) {
     // Show loading state
     if (categoriesLoading) {
         return (
-            <div style={{ textAlign: 'center', padding: '50px' }}>
-                <div style={{ textAlign: 'center', padding: '50px' }}>
-                    <h1>Loading categories...</h1>
-                </div>
+            <div className="loading-container">
+                <h1>Loading categories...</h1>
             </div>
         )
     }
@@ -310,10 +308,10 @@ function VocabularyGame({ onBack }) {
         return (
             <>
                 <div className="game-header">
-                    <button onClick={onBack} className="back-button">
-                        ← Main Menu
-                    </button>
-                    <h1>Norwegian Quiz</h1>
+                    <button onClick={onBack} className="back-button">← Main Menu</button>
+                    <div style={{ textAlign: 'center', flex: 1 }}>
+                        <h1>Norwegian Quiz</h1>
+                    </div>
                 </div>
                 <p className="subtitle">Choose a category to start learning</p>
 
