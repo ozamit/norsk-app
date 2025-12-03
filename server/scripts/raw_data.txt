@@ -1,0 +1,2970 @@
+Ord	Setning
+jeg	Jeg går en tur i dag.
+du	Du finner løsningen ganske lett.
+han	Han leser boka hver kveld.
+hun	Hun lager middag til hele familien.
+vi	Vi jobber sammen på prosjektet.
+dere	Dere kommer alltid litt for sent.
+de	De spiller fotball etter skolen.
+mann	Mannen snakker høyt på møtet.
+kvinne	Kvinnen skriver et langt brev.
+gutt	Gutten løper raskt til bussen.
+jente	Jenta synger fint i koret.
+barn	Barn leker ute i hagen.
+venn	Vennen hjelper meg med flytting.
+nabo	Naboen klipper plenen hver søndag.
+lærer	Læreren forklarer oppgaven veldig tydelig.
+student	Studenten leser hele natten før prøven.
+ungdom	Ungdom går ofte på kino sammen.
+voksen	Voksne tar ansvar i vanskelige situasjoner.
+eldre	Eldre trenger litt ekstra hjelp hjemme.
+tenåring	Tenåringen vil helst være alene.
+barnunge	Barnungen roper høyt etter oppmerksomhet.
+tenåringsgutt	Tenåringsgutten spiller dataspill hver kveld.
+tenåringsjente	Tenåringsjenta liker å skrive historier.
+sjef	Sjefen tar den endelige avgjørelsen.
+venninne	Venninnen besøker meg nesten hver helg.
+kamerat	Kameraten min hjelper alltid til.
+kone	Kona lager kaffe hver morgen.
+ektemann	Ektemannen reparerer bilen i garasjen.
+kollega	Kollegaen min støtter ideene mine.
+leder	Lederen presenterer planen på møtet.
+medarbeider	Min medarbeider hjalp meg med prosjektet.
+arbeidstaker	Alle arbeidstakere har rett til ferie.
+forsker	Forskeren studerer klimaendringer.
+lege	Legen ga meg en resept.
+sykepleier	Sykepleieren er veldig omsorgsfull.
+politiker	Politikeren holdt en tale i går.
+turist	Turisten tok et bilde av fjorden.
+innvandrer	Familien er en ny innvandrer i byen.
+beboer	Hver beboer må betale husleie.
+søskenbarn	Mitt søskenbarn bor i Bergen.
+partner	Vi skal diskutere planen med vår partner.
+kjæreste	Han skal møte sin kjæreste i kveld.
+spiller	Spilleren scoret et flott mål.
+atlet	Atleten løp maraton på rekordtid.
+idrettsutøver	Hun er en kjent idrettsutøver fra Norge.
+deltaker	Det var mange deltakere i konkurransen.
+medlem	Han er et aktivt medlem av klubben.
+innbygger	Hver innbygger kan stemme ved valget.
+gjest	Vi ønsker våre gjester velkommen.
+klient	Advokaten snakket med sin klient.
+pasient	Pasienten venter på undersøkelse.
+kunstner	Kunstneren malte et vakkert portrett.
+skuespiller	Skuespilleren vant en pris for rollen.
+musiker	Musikeren spilte fiolin på konserten.
+forfatter	Forfatteren leste fra sin nye bok.
+prest	Presten holdt gudstjeneste i kirken.
+prestinne	I gamle dager tjente en prestinne tempelet.
+helt	Brannmannen var en helt etter redningsaksjonen.
+heltinne	Hun ble hyllet som en heltinne for motet sitt.
+filosof	Filosofen skrev om etikk og moral.
+lederfigur	Hun er en sterk lederfigur i samfunnet.
+diktator	Diktatoren hadde all makt i landet.
+mor	Min mor baker det beste brødet.
+far	Min far lærte meg å sykle.
+søster	Jeg har en eldre søster som studerer.
+bror	Min bror spiller fotball hver uke.
+barn	Ett barn leker i parken.
+venn	Min beste venn flyttet til utlandet.
+nabo	Vår nye nabo er veldig hyggelig.
+morfar	Morfar min fortalte meg en historie.
+mormor	Mormor strikket en genser til meg.
+farfar	Farfar pleide å jobbe som fisker.
+farmor	Farmor er flink til å lage kaker.
+bestemor	Bestemor passer på katten vår i ferien.
+bestefar	Bestefar tok oss med på tur i skogen.
+datter	Min datter begynner på skolen i høst.
+sønn	Vår sønn studerer medisin i Oslo.
+tante	Tante min sendte meg et kort i posten.
+onkel	Jeg besøker min onkel i helgen.
+kusine	Min kusine og jeg er like gamle.
+fetter	Fetteren min bor i en annen by.
+nevø	Min nevø er veldig glad i å tegne.
+niese	Min niese fylte fem år i går.
+søskenbarn	Jeg møtte mitt søskenbarn på festen.
+kollega	Jeg spiste lunsj med en kollega i dag.
+kjæreste	Han ringte sin kjæreste fra jobben.
+partner	De to partnere driver firmaet sammen.
+ektefelle	Hun reiser til Syden med sin ektefelle.
+samboer	Min samboer heter Per.
+kjære	Hun skrev et brev til sin kjære venn.
+venninne	Jeg skal på kino med en venninne i morgen.
+kamerat	Jeg og min kamerat spiller videospill.
+svigermor	Jeg skal feire jul hos min svigermor.
+svigerfar	Svigerfar min er veldig interessert i bil.
+svigersønn	Min svigersønn er en god kokk.
+svigerdatter	Deres svigerdatter er fra Sverige.
+svigerinne	Han møtte sin svigerinne for første gang.
+svoger	Svoger min jobber som lærer.
+forlovede	De er forlovede og skal gifte seg neste år.
+barnebarn	Besteforeldrene elsker å leke med sitt barnebarn.
+oldemor	Min oldemor var født i 1920.
+oldefar	Oldefar min bygde dette huset.
+adoptivmor	Hennes adoptivmor er veldig snill.
+adoptivfar	Han bor sammen med sin adoptivfar.
+bonusforelder	Min bonusforelder tar meg med på turer.
+familie	Hele familien samles til jul.
+slektning	Vi besøkte en fjern slektning i går.
+familiemedlem	Alle familiemedlemmer hjalp til med flyttingen.
+husstand	Det er fire personer i vår husstand.
+omsorgsperson	Omsorgspersonen hjalp den gamle damen.
+brud	Bruden hadde en vakker kjole.
+brudgom	Brudgommen smilte til gjestene.
+forlover	Min beste venn var min forlover.
+ektepar	De har vært et lykkelig ektepar i ti år.
+verge	Vergen tok seg av barnets økonomi.
+mentor	Hun fikk god veiledning av sin mentor.
+beskytter	Politiet er byens beskytter.
+familiestøtte	Vi får mye familiestøtte i en vanskelig tid.
+familieoverhode	Bestefar er familieoverhode i vår slekt.
+glad	Jeg er glad for å se deg igjen.
+trist	Han ble veldig trist da katten døde.
+sint	Hun er sint på grunn av forsinkelsen.
+redd	Barnet er redd for mørket.
+rolig	Pusten hans var rolig og jevn.
+varm	Det er en varm dag i dag.
+kul	Den nye jakken hennes er veldig kul.
+lykkelig	Paret så lykkelig ut på bildet.
+frykt	Han kjente en sterk frykt i mørket.
+glede	Deres nye baby brakte stor glede.
+sorg	De delte sin dype sorg med venner.
+sinne	Sinne er ikke alltid en dårlig ting.
+humør	Hennes humør er alltid smittsomt godt.
+energi	Han har mye energi etter ferien.
+kjærlighet	Kjærlighet er viktigst i livet.
+spent	Jeg er spent på resultatet av testen.
+stresset	Hun føler seg stresset på grunn av eksamen.
+irritert	Jeg ble irritert av den høye lyden.
+frustrert	Han er frustrert over dataproblemer.
+engstelig	De var engstelige for fremtiden.
+nervøs	Nervøs førte han pennen over papiret.
+overrasket	Jeg ble overrasket av den uventede gaven.
+sjalu	Han følte seg sjalu på sin brors suksess.
+misunnelig	Jeg er litt misunnelig på din nye bil.
+stolt	Foreldrene er stolte av datteren sin.
+skamfull	Han følte seg skamfull etter feilen.
+skyldig	Hun følte seg skyldig for å ha glemt det.
+trygg	Jeg føler meg trygg når jeg er hjemme.
+usikker	Han var usikker på hvilket valg han skulle ta.
+håpefull	Jeg er håpefull for en bedre fremtid.
+ensom	Noen ganger føler hun seg litt ensom.
+takknemlig	Jeg er takknemlig for all hjelpen.
+ydmyk	Til tross for suksessen er han ydmyk.
+fornøyd	Jeg er fornøyd med resultatet.
+optimistisk	Hun er alltid optimistisk og positiv.
+pessimistisk	Han er ofte litt pessimistisk når det gjelder vær.
+kjærlig	De behandlet hverandre på en kjærlig måte.
+avvisende	Hennes holdning var kald og avvisende.
+sårbar	Hun turte å være sårbar og ærlig.
+nysgjerrig	Barnet er veldig nysgjerrig på verden.
+irritasjon	Lyden forårsaket stor irritasjon.
+spenthet	Vi kjente en stor spenthet før kampen.
+bekymret	Jeg er bekymret for det dårlige været.
+begeistret	Han var begeistret for den nye planen.
+tristhet	Tristhet preget stemningen i rommet.
+sjokkert	Vi ble sjokkert av nyhetene.
+deprimert	Hun følte seg deprimert etter tapet.
+frydefull	Han ga et frydefull rop da han vant.
+euforisk	Etter seieren var hele laget euforisk.
+sinneutbrudd	Han fikk et voldsomt sinneutbrudd.
+hode	Jeg har vondt i hodet mitt.
+hår	Hun har langt, brunt hår.
+ansikt	Han vasket sitt ansikt før han spiste.
+øye	Hun har blå øyne.
+øre	Han hørte en lyd med sitt øre.
+nese	Han tørket nesen med et lommetørkle.
+munn	Hun åpnet sin munn for å snakke.
+tann	Barnet mistet en tann i dag.
+hals	Jeg har litt vondt i halsen.
+skulder	Hun bar vesken over sin skulder.
+arm	Han brakk armen i en ulykke.
+hånd	Gi meg din hånd, så går vi.
+finger	Han pekte med fingeren.
+bryst	Han holdt hånden mot sitt bryst.
+mage	Jeg har sommerfugler i magen.
+rygg	Jeg må strekke ryggen litt.
+ben	Han løp så fort hans ben kunne bære ham.
+lår	Lårene er de sterkeste musklene i kroppen.
+kne	Han falt og skadet sitt kne.
+legg	Han trente musklene i leggen.
+fot	Jeg har kjøpt nye sko til min fot.
+tå	Jeg slo min tå mot bordet.
+frisk	Han er helt frisk igjen etter influensaen.
+syk	Hun er syk og må bli hjemme.
+helse	God helse er viktig for et godt liv.
+hud	Solkrem beskytter huden mot solen.
+blod	Hun donerte blod til sykehuset.
+muskel	Han har sterke muskler i armene.
+ledd	Leddene i fingrene verker i kulden.
+nerve	Han har en rolig nerve under press.
+hjerte	Hjertet pumper blod rundt i kroppen.
+lunge	Røyking skader lungene.
+lever	Leveren renser blodet vårt.
+nyre	Han har problemer med nyrene.
+sår	Hun fikk et lite sår på armen.
+feber	Barnet hadde høy feber i natt.
+smerte	Han tok medisin mot smerte i ryggen.
+tretthet	Hun følte en dyp tretthet etter arbeidsdagen.
+kvalme	Plutselig kjente hun seg kvalm.
+hodepine	Jeg har ofte hodepine når jeg er stresset.
+svimmelhet	Svimmelhet er et vanlig symptom.
+sykdom	Han ble rammet av en alvorlig sykdom.
+forkjølelse	Jeg har en kraftig forkjølelse nå.
+pleie	Han trengte god pleie etter operasjonen.
+medisin	Du må ta denne medisinen to ganger daglig.
+skjelett	Det menneskelige skjelettet består av 206 bein.
+influensa	Årets influensa er ekstra hard.
+allergi	Han har allergi mot pollen.
+behandling	Behandlingen var vellykket.
+operasjon	Hun må gjennomgå en operasjon neste uke.
+vaksine	Alle barn får en vaksine mot meslinger.
+rehabilitering	Han er i rehabilitering etter ulykken.
+snill	Hunden er veldig snill mot barna.
+slem	Det er slemt å lyve til andre.
+hyggelig	Det var hyggelig å treffe deg.
+vennlig	Butikkansatte var veldig vennlig.
+sterk	Han er sterk nok til å løfte den tunge boksen.
+smart	Han kom med et smart forslag.
+lat	Vær ikke lat; du må gjøre leksene dine.
+rolig	Hun forble rolig under krisen.
+kald	Været er kaldt i dag.
+modig	Han var modig da han hjalp til.
+tøff	Det er en tøff oppgave å fullføre.
+hjelpsom	Min hjelpsomme nabo bar varene inn for meg.
+omsorgsfull	Omsorgsfull personell jobber på sykehuset.
+ærlig	Vær alltid ærlig med meg.
+åpen	De hadde en åpen diskusjon om problemene.
+nysgjerrig	Barnet var nysgjerrig på den nye leken.
+følsom	Hun er en veldig følsom person.
+impulsiv	Noen ganger er han litt for impulsiv.
+tålmodig	Du må være tålmodig når du venter.
+utålmodig	Jeg blir alltid utålmodig i køer.
+sjalu	Han er sjalu på søsterens suksess.
+misunnelig	Jeg er misunnelig på deres fine hage.
+sta	Hun er veldig sta og vil ikke endre mening.
+bestemt	Hun var bestemt på å lykkes.
+ambisiøs	Han er en ambisiøs ung mann.
+arbeidsom	Hun er en svært arbeidsom student.
+morsom	Filmen var utrolig morsom.
+humoristisk	Han har en herlig humoristisk sans.
+klok	Bestefar er en klok mann.
+intelligent	Hun er en svært intelligent forsker.
+kreativ	Kreativ tenkning er viktig i design.
+fantasifull	Han har en svært fantasifull hjerne.
+pålitelig	Han er en pålitelig ansatt som alltid kommer i tide.
+lojal	Hunden er lojal mot sin eier.
+ansvarlig	Hun er ansvarlig for hele prosjektet.
+selvsikker	Han virket selvsikker da han presenterte.
+sjenert	Hun er litt sjenert i store forsamlinger.
+forsiktig	Vær forsiktig når du kjører på isen.
+risikovillig	Han er en risikovillig investor.
+målrettet	Han jobber målrettet mot sine drømmer.
+målbevisst	Vær målbevisst for å nå toppen.
+empatisk	En god venn er empatisk og forståelsesfull.
+kynisk	Han er ofte litt kynisk til folks motiver.
+optimistisk	Jeg er optimistisk med tanke på fremtiden.
+pessimistisk	Min bror er alltid litt pessimistisk.
+energisk	Barn er ofte veldig energiske om morgenen.
+rettferdig	Dommeren må være rettferdig mot alle.
+urettferdig	Dette er en urettferdig behandling.
+sjenerøs	De var sjenerøse og ga mye penger til veldedighet.
+generøs	Han er alltid så generøs med sin tid.
+egoistisk	Ikke vær så egoistisk, del med andre.
+ego-sentrert	Den egosentrerte mannen snakket bare om seg selv.
+samarbeidsvillig	Det er viktig å være samarbeidsvillig i et team.
+konkurranseorientert	Hun er veldig konkurranseorientert og vil vinne.
+ord	Han brukte sterke ord for å uttrykke seg.
+tale	Han holdt en gripende tale i bryllupet.
+rop	Vi hørte et rop fra skogen.
+hviske	Hun måtte hviske i biblioteket.
+bokstav	Den første bokstaven i navnet mitt er M.
+skrift	Han har en pen og tydelig skrift.
+språk	Hvilket språk snakker du?
+stemme	Hun har en vakker sangstemme.
+muntlig	Eksamen var muntlig i år.
+skriftlig	Svaret må leveres skriftlig.
+lytting	God lytting er viktig for kommunikasjon.
+spørsmål	Har du et spørsmål til læreren?
+svar	Han ga et klart svar på oppgaven.
+setning	Skriv en enkel setning på norsk.
+brev	Jeg sendte et brev til min venn i utlandet.
+e-post	Jeg sender deg en e-post med detaljer.
+melding	Jeg fikk en tekstmelding fra sjefen.
+samtale	De hadde en lang samtale om livet.
+dialog	Boken inneholder mye morsom dialog.
+telefonere	Jeg skal telefonere til legen i morgen.
+ringe	Husk å ringe meg når du kommer hjem.
+historie	Han fortalte en spennende historie om vikingtiden.
+fortelling	Læreren leste en fin fortelling for klassen.
+vits	Han fortalte en vits som fikk alle til å le.
+instruksjon	Følg instruksjonene nøye for å montere hyllen.
+forklaring	Han ga en klar forklaring på problemet.
+dialekt	Hun snakker en bred vestlandsdialekt.
+aksent	Han har en litt utenlandsk aksent når han snakker.
+uttrykk	Dette uttrykket er vanskelig å oversette.
+kroppsspråk	Hennes kroppsspråk viste at hun var nervøs.
+mimikk	Skuespillerens mimikk var veldig god.
+gest	Han gjorde en vennlig gest med hånden.
+signal	Vi venter på grønt signal før vi går.
+grammatikk	Norsk grammatikk kan være vanskelig.
+diskusjon	Vi hadde en lang diskusjon om filmen.
+debatt	Det var en heftig debatt i parlamentet.
+foredrag	Professoren holdt et interessant foredrag.
+presentasjon	Hun forberedte en god presentasjon til møtet.
+rapport	Vi må levere en rapport innen fredag.
+artikkel	Jeg leste en lang artikkel i avisen i dag.
+notat	Jeg skrev et raskt notat for å huske det.
+dikt	Hun leste et vakkert dikt om naturen.
+definisjon	Gi meg en kort definisjon av ordet.
+oversettelse	Oversettelsen fra norsk til engelsk var god.
+tolk	Vi trengte en tolk under samtalen.
+språkferdighet	Hans språkferdighet i tysk er utmerket.
+kommunikasjon	God kommunikasjon er nøkkelen til suksess.
+kommunikasjonsevne	Han har en sterk kommunikasjonsevne i teamet.
+høytlesning	Høytlesning er bra for barns læring.
+argument	Han presenterte sitt beste argument først.
+argumentasjon	Argumentasjonen hans var logisk og overbevisende.
+retorikk	Retorikk studerer kunsten å tale overbevisende.
+formidling	Hennes formidling av kunnskap er utrolig.
+kommunikasjonsteknologi	Kommunikasjonsteknologi endrer verden raskt.
+taleevne	Han mistet taleevnen etter ulykken.
+musikk	Jeg elsker å høre på klassisk musikk.
+lyd	Det var en høy lyd fra gaten.
+sang	Hun begynte å nynne en gammel sang.
+tone	Han endret tonen da han ble sint.
+rytme	Danseren hadde en utrolig god rytme.
+takt	Du må holde takten i musikken.
+volum	Skru ned volumet, det er for høyt!
+tempo	Øk tempoet når du løper.
+instrument	Piano er mitt favorittinstrument.
+gitar	Han spiller gitar i et band.
+piano	Hun lærte å spille piano som barn.
+fiolin	Lyden av fiolin er nydelig.
+trommer	Trommene gir en god beat til sangen.
+bass	Jeg liker den dype bassen i denne låten.
+fløyte	Hun spiller fløyte i korpset.
+sangstemme	Han har en kraftig sangstemme.
+kor	De synger i et stort kor i kirken.
+låt	Dette er min favorittlåt akkurat nå.
+vers	Hør på det andre verset i sangen.
+refreng	Alle sang med på refrenget.
+konsert	Vi skal på konsert i kveld.
+plate	Den nye platen kommer ut neste måned.
+album	Dette er det beste albumet de har laget.
+øvelse	Daglig øvelse gjør mester.
+publikum	Publikum klappet høyt etter showet.
+applaus	De fikk en stående applaus.
+noter	Hun leser noter flytende.
+orkester	Han spiller i byens orkester.
+komponist	Beethoven var en kjent komponist.
+dirigent	Dirigenten ledet orkesteret med energi.
+improvisasjon	Jazz er ofte basert på improvisasjon.
+musikknotasjon	Musikknotasjon er et universelt språk.
+musikkvideo	De lanserte en ny musikkvideo i går.
+konsertopptreden	Konsertopptredenen var utsolgt på minutter.
+lydopptak	Vi gjorde et profesjonelt lydopptak i studio.
+mikrofon	Vokalisten sang inn i mikrofonen.
+høyttaler	Lyden kom ut av den store høyttaleren.
+øvingsrom	Bandet møtes i øvingsrommet hver tirsdag.
+musikkstudio	Albumet ble spilt inn i et musikkstudio.
+musikkterapi	Hun bruker musikkterapi for å hjelpe pasienter.
+karaoke	Vi sang karaoke på festen.
+musikkformidling	Han har en gave for god musikkformidling.
+jazz	Jeg foretrekker rolig jazz om kvelden.
+klassisk	Hun elsker klassisk musikk fra barokken.
+rock	Rock er en populær sjanger blant unge.
+pop	Radioen spiller mye pop-musikk.
+elektronisk	Han liker elektronisk dansemusikk.
+hiphop	Hiphop har røtter i bykulturen.
+reggae	Reggae er en avslappende musikkstil.
+kunst	Museet har mye moderne kunst.
+maleri	Vi kjøpte et vakkert maleri av en lokal kunstner.
+tegning	Hun lagde en fin tegning av huset.
+design	Det er viktig med godt design i en logo.
+skulptur	Den store skulpturen står midt i parken.
+foto	Han tok et fantastisk foto av soloppgangen.
+grafikk	Hun spesialiserer seg på digital grafikk.
+illustrasjon	Boken har mange flotte illustrasjoner.
+mote	Mote endrer seg raskt.
+tekstil	De lager spennende tekstiler av ull.
+keramikk	Hun lager fine gjenstander i keramikk.
+skisse	Han gjorde en rask skisse av ideen.
+akvarell	Maleren bruker akvarell-teknikk.
+olje	Maleren brukte tykk olje-maling.
+pastell	Barna elsker å tegne med pastell-kritt.
+blyant	Jeg trenger en blyant og et viskelær.
+maling	Kjøp rød maling til veggen.
+pensel	Du trenger en tynn pensel for detaljer.
+lerret	Hun spente lerretet stramt.
+form	Sjekk formen på denne gjenstanden.
+farge	Blått er min favorittfarge.
+linje	Trekk en rett linje på papiret.
+stil	Han har en elegant og minimalistisk stil.
+dekorasjon	Juledekorasjonen var vakker i år.
+ornament	Kirken hadde mange fine ornamenter.
+håndverk	De selger vakkert håndverk i butikken.
+kreativitet	Kreativitet er viktig i denne jobben.
+fantasi	Bruk fantasien din når du skriver.
+inspirasjon	Naturen er en stor inspirasjonskilde for meg.
+uttrykk	Hennes kunstneriske uttrykk er unikt.
+originalitet	Vi ser etter originalitet i prosjektene.
+komposisjon	Han analyserte komposisjonen av maleriet.
+estetikk	Huset hadde en flott estetikk.
+visuell kunst	Maleri og skulptur er visuell kunst.
+idé	Jeg fikk en god idé til en ny bok.
+konsept	De utviklet et nytt konsept for markedsføring.
+prosjekt	Vi jobber med et stort prosjekt nå.
+utstilling	Gå og se den nye utstillingen i museet.
+atelier	Kunstneren maler i sitt atelier.
+galleri	Bildene skal stilles ut i et galleri.
+kunstner	Hvem er din favorittkunstner?
+arkitektur	Studiet av arkitektur er spennende.
+installasjon	Den moderne installasjonen fylte hele rommet.
+performance	Performance-kunsten var uventet og unik.
+filmkunst	Han studerer filmkunst på universitetet.
+digital kunst	Hun lager digital kunst på datamaskinen.
+collage	Jeg laget en collage av gamle bilder.
+inspirasjonskilde	Han fant en ny inspirasjonskilde i reisen.
+kunsthistorie	Kunsthistorie er et populært fag.
+designprosess	Designprosessen tok lang tid.
+formgivning	De lærte om formgivning i klassen.
+skaperkraft	Menneskets skaperkraft er uendelig.
+sjakk	Han er veldig god i sjakk.
+kortspill	Vi spilte et kortspill hele kvelden.
+brettspill	Brettspill er en fin familieaktivitet.
+puslespill	Vi la et stort puslespill sammen.
+lego	Barna bygger et hus med Lego.
+mynter	Han samler på gamle mynter.
+maling	Maling er hennes favoritthobby.
+tegning	Han liker å drive med tegning.
+fotografi	Fotografi er en viktig kunstform.
+skriving	Skriving hjelper meg å tenke.
+lesing	Lesing er en avslappende hobby.
+poesi	Hun skriver vakker poesi om kjærlighet.
+instrument	Hvilket instrument spiller du?
+musikk	Vi hørte på høy musikk fra naboen.
+hobby	Hva er din favoritthobby i fritiden?
+fritid	Jeg bruker min fritid til å lese.
+lek	Barn elsker å leke ute i parken.
+konkurranse	De deltok i en hard konkurranse.
+kort	Hun trakk et kort fra bunken.
+domino	Vi spilte domino etter middag.
+quiz	Vi hadde en morsom quiz på puben.
+dataspill	Han spiller dataspill på kveldene.
+videospill	Videospill er populært blant ungdom.
+strikking	Bestemor er flink til strikking.
+hekling	Hun lærte seg hekling gjennom YouTube.
+frimerkesamling	Frimerkesamling er en gammel hobby.
+håndverk	De lager vakkert håndverk i tre.
+DIY	Hun elsker DIY-prosjekter i huset.
+brettspillkveld	Vi arrangerer en brettspillkveld på lørdag.
+lego-bygging	Lego-bygging er en fin aktivitet for alle aldre.
+modellbygging	Han driver med detaljert modellbygging.
+hobbyrom	Jeg innredet et lite hobbyrom i kjelleren.
+kunsthåndverk	Butikken selger lokalt kunsthåndverk.
+keramikk	Vi laget kopper og boller i keramikk.
+keramikkmaleri	Hun lager fine mønstre i keramikkmaleri.
+utendørslek	Utendørslek er viktig for barna.
+camping	Vi skal på camping i fjellet til sommeren.
+fiske	Fiske er en avslappende hobby.
+friluft	Han liker å tilbringe tid i friluft.
+eventyrspill	Vi spilte et spennende eventyrspill i går.
+strategi	Strategi er viktig i sjakk.
+rollespill	De deltok i et laiv-rollespill.
+rollespillverden	De skapte sin egen rollespillverden.
+cosplay	Hun er kjent for sitt fantastiske cosplay.
+samling	Han har en stor samling av tegneserier.
+malingsteknikk	Hun lærte en ny malingsteknikk på kurset.
+tegneteknikk	Han forbedret sin tegneteknikk med øvelse.
+hobbyklubb	Jeg meldte meg inn i en hobbyklubb.
+sportshobby	Løping er hennes favorittsportshobby.
+rubiks	Han kan løse en Rubiks kube på få sekunder.
+fotball	Fotball er den mest populære sporten.
+håndball	Vi ser på håndball-kampen på TV.
+basketball	Basketball krever mye hopping.
+volleyball	De spiller volleyball på stranden.
+løping	Løping er god kondisjonstrening.
+jogging	Jeg tar en kort jogging-tur hver morgen.
+svømming	Svømming er bra for hele kroppen.
+sykling	Vi skal på lang sykling-tur i helgen.
+ski	Nordmenn elsker å gå på ski.
+skøyter	Barna gikk på skøyter på isen.
+turgåing	Turgåing i fjellet er fantastisk.
+lek	De voksne deltok i leken også.
+aktivitet	Hvilken aktivitet liker du best?
+fritid	Jeg bruker min fritid til å slappe av.
+rekreasjon	Ferie er viktig for rekreasjon.
+lag	Hun spiller på et godt lag.
+spiller	Han er en dyktig spiller i klubben.
+trener	Treneren ga oss gode råd.
+mål	Han scoret et vakkert mål i siste minutt.
+poeng	Hvem fikk flest poeng i quizen?
+friidrett	Friidrett er en populær sport om sommeren.
+styrketrening	Han driver med styrketrening tre ganger i uken.
+aerobics	Aerobics er god trening for hjertet.
+yoga	Jeg starter dagen med yoga og meditasjon.
+pilates	Pilates er bra for kjernemuskulaturen.
+dans	Hun elsker å danse moderne dans.
+ishockey	Ishockey er en rask og tøff sport.
+tennis	De spilte tennis i to timer.
+badminton	Badminton spilles ofte i gymsalen.
+golf	Golf er en avslappende sport.
+kampsport	Kampsport krever disiplin.
+karate	Han har sort belte i karate.
+judo	Judo er en japansk kampsport.
+boksing	Boksing er en fysisk krevende sport.
+friidrettsøvelser	Friidrettsøvelser inkluderer løp og kast.
+hopping	Hopping i lengde er en teknisk øvelse.
+kasting	Kasting av spyd krever styrke.
+konkurranse	Det var en tøff konkurranse mellom lagene.
+turnering	De vant hele turneringen i helgen.
+kamp	Se kampen direkte på TV i kveld.
+friluftsliv	Friluftsliv er populært i Norge.
+fjelltur	Vi skal på lang fjelltur til høsten.
+padling	Padling i kano er en fin måte å se naturen på.
+kano	De leide en kano for turen.
+kajakk	Han har en egen kajakk til bruk på sjøen.
+fiske	Fiske i elven er avslappende.
+jakt	Jakt er regulert av strenge lover.
+maraton	Hun løp hele maraton på under fire timer.
+stafett	De vant stafetten med god margin.
+hinderløype	Militæret trente i en vanskelig hinderløype.
+svømmehall	Vi går i svømmehallen hver tirsdag.
+film	Vi så en spennende film i går.
+TV	Jeg ser lite på TV for tiden.
+radio	Jeg hører på radio på vei til jobb.
+avis	Har du lest dagens avis?
+magasin	Jeg kjøper et magasin på flyplassen.
+nyheter	Vi følger med på nyhetene hver kveld.
+underholdning	De tilbød god underholdning på festen.
+show	Det var et fantastisk show med dans og sang.
+scene	Vokalisten sto alene på scenen.
+teater	Vi skal i teateret neste helg.
+spill	Hun elsker å spille spill på mobilen.
+seer	Seerne elsket det nye programmet.
+publikum	Publikum lo høyt av vitsene.
+billetter	Kjøp billetter i god tid.
+kommentar	Han skrev en lang kommentar på innlegget.
+streaming	Streaming av film er veldig populært.
+internett	Jeg fant informasjonen på internett.
+nettavis	Jeg leser nettavisen hver morgen.
+blogg	Hun skriver en populær blogg om mat.
+sosiale medier	Sosiale medier kan være både bra og dårlig.
+undertekst	Jeg ser filmer med undertekst.
+kanaler	TV-en har mange forskjellige kanaler.
+sending	Dagens sending av nyhetene starter nå.
+sendingstid	Hva er sendingstiden for programmet?
+reklamepause	Filmen ble avbrutt av en reklamepause.
+videospill	Videospill kan være veldig engasjerende.
+serie	De ser på en ny TV-serie på Netflix.
+dokumentar	Dokumentaren handlet om dyreliv i Afrika.
+reklame	Det er for mye reklame på TV.
+podcast	Jeg hører på en interessant podcast nå.
+reportasje	Journalisten laget en god reportasje fra krigen.
+skuespill	De satte opp et nytt skuespill på teateret.
+komedie	Jeg foretrekker komedie fremfor drama.
+drama	Filmen var et sterkt drama.
+reality	Reality-programmer er lett underholdning.
+konkurranse	De vant sangkonkurransen i finalen.
+talkshow	Programmet er et populært talkshow.
+talkprogram	Hun leder et kjent talkprogram.
+musikkvideo	Artisten slapp en ny musikkvideo.
+vlog	Han poster en ny vlog hver uke.
+influencer	Hun er en stor influencer på Instagram.
+anmeldelse	Boken fikk en god anmeldelse i avisen.
+kritikk	Filmen fikk mye kritikk for slutten.
+premieren	Vi var på premieren av filmen.
+abonnent	Hun er en betalende abonnent på tjenesten.
+voiceover	Voiceoveren forklarte handlingen i filmen.
+programleder	Programlederen introduserte gjestene.
+redaksjon	Han jobber i redaksjonen i et magasin.
+produksjon	Filmproduksjonen tok over et år.
+instruksjon	Følg instruksjonene i spillmanualen.
+event	Det var et stort event i sentrum.
+festival	Vi skal på musikkfestival i sommer.
+bok	Jeg leser en spennende bok nå.
+tekst	Skriv en kort tekst om deg selv.
+lesing	Lesing er viktig for å lære.
+skriving	Hun driver med kreativ skriving på kveldene.
+forfatter	Hvem er forfatteren av denne boken?
+setning	Hver setning må starte med stor bokstav.
+ordvalg	Hun har et presist ordvalg i sine tekster.
+stil	Han har en enkel og klar stil.
+historie	Fortell meg en god historie.
+fortelling	Bestemor leste en fin fortelling.
+novelle	Hun skrev en kort novelle til en konkurranse.
+dikt	Jeg leste et vakkert dikt i går.
+vits	Han fortalte en morsom vits ved bordet.
+kapittel	Hvor mange kapitler har boken?
+avsnitt	Start et nytt avsnitt for hver ny tanke.
+innledning	Innledningen i rapporten var kort.
+avslutning	Filmen hadde en overraskende avslutning.
+dialog	Dialogen i teaterstykket var smart.
+skildring	Boken hadde en god skildring av naturen.
+spørsmål	Jeg har et spørsmål til deg.
+svar	Gi meg et raskt svar på e-posten.
+notat	Jeg skrev et notat i boken min.
+utkast	Dette er bare et første utkast til romanen.
+publisering	Publisering av boken er neste måned.
+trykk	Boken gikk i nytt trykk etter kort tid.
+leser	Hvem er den typiske leseren av dette magasinet?
+litteratur	Norsk litteratur er rik og variert.
+poesi	Han elsker å lese moderne poesi.
+dramatikk	Dramatikk er kunsten å skrive skuespill.
+fabel	Fabelen hadde en viktig moralsk lærdom.
+eventyr	Jeg leste et gammelt eventyr for barnet.
+saga	Islendingene skrev mange historiske sagaer.
+roman	Hennes første roman ble en bestselger.
+essay	Hun skrev et filosofisk essay om lykke.
+manus	Skuespillerne leste fra manuset.
+forteller	Fortelleren i boken var upålitelig.
+hovedperson	Hovedpersonen i filmen heter Emma.
+biperson	En biperson kan også være viktig for historien.
+handling	Handlingen i filmen var veldig spennende.
+tema	Temaet i diktet er kjærlighet og tap.
+motiv	Gjennomgangsmotivet var vann og elver.
+konflikt	Konflikten mellom brødrene eskalerte.
+klimaks	Klimakset i boken var uventet.
+sjanger	Hvilken sjanger liker du best?
+kritikk	Han tålte ikke konstruktiv kritikk.
+analyse	Vi skal skrive en litterær analyse av diktet.
+referat	Hun skrev et kort referat fra møtet.
+oppsummering	Gi meg en kort oppsummering av handlingen.
+perspektiv	Hun har et unikt perspektiv på livet.
+synsvinkel	Boken er skrevet fra første persons synsvinkel.
+bibliografi	Bibliografien viser kildene for boken.
+kilde	Han brukte en pålitelig kilde for informasjonen.
+redigering	Redigering av teksten tok lang tid.
+korrektur	Hun leste korrektur for å finne feil.
+litteraturhistorie	Litteraturhistorie er en del av studiet.
+hund	Vår hund elsker å leke i hagen.
+katt	Katten min sover mye på dagen.
+fugl	En liten fugl sang i treet.
+ku	Kuen spiser gress på engen.
+gris	Grisen ligger i gjørmen.
+sau	Det er mange sauer på fjellet.
+geit	Geiten klatret på steinene.
+kanin	Kaninen er et kjæledyr for barn.
+rotte	Vi så en rotte i søppelet.
+mus	En liten mus gjemte seg i veggen.
+høne	Hønen la et egg i dag.
+and	Anden svømte rolig på vannet.
+gås	En flokk gjess fløy sørover.
+kalkun	Vi spiser kalkun til middag.
+bie	Bien samler nektar fra blomstene.
+sommerfugl	En vakker sommerfugl landet på skulderen min.
+marihøne	Marihønen er rød med sorte prikker.
+edderkopp	Jeg er redd for store edderkopper.
+insekter	Det er mange små insekter i skogen.
+flue	En flue surret rundt hodet mitt.
+mygg	Myggen stikker om sommeren.
+møll	Møllen spiste hull i ullgenseren.
+pinnsvin	Pinnsvinet rullet seg sammen til en ball.
+rådyr	Et rådyr sto i utkanten av skogen.
+hest	Hun rir på hest hver uke.
+elefant	Elefanten er det største landdyret.
+løve	Løven jakter i flokk på savannen.
+tiger	Tigeren har vakre striper.
+bjørn	Bjørnen våkner etter vinterdvalen.
+ulv	Ulven ulte mot månen.
+rev	Reven er kjent for å være lur.
+hjort	Vi så en stor hjort i skogen.
+elg	Elgen er Norges største dyr.
+skilpadde	Skilpadden beveger seg sakte.
+krokodille	Krokodillen ligger i vannet og venter.
+slange	Slangen krøllet seg sammen i gresset.
+frosk	Frosken hopper fra liljeblad til liljeblad.
+øgle	Øglen solte seg på en varm stein.
+hai	Haien er en farlig rovfisk.
+delfin	Delfinen lekte seg i bølgene.
+hval	Hvalen er verdens største pattedyr.
+sjøløve	Sjøløven lå og hvilte på stranden.
+pingvin	Pingvinen bor i kalde strøk.
+panda	Pandaen spiser bambus.
+koala	Koalaen lever i Australia.
+aper	Aper er intelligente dyr.
+gorilla	Gorillaen er en stor ape.
+sjimpanse	Sjimpansen er veldig leken.
+løveunge	Løveungen lekte med sin mor.
+kattunge	De har fått en ny kattunge i huset.
+elv	Elven renner gjennom dalen.
+innsjø	Vi badet i den store innsjøen.
+hav	Havet er blått og uendelig.
+skog	Vi gikk en tur i skogen.
+dal	Huset ligger i en vakker dal.
+eng	Sauer beiter på engen.
+sand	Barn leker med sand på stranden.
+strand	Vi var på stranden hele dagen.
+mark	Vi fant mange meitemark i marken.
+jord	Hun plantet blomster i jorden.
+stein	Han kastet en flat stein ut i vannet.
+regn	Jeg liker å høre regnet mot vinduet.
+sol	I dag skinner solen varmt.
+vind	Det blåser sterk vind langs kysten.
+sky	En mørk sky dekker solen nå.
+tåke	Om morgenen var det tykk tåke over vannet.
+natur	Vi må ta vare på den vakre naturen.
+fjell	Han drømmer om å klatre til toppen av et høyt fjell.
+fjord	Vi så en hval svømme i fjorden.
+myr	Det er vått å gå over myra.
+klippe	Måken bygget reir på klippen.
+foss	Fossen lager en kraftig lyd.
+elvebredd	Vi satt ved elvebredden og fisket.
+skogbunn	Det lukter jord og mose på skogbunnen.
+tåkesky	En tåkesky drev inn fra havet.
+storm	Meteorologene varslet en kraftig storm.
+lyn	Vi så lynet lyse opp himmelen.
+torden	Etter lynet kom et høyt brak av torden.
+dyreliv	Dyrelivet i skogen er rikt og variert.
+plantevekst	Varmen har ført til frodig plantevekst.
+flora	Vi studerte floraen på fjellet.
+fauna	Afrika har en imponerende fauna.
+jakt	Jakt er strengt regulert i Norge.
+fiske	Vi dro ut på sjøen for å fiske torsk.
+tur	Skal vi gå en kort tur i ettermiddag?
+fjelltur	Fjellturen var lang, men utsikten var verdt det.
+leir	Vi slo leir ved vannet.
+telt	Har du husket å pakke teltet?
+økosystem	Regnskogen er et viktig økosystem.
+miljø	Vi bør kaste søppel for å beskytte miljøet.
+forurensning	Plast i havet er en stor forurensning.
+resirkulering	Resirkulering av glass er viktig.
+bærekraft	Vi trenger mer fokus på bærekraft.
+villmark	Canada har store områder med urørt villmark.
+nasjonalpark	Rondane er en kjent nasjonalpark.
+reservat	Dyrene bor trygt i reservatet.
+naturvern	Naturvern er en viktig sak for mange.
+bevaring	Bevaring av gamle bygninger er nødvendig.
+klimaendring	Klimaendring er et globalt problem.
+jordbruk	Jordbruk er en viktig næring i bygda.
+global oppvarming	Issmelting er en konsekvens av global oppvarming.
+tre	Det står et gammelt tre i hagen.
+busk	Busken utenfor vinduet blomstrer vakkert.
+blomst	Han ga meg en rød blomst.
+gress	Jeg må klippe gresset i morgen.
+plante	Vi må vanne planten hver uke.
+blad	Bladene blir gule om høsten.
+rot	Treets rot går dypt ned i jorden.
+stamme	Ekornet klatret opp stammen på treet.
+frø	Vi plantet noen frø i vinduskarmen.
+løv	Mye løv falt ned fra trærne.
+hage	De har en fin hage bak huset.
+blomsterpotte	Hun plantet krydderurter i en blomsterpotte.
+krukke	Sett vann i krukken til blomstene.
+plen	Barna lekte på plenen.
+enger	Kuene beiter på de grønne engerne.
+skog	Vi gikk oss en lang tur i skogen.
+jord	Jeg kjøpte ny jord til plantene.
+vann	Plantene trenger vann for å vokse.
+sollys	Rosene trenger mye sollys.
+skygge	Det er kjøligere i skyggen.
+mose	Mose vokser ofte på den nordlige siden av trærne.
+sopp	Vi fant en stor sopp i skogen.
+jordtype	Denne jordtypen er god for grønnsaker.
+blomsterknopp	Se, en ny blomsterknopp er på vei!
+frukt	Eple er en sunn frukt.
+bær	Vi plukket blå bær i skogen.
+korn	Korn brukes til å bake brød.
+plantevern	Plantevern er viktig for å beskytte avlingene.
+hekk	Naboen har en høy hekk mot gaten.
+plantevern	Plantevern er viktig for å beskytte avlingene mot skadedyr.
+gartner	Gartneren stelte roser i parken.
+hagearbeid	Hagearbeid er en fin hobby.
+hagebruk	Han har studert hagebruk på universitetet.
+frøplanting	Vi begynte med frøplanting i mars.
+stikling	Hun laget en ny plante fra en stikling.
+buskvekst	Fjellene har lav buskvekst.
+vanning	Jeg glemte vanning av tomatplantene.
+høsting	Vi er klare for høsting av potetene.
+dekorasjon	Blomstene brukes som dekorasjon på bordet.
+aromatisk	Lavendel er en aromatisk plante.
+krydderplante	Basilikum er en populær krydderplante.
+tropisk plante	Ananas er en tropisk plante.
+jungel	Apen lever i jungelen.
+plantevekst	Våren bringer med seg frodig plantevekst i hagen.
+næring	Plantene får næring fra jorden.
+fotosyntese	Fotosyntese produserer oksygen.
+pollinering	Bier er viktige for pollinering.
+insekt	En maur er et lite insekt.
+bie	Bien fløy fra blomst til blomst.
+fugl	En liten fugl sitter på taket.
+alger	Alger vokser i vannet.
+blomstring	Treet er i full blomstring.
+brød	Jeg kjøpte et ferskt brød.
+smør	Vil du ha smør på skiven?
+ost	Jeg spiser gjerne ost til lunsj.
+melk	Hvor er melken til kaffen?
+egg	Jeg koker et egg til frokost.
+kjøtt	Vi spiser kjøtt og grønnsaker til middag.
+fisk	Laks er en populær fisk i Norge.
+kylling	Skal vi grille kylling i kveld?
+svin	Jeg liker å spise svin.
+laks	Laks er sunn å spise.
+torsk	Torsk er en hvit fisk.
+grønnsaker	Jeg spiser grønnsaker hver dag.
+frukt	Frukt er godt til frokost.
+potet	Potet kan kokes eller stekes.
+vann	Jeg drikker mye vann.
+juice	Juice smaker søtt.
+te	Jeg drikker te om morgenen.
+kaffe	Kaffe er varm og god.
+smake	Jeg vil smake på suppen.
+spise	Vi skal spise middag nå.
+drikke	Jeg vil drikke vann.
+koke	Jeg skal koke pasta.
+steke	Vi kan steke kjøttet i pannen.
+grille	Vi vil grille i hagen i kveld.
+bake	Jeg liker å bake brød.
+røre	Rør godt i sausen.
+skjære	Jeg skal skjære brødet.
+kutte	Hun kutter grønnsaker til salaten.
+helle	Helle vann i koppen.
+tallerken	Legg maten på tallerkenen.
+kopp	Jeg drikker kaffe fra koppen.
+kniv	Bruk kniv til å kutte kjøttet.
+gaffel	Jeg spiser med gaffel.
+skje	Jeg bruker skje til suppen.
+middag	Vi spiser middag klokken seks.
+frokost	Frokost er viktig om morgenen.
+lunsj	Jeg spiser lunsj på skolen.
+kveldsmat	Vi har kveldsmat etter jobben.
+sukker	Jeg liker litt sukker i teen.
+salt	Husk å bruke litt salt.
+pepper	Pepper gir maten smak.
+krydder	Krydder gjør maten god.
+ris	Jeg lager ris til middag.
+pasta	Pasta er lett å lage.
+nudler	Nudler er rask mat.
+olje	Bruk litt olje i pannen.
+eddik	Eddik smaker surt.
+ål	Ål er en lang fisk.
+øl	Han drikker øl med maten.
+brus	Barn liker brus.
+eple	Eplet er rødt.
+banan	Banan er gul.
+appelsin	Jeg spiser en appelsin til frokost.
+sitron	Sitron smaker surt.
+tomat	Tomat er god i salat.
+agurk	Agurk er frisk.
+salat	Salat er sunn mat.
+løk	Løk gir god smak.
+gulrot	Gulrot er oransje.
+ert	Erter er små og grønne.
+bønne	Bønner er gode i suppe.
+mais	Mais smaker søtt.
+sopp	Sopp kan stekes i pannen.
+nøtter	Jeg liker å spise nøtter.
+mandel	Mandel er en type nøtt.
+olivenolje	Bruk olivenolje på salaten.
+appelsin	Jeg spiser en appelsin til frokost.
+sitron	Sitron smaker surt.
+pære	Pæren er moden.
+plomme	Plommer er søte.
+fersken	Fersken smaker godt.
+nektarin	Nektarin er saftig.
+kirsebær	Jeg plukker kirsebær i hagen.
+granateple	Granateple er rødt og friskt.
+skinke	Jeg liker skinke på brød.
+reker	Reker er gode med majones.
+tunfisk	Tunfisk er god i salat.
+sild	Sild spiser vi til frokost.
+krabbe	Krabbe er populær ved sjøen.
+blåskjell	Vi skal koke blåskjell.
+aubergine	Aubergine kan stekes i ovnen.
+squash	Squash er grønn og rund.
+rødbeter	Rødbeter er sunne.
+selleri	Selleri smaker friskt.
+reddik	Reddik er liten og rød.
+fennikel	Fennikel lukter sterkt.
+asparges	Asparges er grønn og tynn.
+avocado	Avocado er kremet.
+valnøtter	Valnøtter er gode i kaker.
+hasselnøtter	Hasselnøtter smaker søtt.
+peanøtter	Peanøtter er saltet.
+cashewnøtter	Cashewnøtter er myke å tygge.
+solsikkeolje	Bruk solsikkeolje til steking.
+smørbrød	Jeg spiser smørbrød til lunsj.
+suppe	Suppe er varm mat.
+saus	Saus gjør maten bedre.
+dessert	Vi spiser dessert etter middag.
+kake	Kake er søt.
+sjokolade	Sjokolade smaker godt.
+iskrem	Iskrem er kaldt.
+yoghurt	Yoghurt er sunt til frokost.
+krydret	Maten er krydret og god.
+søt	Eplet smaker søt.
+saltet	Peanøttene er saltet.
+sur	Sitron smaker sur.
+bitter	Kaffe kan smake bitter.
+smakfull	Middagen er veldig smakfull.
+rå	Jeg liker rå grønnsaker.
+stekt	Jeg liker stekt kjøtt.
+kokt	Poteten er kokt.
+bakt	Jeg har bakt brød.
+grillet	Vi grillet pølser i hagen.
+dampet	Grønnsaker kan dampes.
+marinert	Kjøttet er marinert i sausen.
+frokostblanding	Jeg spiser frokostblanding om morgenen.
+havregryn	Havregryn er sunt til frokost.
+spaghetti	Vi lager spaghetti til middag.
+maisstivelse	Maisstivelse brukes i sauser.
+honning	Honning er søtt på brød.
+syltetøy	Jeg liker jordbærsyltetøy.
+ketchup	Ketchup er populært på pølser.
+sennep	Sennep smaker sterkt.
+majones	Jeg har majones på smørbrødet.
+pickles	Pickles er sur og sprø.
+brunsaus	Brunsaus passer til kjøtt.
+fiskesaus	Fiskesaus gir god smak.
+soyasaus	Soyasaus brukes i asiatisk mat.
+tomatsaus	Tomatsaus er rød og god.
+pesto	Pesto smaker sterkt av basilikum.
+basilikum	Basilikum er grønn og frisk.
+oregano	Oregano brukes i pizza.
+timian	Timian lukter godt.
+rosmarin	Rosmarin passer til poteter.
+persille	Persille er grønn og fin på maten.
+dill	Dill er god til fisk.
+kanel	Kanel brukes i eplekake.
+ingefær	Ingefær smaker sterkt.
+kardemomme	Kardemomme er søtt og aromatisk.
+muskatnøtt	Muskatnøtt brukes i sauser.
+paprika krydder	Paprika krydder gir farge og smak.
+chili pulver	Chili pulver gjør maten sterk.
+hvit pepper	Hvit pepper er mildere enn svart pepper.
+grønnsaksbuljong	Grønnsaksbuljong brukes i suppe.
+kjøttbuljong	Kjøttbuljong gir smak til sauser.
+fiskebuljong	Fiskebuljong brukes til fiskesuppe.
+melkekrem	Melkekrem er søt og myk.
+fløte	Jeg har fløte i kaffen.
+rømme	Rømme passer til taco.
+margarin	Margarin smører vi på brød.
+vegetabilsk olje	Bruk vegetabilsk olje til steking.
+limejuice	Limejuice smaker surt.
+tomatpuré	Tomatpuré brukes i sauser.
+brødsmuler	Brødsmuler brukes til panering.
+mel	Jeg baker med mel.
+hvetemel	Hvetemel er fint til kaker.
+grovt mel	Grovt mel er sunt.
+maismel	Maismel brukes i brød.
+gjær	Jeg bruker gjær i brødbaking.
+bakepulver	Bakepulver gjør kaken luftig.
+natron	Natron brukes i noen kaker.
+vanilje	Vanilje smaker søtt.
+sjokoladekake	Vi spiser sjokoladekake til dessert.
+eplekake	Eplekake er god med kanel.
+rundstykke	Jeg spiser rundstykke til frokost.
+baguette	Baguette er langt og sprøtt.
+croissant	Croissant smaker godt med smør.
+muffins	Muffins er søte små kaker.
+smørbrødskive	Jeg har ost på smørbrødskive.
+pålegg	Pålegg legges på brødskiven.
+storfekjøtt	Storfekjøtt kan stekes eller grilles.
+hammer	Jeg bruker hammer til spiker.
+kniv	Kniv brukes til å kutte.
+øks	Øks brukes til å hugge ved.
+sag	Sag brukes til å kutte tre.
+spiker	Spiker holder tre sammen.
+skrue	Skrue brukes i møbler.
+lim	Lim fester papir og tre.
+tape	Tape brukes til å feste ting.
+pensel	Jeg maler med pensel.
+stige	Stige hjelper meg å nå høyt.
+hjelm	Hjelm beskytter hodet.
+vernebriller	Vernebriller beskytter øynene.
+hansker	Hansker beskytter hendene.
+verktøykasse	Jeg har verktøy i verktøykassen.
+arbeidsbord	Arbeidsbord brukes til prosjekter.
+skiftenøkkel	Skiftenøkkel brukes til muttere.
+skrutrekker	Skrutrekker brukes til skruer.
+tang	Tang brukes til å holde ting.
+bor	Bor brukes til å lage hull.
+drill	Drill brukes til å bore.
+fil	Fil brukes til å glatte metall.
+skrujern	Skrujern skrur skruer.
+målebånd	Målebånd måler lengde.
+vater	Vater viser om noe er rett.
+håndsag	Håndsag kutter tre for hånd.
+stikksag	Stikksag kutter kurver i tre.
+baufil	Baufil kutter metall.
+knipetang	Knipetang klipper tråd.
+skiftenøkkel	Skiftenøkkel kan justeres.
+skruestikke	Skruestikke holder ting fast.
+hammerbor	Hammerbor brukes til mur.
+meisel	Meisel brukes til steinarbeid.
+stikktang	Stikktang holder små deler.
+drillbit	Drillbit brukes med drill.
+borr	Borr lager hull i tre og metall.
+skiftenøkkelsett	Skiftenøkkelsett har mange størrelser.
+universaltang	Universaltang brukes til mange ting.
+sparkel	Sparkel jevner overflater.
+skrape	Jeg bruker skrape til å fjerne maling.
+sandpapir	Sandpapir glatter overflaten.
+maskin	Maskin hjelper til med arbeidet.
+vinkelsliper	Vinkelsliper kutter metall.
+multiverktøy	Multiverktøy har mange funksjoner.
+skrustikke	Skrustikke holder ting fast.
+beslag	Beslag fester treplater sammen.
+mutter	Mutter holder bolten på plass.
+bolt	Bolt fester metallbiter sammen.
+justeringsverktøy	Justeringsverktøy brukes til å stille inn.
+fysikk	Fysikk handler om krefter og energi.
+kjemi	Kjemi studerer stoffer og reaksjoner.
+biologi	Biologi handler om levende organismer.
+matematikk	Matematikk bruker tall og symboler.
+astronomi	Astronomi studerer stjerner og planeter.
+eksperiment	Vi gjør eksperiment i laboratoriet.
+laboratorium	Laboratorium er stedet for forskning.
+måling	Måling viser lengde og vekt.
+naturvitenskap	Naturvitenskap studerer naturen.
+teknikk	Teknikk handler om praktiske løsninger.
+datamaskin	Datamaskin brukes til å skrive og beregne.
+teknologi	Teknologi gjør livet enklere.
+ingeniør	Ingeniør lager nye maskiner.
+databehandling	Databehandling skjer på datamaskiner.
+nettverk	Nettverk kobler datamaskiner sammen.
+internett	Internett brukes til informasjon.
+digitalisering	Digitalisering gjør papir til data.
+elektronisk	Telefonen er elektronisk.
+maskin	Datamaskinen er en kompleks maskin.
+robot	Robot hjelper mennesker i arbeid.
+programmering	Programmering lager dataprogrammer.
+kode	Kode forteller datamaskinen hva den skal gjøre.
+algoritme	Algoritme løser problemer trinn for trinn.
+utvikling	Utvikling tar tid og planlegging.
+prosess	Prosess består av mange steg.
+testing	Testing sjekker om alt fungerer.
+analyse	Analyse finner mønstre i data.
+statistikk	Statistikk viser tall og trender.
+energi	Energi gjør at maskiner kan arbeide.
+kraft	Kraft brukes til å flytte objekter.
+celle	Celle er byggesteinen i kroppen.
+organisme	Organisme er levende vesener.
+forskning	Forskning gir ny kunnskap.
+oppfinnelse	Oppfinnelse gjør livet lettere.
+oppdagelse	Oppdagelse finner noe nytt.
+mikroskop	Mikroskop gjør små ting synlige.
+teleskop	Teleskop ser langt ut i rommet.
+kjemisk reaksjon	Kjemisk reaksjon lager nye stoffer.
+DNA	DNA finnes i alle celler.
+kunstig intelligens	Kunstig intelligens kan lære av data.
+innovasjon	Innovasjon lager nye løsninger.
+oppfinner	Oppfinner lager nye ting.
+vitenskapelig metode	Vitenskapelig metode tester hypoteser.
+teori	Teori forklarer hvordan noe fungerer.
+modell	Modell viser hvordan noe ser ut.
+simulering	Simulering etterligner virkeligheten.
+feltarbeid	Feltarbeid skjer ute i naturen.
+teknologiutvikling	Teknologiutvikling forbedrer maskiner.
+automatisering	Automatisering gjør arbeid enklere.
+sol	Solen gir lys og varme.
+måne	Månen lyser om natten.
+stjerne	Stjerner lyser på himmelen.
+himmel	Himmel er blå om dagen.
+rom	Rommet er stort og mørkt.
+astronaut	Astronauter reiser til verdensrommet.
+teleskop	Astronomen brukte et kraftig teleskop for å studere planetene
+satellitt	Satellitt går i bane rundt jorden.
+bane	Planeten går i bane rundt solen.
+gravitasjon	Gravitasjon holder oss på jorden.
+solsystem	Solsystem består av planeter og solen.
+himmellegeme	Planeter er himmellegemer.
+himmelstrøk	Himmelstrøk er områder på himmelen.
+himmelobservasjon	Himmelobservasjon skjer med teleskop.
+himmelobjekt	Stjerne er et himmelobjekt.
+planet	Jorden er en planet.
+komet	Komet har hale som lyser.
+meteor	Meteor brenner opp i atmosfæren.
+asteroide	Asteroide flyr gjennom rommet.
+galakse	Melkeveien er en galakse.
+kosmos	Kosmos er universet.
+stjernebild	Orion er et kjent stjernebild.
+månestein	Astronauter har tatt med månestein hjem.
+romferd	Romferd tar mennesker til verdensrommet.
+romstasjon	Romstasjon er et laboratorium i rommet.
+romforskning	Romforskning studerer universet.
+romvitenskap	Romvitenskap forsker på planeter og stjerner.
+planetering	Saturn har vakre planeteringer.
+jordbane	Jorden går i bane rundt solen.
+månebane	Månen går i bane rundt jorden.
+lysår	Lysår måler avstand i rommet.
+svart hull	Svart hull suger til seg alt rundt.
+nebulosa	Nebulosa er et stjernetåkeområde.
+supernova	Supernova er en eksploderende stjerne.
+kosmisk stråling	Kosmisk stråling kommer fra verdensrommet.
+planetarisk system	Solsystem er et planetarisk system.
+galaktisk	Galaktisk betyr relatert til galakse.
+stjernesystem	Solsystemet vårt er et stjernesystem.
+eksoplanet	Eksoplanet går rundt en annen stjerne.
+himmelske legemer	Månen og solen er himmelske legemer.
+teleskopobservasjon	Teleskopobservasjon ser stjerner og planeter.
+universets historie	Universets historie strekker seg over milliarder av år.
+astronomi	Astronomi er vitenskapen om himmellegemer.
+astronom	Astronomen studerer stjerner og galakser.
+univers	Vi er bare en liten del av det store universet.
+dag	Vi skal dra på tur i morgen dag.
+natt	Jeg sover best når det er helt mørkt om natten.
+morgen	Han spiser frokost hver morgen klokken syv.
+kveld	Vi så en fin film i går kveld.
+time	Jeg ventet i nesten en time på bussen.
+minutt	Hun trenger bare et minutt til for å bli ferdig.
+sekund	Et sekund er veldig kort tid.
+uke	Vi skal på ferie neste uke.
+måned	Januar er årets første måned.
+år	Hun er seksti år gammel.
+kalender	Jeg må sjekke kalenderen for å se datoen.
+dato	Hva er datoen i dag?
+helg	Jeg slapper av og sover lenge i helgen.
+arbeidsdag	Mandag er den første arbeidsdagen i uken.
+ferie	Vi gleder oss til sommerferien i Spania.
+høytid	Jul er en viktig høytid i Norge.
+bursdag	I dag har jeg bursdag!
+alder	Hva er den lovlige alderen for å kjøpe alkohol?
+liv	Livet på jorden er et under.
+fortid	Vi kan lære mye av fortiden.
+nåtid	Vi må fokusere på nåtiden.
+fremtid	Hva vil du gjøre i fremtiden?
+øyeblikk	Vennligst vent et øyeblikk.
+midnatt	Klokken tolv om natten kalles midnatt.
+middagstid	Skal vi spise lunsj rundt middagstid?
+soloppgang	Vi sto opp tidlig for å se soloppgangen over fjellet.
+solnedgang	Solnedgangen i kveld var veldig vakker.
+årstid	Vår er min favorittårstid.
+vår	Om våren begynner blomstene å vokse.
+sommer	Vi svømmer og soler oss om sommeren.
+høst	Høsten er preget av mange fargerike blader.
+vinter	Det er kaldt og snørikt om vinteren.
+tidsplan	Jeg må følge en streng tidsplan for å rekke flyet.
+tidsrom	Vi har et kort tidsrom til å fullføre oppgaven.
+tidsintervall	Mål pulsen din over et tidsintervall på ett minutt.
+tidslinje	Tidslinjen viser historien fra år 1900 til 2000.
+skuddår	Hvert fjerde år har vi et skuddår.
+tidsmåling	Tidsmåling er viktig i vitenskap.
+klokke	Hva er klokken nå?
+ur	Det gamle uret på veggen har stoppet.
+alarm	Jeg stilte alarmen til klokken seks.
+ettermiddag	Jeg har et møte i ettermiddag.
+århundre	Det 20. århundre var en tid med store endringer.
+tiår	Hun har bodd i byen i et tiår.
+nyttår	Vi feirer nyttårsaften med fyrverkeri.
+jul	Vi pynter treet til jul.
+påske	Vi maler egg til påske hvert år.
+levetid	En bil har en forventet levetid på mange år.
+evighet	Ventetiden føltes som en evighet.
+sykkel	Jeg sykler til jobb på min nye sykkel.
+bil	Vi tok bilen på en lang ferietur.
+tog	Toget til Bergen tar omtrent syv timer.
+trikk	I Oslo kan du ta trikken gjennom sentrum.
+buss	Bussen stoppet rett utenfor skolen.
+båt	Vi dro ut med båten for å fiske makrell.
+skip	Det store skipet ankom havnen tidlig i morges.
+motor	Du må starte motoren før du kan kjøre.
+datamaskin	Jeg bruker datamaskinen til å skrive dokumenter.
+telefon	Kan du ringe meg på telefonen i kveld?
+smarttelefon	Min smarttelefon har mange nyttige apper.
+nettbrett	Barna ser tegnefilmer på nettbrettet.
+laptop	Jeg tok med meg laptopen til kaféen.
+TV	Vi ser nyhetene på TV klokken syv.
+radio	Jeg hører på radioen i bilen hver morgen.
+klokke	Hva er klokken nå?
+pære	Jeg må bytte pære i taklampen.
+lampe	Denne lampen gir et veldig varmt lys.
+lyspære	En LED-lyspære bruker lite strøm.
+skriver	Jeg må printe ut billetten på skriveren.
+skanner	Kan du skannere passet ditt og sende det?
+kopimaskin	Vennligst lag ti kopier på kopimaskinen.
+kamera	Han brukte et profesjonelt kamera for å ta bildene.
+ventilator	Skru på ventilatoren når du lager mat.
+ovn	Vi bakte pizza i ovnen.
+komfyr	Gryten med vann står og koker på komfyren.
+kjøleskap	Maten holder seg kald i kjøleskapet.
+fryser	Legg isen i fryseren så den ikke smelter.
+vaskemaskin	Vaskemaskinen er i gang med en ny ladning klær.
+tørketrommel	Klærne blir raskt tørre i tørketrommelen.
+ubåt	Ubåten dykket ned under havoverflaten.
+motorsykkel	Han kjørte fort på sin nye motorsykkel.
+fly	Flyet landet trygt til slutt.
+robot	Fremtidens fabrikker vil ha mange roboter.
+droner	De brukte droner til å filme landskapet.
+elektrisk bil	Elektrisk bil er populært i Norge.
+traktor	Bonden pløyde åkeren med en stor traktor.
+gravemaskin	Gravemaskinen arbeidet med å flytte jord.
+hjullaster	Hjullasteren lastet sand på lastebilen.
+maskin	Denne maskinen er veldig effektiv.
+maskineri	Vi hørte lyden av tungt maskineri fra byggeplassen.
+motorstyring	Elektronisk motorstyring overvåker bilens yteevne.
+generator	Generatoren startet da strømmen gikk.
+batteri	Du må lade batteriet til drillen.
+solcelle	Vi installerte solceller på taket for å spare strøm.
+motorolje	Bilen trenger ny motorolje på neste service.
+maskindel	En viktig maskindel måtte byttes ut.
+verktøy	Han har alt verktøyet i en stor kasse.
+apparat	Kjøkkenet har et nytt elektrisk apparat.
+instrument	Musikeren spiller på sitt instrument.
+regn	Det begynte å regne kraftig i ettermiddag.
+snø	Vi håper på snø til jul.
+sol	Solen skinner i dag.
+vind	Det er sterk vind langs kysten.
+tåke	Tykk tåke gjorde det vanskelig å kjøre.
+is	Pass på, det er glatt is på veien.
+hagl	Det falt plutselig hagl fra himmelen.
+frost	Det var frost på bakken tidlig i morges.
+soloppgang	Vi så den vakre soloppgangen fra fjellet.
+solnedgang	Solnedgangen farget himmelen rød.
+morgen	Jeg drikker kaffe hver morgen.
+kveld	Vi spiser middag om kvelden.
+dag	I dag er en fin dag.
+natt	Stjernene lyser om natten.
+årstid	Sommer er min favorittårstid.
+vinter	Det er kaldt i vinter.
+vår	Blomstene spirer om våren.
+sommer	Barna leker ute hele sommeren.
+høst	Høsten er tid for innhøsting.
+skyer	Det er mange grå skyer på himmelen.
+skydekke	Et tett skydekke skjuler solen.
+temperatur	Temperaturen er høy i dag.
+varme	Vi trenger ikke jakke i denne varmen.
+kulde	Kulden bet seg fast i kinnene.
+uvær	Vi måtte holde oss inne på grunn av uværet.
+storm	Stormen rev ned flere trær.
+lyn	Lynet slo ned i et tre.
+torden	Vi hørte et kraftig smell av torden.
+regnvær	Jeg liker å lese bok i regnvær.
+regndråpe	En regndråpe falt på vinduet mitt.
+tåkesky	En tåkesky kom drivende over fjellet.
+vindkast	Et sterkt vindkast nesten veltet meg.
+bris	En lett bris gjorde dagen kjøligere.
+overskyet	I dag er det overskyet og grått.
+tropisk	Brasil har et tropisk klima.
+polar	Polarområdene har ekstrem kulde.
+fuktighet	Høy fuktighet gjør luften tung.
+lufttrykk	Lavt lufttrykk fører ofte til regn.
+stormfullt	Det ble meldt om stormfullt vær langs kysten.
+ekstremvær	Ekstremvær fører til store skader.
+nedbør	Vi fikk mye nedbør i går.
+tørke	Langvarig tørke skadet avlingene.
+stormvarsel	Vi hørte på radioen om et stormvarsel.
+orkan	En orkan er en svært kraftig storm.
+tornado	Tornadoen ødela mange hus.
+lynstorm	Lynstormen lyste opp nattehimmelen.
+snøstorm	Vi ble sittende fast i en snøstorm.
+snøfall	Dette snøfallet var det første i år.
+klima	Klimaet i Norge er kaldt og variert.
+klimasoner	Jorden er delt inn i ulike klimasoner.
+by	Oslo er den største byen i Norge.
+landsby	De bor i en liten landsby på landet.
+tettsted	Tettstedet har en skole og en butikk.
+land	Vi besøkte et nytt land i Afrika.
+region	Nord-Norge er en vakker region.
+stat	California er en stor stat i USA.
+kontinent	Australia er både et kontinent og et land.
+gate	Gå ned denne gaten til du ser parken.
+vei	Den nye veien gjorde reisen raskere.
+sti	Vi fulgte en smal sti gjennom skogen.
+plass	Møt meg på den store plassen i sentrum.
+park	Vi hadde piknik i parken i går.
+torg	Det var et marked på torget i dag.
+fjell	Galdhøpiggen er Norges høyeste fjell.
+dal	Dalen var frodig og grønn.
+elv	Laksen svømmer opp elven for å gyte.
+innsjø	Vi badet i den kalde innsjøen.
+hav	Havet er dypt og blått.
+øy	De bor på en liten øy utenfor kysten.
+kyst	Den norske kysten er lang og vill.
+strand	Vi lekte i sanden på stranden.
+skog	Vi gikk en tur i skogen i går.
+fjord	Geirangerfjorden er kjent over hele verden.
+grense	De krysset grensen mellom landene.
+hovedstad	Paris er hovedstaden i Frankrike.
+provins	Hun flyttet til en annen provins i landet.
+område	Dette området er beskyttet.
+distrikt	De bor i et rolig distrikt i byen.
+kommune	Vi betaler skatt til vår kommune.
+bydel	Bydelen har mange gamle hus.
+sentrum	Vi møtes i sentrum i ettermiddag.
+forstad	De kjøpte et hus i forstaden.
+boligområde	Dette er et stille boligområde.
+bygning	Den høyeste bygningen i byen er 50 etasjer.
+tårn	Vi klatret opp i det gamle tårnet.
+kirke	Det var et bryllup i kirken i dag.
+moské	Moskéen er et viktig sted for bønn.
+tempel	Det eldgamle tempelet tiltrekker seg mange turister.
+halvøy	Norge ligger på en stor halvøy.
+ørken	Sahara er en veldig varm ørken.
+jungel	Apekatter lever i jungelen.
+savanne	Løver jakter på savannen.
+tundra	Tundraen har permafrost og lite vegetasjon.
+vulkan	Den aktive vulkanen spydde ut aske.
+innsjøområde	Vi dro på ferie til et vakkert innsjøområde.
+industriområde	Fabrikken ligger i industriområdet.
+turiststed	Lofoten er et populært turiststed.
+kulturarv	Pyramidene er en viktig kulturarv i Egypt.
+historisk sted	Akropolis er et berømt historisk sted.
+monument	De bygget et monument til ære for heltene.
+slott	Det kongelige slottet ligger i sentrum av byen.
+tanke	Hun hadde en god tanke om et nytt prosjekt.
+tenke	Jeg må tenke grundig før jeg tar en beslutning.
+huske	Kan du huske hvor jeg la nøklene?
+glemme	Jeg prøver å ikke glemme bursdagen din.
+drøm	Jeg hadde en merkelig drøm i natt.
+mål	Mitt mål er å lære et nytt språk.
+plan	Vi har en plan for helgen.
+idé	Det er en fantastisk idé!
+minne	Det er et hyggelig minne fra barndommen.
+beslutning	De tok en viktig beslutning på møtet.
+valg	Du må ta et valg nå.
+vurdering	Etter grundig vurdering ble forslaget godkjent.
+fantasi	Barn har ofte en rik fantasi.
+nysgjerrighet	Nysgjerrighet er viktig for læring.
+læring	Læring er en livslang prosess.
+erfaring	Han har mye erfaring fra industrien.
+observasjon	Fuglekikkeren gjorde en interessant observasjon.
+motivasjon	Motivasjon er nøkkelen til suksess.
+ambisjon	Hennes ambisjon er å bli leder.
+intensjon	Han handlet med god intensjon.
+mening	Jeg er enig i din mening.
+overbevisning	Han snakket med sterk overbevisning.
+dagdrøm	Jeg satt og dagdrømte om ferie.
+analyse	Vi må gjøre en grundig analyse av dataene.
+refleksjon	Refleksjon er viktig etter et prosjekt.
+kreativitet	Kreativitet er en viktig egenskap som designer.
+oppfinnsomhet	Oppfinnsomhet hjalp dem med å løse problemet.
+resonnering	Bruk logisk resonnering for å finne svaret.
+logikk	Det er enkel logikk å forstå.
+strategi	Vi trenger en ny strategi for markedsføringen.
+målsetting	Høy målsetting fører til bedre resultater.
+problemløsning	Problemløsning er en viktig ferdighet.
+fokus	Du må ha fokus på oppgaven.
+konsentrasjon	God konsentrasjon er vanskelig i støy.
+oppmerksomhet	Vær oppmerksomhet når du kjører bil.
+innsikt	Hun har dyp innsikt i emnet.
+forståelse	Forståelse er nødvendig for å lære.
+evaluering	Prosjektet krever en grundig evaluering.
+overveielse	Etter lang overveielse sa hun ja.
+vurderingsevne	Han viste god vurderingsevne i en krise.
+oppdagelse	Forskere gjorde en stor oppdagelse.
+filosofi	Filosofi er studiet av grunnleggende spørsmål.
+persepsjon	Vår persepsjon av verden er subjektiv.
+idéutvikling	De hadde et møte for idéutvikling.
+kreativ tanke	Kreativ tanke er viktig i kunst.
+planlegging	God planlegging er halve jobben.
+strategiutvikling	De jobber med strategiutvikling for neste år.
+analyseferdighet	Analyseferdighet er viktig i finans.
+logisk tenkning	Han har sterk logisk tenkning.
+konsept	De presenterte et nytt konsept for appen.
+idémyldring	Vi brukte en time på idémyldring.
+prioritering	Riktig prioritering er nødvendig for å lykkes.
+erfaringsoverføring	Erfaringsoverføring skjer fra eldre til yngre kolleger.
+lærer	Min lærer er veldig flink i matte.
+lege	Vi måtte ringe legen da barnet ble sykt.
+sykepleier	Sykepleieren tok blodprøven.
+kokk	Kokken lagde en deilig middag.
+servitør	Servitøren kom med menyen.
+bussjåfør	Bussjåføren kjørte oss trygt hjem.
+bonde	Bonden høstet kornet på åkeren.
+frisør	Jeg skal til frisøren for å klippe håret.
+elektriker	Vi ringte en elektriker for å fikse lyset.
+snekker	Snekkeren bygger et nytt skap.
+maler	Maleren ga veggene en ny farge.
+butikkansatt	Butikkansatten hjalp meg med å finne riktig størrelse.
+sekretær	Sekretæren organiserte møtet.
+tannlege	Jeg har time hos tannlegen i morgen.
+fysioterapeut	Fysioterapeuten hjalp meg med ryggsmerter.
+psykolog	Han snakket med psykologen om problemene sine.
+rådgiver	Rådgiveren ga meg gode tips.
+journalist	Journalisten skrev en artikkel om hendelsen.
+dataprogrammerer	Dataprogrammereren utviklet ny programvare.
+designer	Designeren tegnet en ny logo.
+tekniker	Teknikeren reparerte maskinen.
+maskinist	Maskinisten styrer de store motorene.
+operatør	Operatøren overvåker maskinene på fabrikken.
+assistent	Hun jobber som assistent for lederen.
+bibliotekar	Bibliotekaren anbefalte en god bok.
+administrativ	Han har en administrativ stilling på kontoret.
+ingeniør	Ingeniøren designet broen.
+advokat	Han trenger en advokat for å hjelpe seg i retten.
+politi	Politiet kom raskt til ulykkesstedet.
+brannmann	Brannmannen slukket brannen i huset.
+arkitekt	Arkitekten tegnet det nye museet.
+økonom	Økonomen analyserte markedsdataene.
+revisor	Revisoren sjekket selskapets regnskaper.
+pilot	Piloten fløy flyet trygt gjennom stormen.
+kunstner	Kunstneren malte et vakkert portrett.
+musiker	Musikeren spilte en vakker melodi.
+skuespiller	Skuespilleren fremførte monologen perfekt.
+forfatter	Forfatteren ga ut en ny bok i høst.
+forsker	Forskeren jobber med å finne en kur.
+leder	Hun er en dyktig leder med et godt team.
+sjef	Min sjef er veldig støttende.
+manager	Manageren forhandlet om den nye kontrakten.
+trener	Treneren motiverte laget til seier.
+konsulent	Bedriften leide inn en konsulent for å forbedre driften.
+oversetter	Oversetteren oversatte boken fra norsk til engelsk.
+tolk	Han trengte en tolk under møtet.
+veileder	Min faglige veileder hjelper meg med oppgaven.
+sikkerhetsvakt	Sikkerhetsvakten patruljerte utenfor bygningen.
+entreprenør	Entreprenøren startet et nytt byggeprosjekt.
+skole	Barna går på skolen like ved.
+klasse	Han går i klassen 8A.
+lærer	Læreren forklarte den vanskelige oppgaven.
+elev	Hver elev fikk en egen bok.
+student	Hun er student ved universitetet i Oslo.
+fag	Matematikk er et obligatorisk fag.
+time	Vi har to timer med spansk hver uke.
+lekse	Jeg må gjøre ferdig mine lekser til i morgen.
+oppgave	De jobber sammen om en stor oppgave.
+test	Vi skal ha en liten test neste uke.
+prøve	Han øvde mye til den store prøven.
+eksamen	Jeg har eksamen i juni.
+karakter	Hun fikk en god karakter i historie.
+notat	Jeg skriver notater under forelesningen.
+lesing	Lesing er viktig for å lære.
+skriving	God skriving krever øvelse.
+læring	Læring skjer hele livet.
+kunnskap	Han har mye kunnskap om planter.
+ferdighet	Ferdighet i programmering er nyttig.
+utvikling	Prosjektet krever mye utvikling.
+utdanning	Høyere utdanning kan gi bedre jobbmuligheter.
+pensum	Vi må lese hele pensum før eksamen.
+kurs	Jeg tok et kurs i digital markedsføring.
+undervisning	Undervisningen foregikk på nett.
+studium	Hun begynner på et nytt studium til høsten.
+forelesning	Forelesningen var veldig interessant i dag.
+seminar	Vi skal delta på et seminar om klima.
+praksis	Jeg har praksis på et sykehus nå.
+studieteknikk	Bruk en god studieteknikk for å huske bedre.
+repetisjon	Repetisjon hjelper hjernen med å huske stoffet.
+gruppearbeid	Vi skal gjøre litt gruppearbeid i dag.
+diskusjon	Diskusjonen var livlig og engasjerende.
+spørsmålsstilling	Spørsmålsstilling er viktig for å få klarhet.
+motivasjon	Han har høy motivasjon for å fullføre.
+forståelse	Forståelse er bedre enn utenatlæring.
+trening	Han trenger ekstra trening i grammatikk.
+veiledning	Studenten fikk god veiledning fra professoren.
+studieplan	Vi må følge studieplanen for å bli ferdige i tide.
+mentor	En erfaren mentor kan hjelpe deg i karrieren.
+veileder	Veileder hjelper oss med oppgaver
+bibliotektjeneste	Bibliotektjenesten hjalp meg med å finne kilder.
+e-læring	Skolen tilbyr e-læring for voksne.
+undervisningsmetode	De diskuterte en ny undervisningsmetode.
+forskning	Forskning er viktig for ny kunnskap.
+analyse	Vi utførte en grundig analyse av resultatene.
+presentasjon	Jeg skal holde en presentasjon neste uke.
+prosjekt	Vi jobber med et stort prosjekt om bærekraft.
+læringsmål	Hvert kapittel har klare læringsmål.
+kompetanse	Hun har høy kompetanse innenfor sitt felt.
+ferdighetsutvikling	Ferdighetsutvikling krever kontinuerlig øving.
+stat	Staten eier mange selskaper i Norge.
+regjering	Regjeringen la frem sitt budsjettforslag.
+politiker	Politikeren holdt en tale på torget.
+valg	Det er valg til høsten.
+stemme	Du har rett til å stemme når du er 18 år.
+offentlig	Offentlig transport er viktig for mange.
+politikk	Politikk handler om hvordan samfunnet skal styres.
+borgermester	Borgermesteren åpnet den nye parken.
+parti	Hun meldte seg inn i et politisk parti.
+regjeringstiltak	De nye regjeringstiltakene er ment å hjelpe industrien.
+politikkprogram	Politikkprogrammet ble presentert før valget.
+statsminister	Statsministeren holdt en pressekonferanse.
+minister	Helseministeren besøkte sykehuset.
+representant	Hun er representant i nasjonalforsamlingen.
+embetsmann	En embetsmann jobber i statsforvaltningen.
+fylkesmann	Fylkesmannen representerer staten i fylket.
+departement	Utenriksdepartementet ligger i sentrum.
+byråd	Byrådet styrer kommunen.
+lovgivning	Ny lovgivning ble vedtatt i parlamentet.
+nasjonalforsamling	Stortinget er Norges nasjonalforsamling.
+parlamentsvalg	Det holdes parlamentsvalg hvert fjerde år.
+administrasjon	Den nye administrasjonen har endret reglene.
+regjering	Regjeringen lager lover og regler.
+demokrati	Norge er et demokrati.
+diktatur	Et diktatur er preget av mangel på frihet.
+folkeavstemning	De holdt en folkeavstemning om kommunesammenslåing.
+sosialpolitikk	Sosialpolitikk handler om velferd og rettferdighet.
+økonomisk politikk	Økonomisk politikk påvirker arbeidsmarkedet.
+skattepolitikk	Skattepolitikken ble diskutert i valgkampen.
+utenrikspolitikk	Utenrikspolitikken fokuserer på internasjonale relasjoner.
+forsvarspolitikk	Forsvarspolitikk er viktig for landets sikkerhet.
+miljøpolitikk	Miljøpolitikken tar sikte på å redusere utslipp.
+strategi	Partiet la frem sin politiske strategi.
+beslutning	De tok en viktig beslutning om fremtiden.
+valgkamp	Valgkampen varte i flere uker.
+partiprogram	Les partiprogrammet for å se hva de står for.
+koalisjon	De dannet en koalisjon for å styre landet.
+makt	Makten ligger hos folket i et demokrati.
+ledelse	God ledelse er viktig for en organisasjon.
+statsapparat	Statsapparatet er stort og komplekst.
+organisasjon	De er en del av en internasjonal organisasjon.
+lovverk	Vi må følge landets lovverk.
+rettferdighet	Vi må sikre rettferdighet for alle i samfunnet.
+offentlige tjenester	Helsevesenet er en viktig offentlige tjeneste.
+offentlig sektor	Skoler og sykehus er en del av offentlig sektor.
+embetsverk	Embetsverket utfører regjeringens vedtak.
+regjeringstjeneste	Hun har jobbet i regjeringstjeneste i mange år.
+politisk system	Landets politisk system er et demokrati.
+politikkfelt	Utdanning er et viktig politikkfelt.
+president	Presidenten holdt en tale til nasjonen.
+lov	Det er en ny lov om personvern.
+rett	Alle har rett til en forsvarer.
+domstol	Saken skal behandles i domstolen.
+dommer	Dommeren leste opp dommen.
+advokat	Han hyret en erfaren advokat.
+politi	Politiet etterforsker saken.
+fengsel	Han ble dømt til fengsel i to år.
+lovlig	Det er lovlig å fiske her.
+ulovlig	Det er ulovlig å kjøre for fort.
+kriminalitet	Kriminalitet er et samfunnsproblem.
+lovbrudd	Å stjele er et alvorlig lovbrudd.
+rettferdighet	Rettferdighet er viktig i samfunnet.
+straff	Han fikk en mild straff for tyveriet.
+rettighet	Ytringsfrihet er en viktig rettighet.
+skyld	Han nektet for skyld i retten.
+bevis	Politiet fant viktige bevis i saken.
+vitne	Vitnet ga en detaljert forklaring.
+kontrakt	Vi signerte en ny kontrakt i dag.
+avtale	Vi gjorde en muntlig avtale om prisen.
+paragraf	Du finner regelen i denne paragrafen.
+regel	Følg alle regelene nøye.
+forskrift	Det er en ny forskrift om miljøvern.
+sivil	Dette er en sivil sak, ikke straffbar.
+straffbar	Svindel er en straffbar handling.
+lovgivning	Ny lovgivning ble vedtatt i parlamentet.
+rettssystem	Rettssystemet skal sikre folks rettigheter.
+rettslig	Saken krever rettslig bistand.
+rettsprosess	Rettsprosessen kan være lang og komplisert.
+anklage	Anklagen mot ham var alvorlig.
+tiltale	Påtalemyndigheten tok ut tiltale.
+jury	Juryen trakk seg tilbake for å diskutere.
+rettssak	Rettssaken varte i flere dager.
+domfellelse	Domfellelsen ble anket til en høyere rett.
+frifinnelse	Han fikk full frifinnelse i retten.
+arrest	Politiet foretok en arrest av den mistenkte.
+politiaksjon	Det ble gjennomført en stor politiaksjon i natt.
+etterforskning	Etterforskningen av ulykken pågår fortsatt.
+forbrytelse	Tyveri er en alvorlig forbrytelse.
+rettssikkerhet	Rettssikkerhet er et grunnleggende prinsipp.
+menneskerettigheter	Alle har de samme menneskerettigheter.
+straffedom	Han fikk en streng straffedom.
+bøter	Han måtte betale høye bøter for å ha parkert ulovlig.
+forvaring	Forvaring er den strengeste straffen i Norge.
+rettsinstans	Saken ble sendt til neste rettsinstans.
+vitneforklaring	Vitneforklaringen var veldig viktig i saken.
+prosedyre	Følg den offisielle prosedyren nøye.
+siktelse	Siktelsen mot ham ble frafalt.
+juridisk	Han trenger juridisk rådgivning.
+marked	Det er et tøft marked for eiendom nå.
+handel	Handel mellom land er viktig for økonomien.
+kjøp	Han gjorde et godt kjøp på salget.
+salg	Salget av huset gikk raskt.
+produkt	Dette er et nytt produkt i butikken.
+tjeneste	Bedriften tilbyr en utmerket tjeneste.
+kunde	Kunden var fornøyd med kjøpet.
+leverandør	Vi byttet leverandør av råvarer.
+selskap	Han startet sitt eget selskap i fjor.
+bedrift	Bedriften har 50 ansatte.
+firma	Jeg jobber for et internasjonalt firma.
+kontrakt	Vi signerte en kontrakt i går.
+avtale	Vi har en avtale om møtet i morgen.
+leder	Hun er en dyktig leder i teamet.
+administrasjon	Administrasjonen har ansvaret for daglig drift.
+organisasjon	De er en ideell organisasjon.
+lønn	Hva er din månedlige lønn?
+utgift	Strøm er en stor utgift for husstanden.
+inntekt	Inntekten hans økte i fjor.
+kostnad	Vi må redusere kostnadene neste år.
+budsjett	Vi må holde oss innenfor budsjettet.
+regnskap	Regnskapet for 2024 er ferdig.
+revisjon	Revisjonen av selskapets økonomi var grundig.
+markedsføring	De satser hardt på digital markedsføring.
+reklame	Reklamen for det nye produktet var overalt.
+distribusjon	Distribusjonen av varene er effektiv.
+logistikk	God logistikk sparer tid og penger.
+produksjon	Fabrikken økte produksjonen i fjor.
+forretningsidé	De har en innovativ forretningsidé.
+investering	Han gjorde en stor investering i aksjer.
+aksje	Prisen på aksjen steg kraftig i dag.
+aksjemarked	Aksjemarkedet er veldig volatilt nå.
+økonomi	Økonomien i landet vokser sakte.
+konkurranse	Det er sterk konkurranse i denne bransjen.
+kapital	Selskapet trenger mer kapital for å ekspandere.
+profitt	De oppnådde stor profitt i fjor.
+tap	De måtte registrere et tap etter brannen.
+innovasjon	Innovasjon er nødvendig for å ligge i forkant.
+entreprenør	Han er en ung og ambisiøs entreprenør.
+prosjekt	Vi jobber med et spennende prosjekt.
+ledelse	God ledelse gjør arbeidsplassen bedre.
+forretningsplan	Forretningsplanen må være realistisk.
+strategi	Selskapet har en langsiktig strategi.
+franchise	Han åpnet en ny franchise restaurant.
+forretningsmodell	De har en unik forretningsmodell som fungerer.
+fortjeneste	Høy fortjeneste er målet for enhver bedrift.
+ressurs	Vann er en viktig ressurs.
+strategiutvikling	Bedriften jobber med strategiutvikling for neste år.
+økonomistyring	God økonomistyring er viktig for å lykkes.
+partnerskap	De inngikk et partnerskap for å dele kunnskap.
+virksomhet	Vi starter en ny virksomhet i byen.
+penger	Jeg trenger penger for å kjøpe mat.
+bank	Jeg skal sette inn penger i banken.
+konto	Hun har en konto i lokalbanken.
+sparing	Sparing til pensjon er lurt.
+inntekt	Lønn er din månedlige inntekt.
+utgift	Husleie er en stor utgift.
+lån	De tok opp et lån for å kjøpe bil.
+rente	Renten på boliglånet er lav.
+skatt	Alle må betale skatt til staten.
+faktura	Du må betale denne fakturaen innen fristen.
+betaling	Har du mottatt betalingen for jobben?
+kort	Jeg betaler med kort.
+kredittkort	Jeg brukte kredittkortet mitt på reisen.
+debetkort	Pengene trekkes direkte fra debetkortet.
+kontanter	Noen foretrekker å betale med kontanter.
+veksel	Jeg fikk veksel tilbake da jeg betalte.
+mynt	En krone er en liten mynt.
+seddel	En hundrelapp er en seddel.
+handel	Internasjonal handel er viktig for landet.
+butikk	Vi kjøper mat i butikken.
+marked	De selger grønnsaker på markedet.
+lønn	Når får jeg utbetalt lønn?
+budsjett	Vi må holde oss til budsjettet denne måneden.
+regnskap	Revisoren ser over selskapets regnskap.
+investering	Kjøp av aksjer er en type investering.
+aksje	Jeg eier en aksje i det selskapet.
+obligasjon	En obligasjon er et lån til en utsteder.
+kapital	Selskapet trenger mer kapital for å vokse.
+formue	Han har en stor formue.
+økonomi	Hun studerer økonomi på universitetet.
+innskudd	Jeg gjorde et innskudd på sparekontoen.
+uttak	Jeg må ta et uttak i minibanken.
+overføring	Jeg gjorde en overføring til en venn.
+finans	Han jobber i finans-sektoren.
+valutakurs	Valutakursen mellom euro og kroner endret seg.
+økonomisk	Det var en vanskelig økonomisk tid.
+profitt	Selskapet hadde god profitt i fjor.
+tap	De led et lite tap på investeringen.
+balanse	Balansen i regnskapet må stemme.
+fond	Hun sparer i et aksjefond.
+portefølje	Investoren har en variert portefølje.
+eiendom	Kjøp av eiendom kan være en god investering.
+forsikring	Du må ha forsikring på bilen din.
+pensjon	Han gleder seg til å gå av med pensjon.
+trygd	Hun mottar trygd fra staten.
+bonus	De ansatte fikk en stor bonus i desember.
+provisjon	Selgeren får provisjon for hver salg.
+utbytte	Utbyttet fra aksjene var høyt i år.
+butikkjeder	De store butikkjederne dominerer markedet.
+reise	Vi skal reise til Spania i sommer.
+tur	Gikk du en lang tur i skogen i dag?
+hotell	Vi bodde på et fint hotell i sentrum.
+hostel	Et hostel er billigere enn et hotell.
+leilighet	De leier en liten leilighet i byen.
+turist	Mange turister besøker Norge.
+ferie	Vi har to uker ferie i juli.
+ferieby	Nice er en populær ferieby.
+destinasjon	Hva er din neste destinasjon?
+transport	Offentlig transport er bra for miljøet.
+transportmiddel	Fly er et raskt transportmiddel.
+flybillett	Jeg må kjøpe en flybillett til Oslo.
+togbillett	En togbillett er ofte rimeligere enn fly.
+kart	Vi brukte et kart for å finne veien.
+reiserute	Vi planla hele reiseruten før avreise.
+bagasje	Hvor mye bagasje kan jeg ta med?
+koffert	Pakk klærne i kofferten.
+ryggsekk	Jeg bærer ryggsekken når jeg går på fjellet.
+hotellrom	Vi bestilte et hotellrom med havutsikt.
+resepsjon	Du må sjekke inn i resepsjonen.
+bestilling	Har du bekreftet bestillingen av billettene?
+reservasjon	Han har en reservasjon på restauranten.
+sightseeingbuss	Vi tok en sightseeingbuss for å se byen.
+utflukt	Vi skal på en utflukt til øya i morgen.
+opphold	Hvor lenge varer deres opphold i landet?
+turisme	Turisme er viktig for mange kystbyer.
+flyreise	Flyreisen varte i fire timer.
+togreise	En togreise gjennom Norge er flott.
+bussreise	Vi valgte en lang bussreise til Berlin.
+cruise	De skal på cruise i Middelhavet.
+seiling	Seiling er en populær sommeraktivitet.
+ekspedisjon	De forberedte seg på en lang ekspedisjon i Arktis.
+utforskning	Utforskning av nye områder er spennende.
+sightseeing	Vi brukte dagen på sightseeing.
+attraksjon	Slottet er byens største attraksjon.
+museum	Vi besøkte et interessant museum i går.
+nasjonalpark	Norge har mange vakre nasjonalparker.
+strand	Vi lå på stranden og solte oss.
+fjell	Hun elsker å gå tur i fjellet.
+byvandring	Vi ble med på en guidet byvandring.
+guide	En lokal guide viste oss rundt.
+reisemål	Paris er et populært reisemål.
+pakke	Reisebyrået tilbød en komplett pakke.
+opplevelse	Det var en fantastisk opplevelse.
+oppdagelse	Forskere gjorde en viktig oppdagelse.
+reiseforsikring	Husk å kjøpe reiseforsikring før turen.
+valuta	Hvilken valuta bruker de i Hellas?
+pass	Ta med deg passet når du reiser.
+visum	Du trenger et visum for å reise dit.
+turguide	Turguiden pekte ut sjeldne fugler.
+bil	Jeg kjører bil til jobb hver dag.
+buss	Vi tar bussen til sentrum.
+sykkel	Det er fint å sykle på en sykkel om sommeren.
+motorsykkel	Han kjører en stor motorsykkel.
+tog	Toget var forsinket i dag.
+trikk	Jeg tar trikken gjennom byen.
+båt	Vi tok en liten båt over fjorden.
+skip	Et stort skip seilte ut av havnen.
+ferge	Fergen går hver time.
+hjul	Bilen har fire hjul.
+ratt	Sjåføren holder i rattet.
+billett	Har du kjøpt billett til konserten?
+motor	Motoren i bilen er kraftig.
+pedaler	Du må trykke på pedalerne for å sykle.
+clutch	Man må bruke clutchen i en manuell bil.
+gir	Hun skiftet gir opp bakken.
+brems	Han trykket forsiktig på bremsen.
+speil	Sjekk speilet før du svinger.
+lykt	Det er mørkt, slå på lyktene.
+vindu	Vennen min rullet ned vinduet.
+dør	Vennligst lukk døren når du går.
+tak	Snøen ligger på taket.
+bensintank	Vi må fylle opp bensintanken.
+bilsete	Barnet må sitte i et godkjent bilsete.
+lastebil	En tung lastebil kjørte forbi.
+varebil	Håndverkeren har en varebil til utstyret sitt.
+traktor	Bonden kjører traktor på jordet.
+scooter	Han kjører scooter til skolen.
+rickshaw	I Asia brukte vi en rickshaw.
+taxi	Vi tok en taxi fra flyplassen.
+drosje	En drosje venter utenfor hotellet.
+tralle	Bruk en tralle for å bære bagasjen.
+vogntog	Et langt vogntog passerte på motorveien.
+fly	Flyet letter snart.
+børs	Aksjene handles på børsen.
+helikopter	Helikopteret landet på taket.
+ubåt	Ubåten seilte under vannflaten.
+elbil	Flere kjøper seg en ny elbil.
+hybridbil	En hybridbil bruker både bensin og strøm.
+elektrisk sykkel	Hun har en ny elektrisk sykkel.
+sparkesykkel	Barnet leker med sin sparkesykkel.
+skateboard	Gutten øver på triks med skateboardet sitt.
+rullebrett	Et rullebrett er det samme som et skateboard.
+ski	Jeg liker å stå på ski om vinteren.
+kjelke	De akte ned bakken på en kjelke.
+slede	Nissen bruker en slede.
+paraglider	Han hoppet ut med en paraglider.
+hangglider	Å fly med hangglider ser skummelt ut.
+trikkeskinner	Trikkeskinner går midt i gaten.
+toglinje	Den nye toglinjen åpner neste år.
+togstasjon	Møt meg på togstasjonen klokken ti.
+flyplass	Vi skal dra til flyplassen tidlig.
+hus	De bor i et rødt hus.
+bygning	Det er en gammel bygning i sentrum.
+vegg	Jeg malte veggen blå.
+tak	Det drypper fra taket.
+vindu	Se ut av vinduet.
+dør	Kan du åpne døren?
+trapper	Vi gikk opp trapperne til fjerde etasje.
+balkong	Vi spiste frokost på balkongen.
+terrasse	De bygde en ny terrasse i hagen.
+kjeller	Vi lagrer ting i kjelleren.
+loft	Gamle ting ble funnet på loftet.
+by	Oslo er en stor by.
+landsby	De vokste opp i en liten landsby.
+skole	Barna går på skole hver dag.
+sykehus	Han ble kjørt til sykehuset.
+bibliotek	Jeg låner bøker på biblioteket.
+museum	Vi besøkte et kunstmuseum.
+teater	Vi skal se et stykke på teateret.
+kino	Vi ser en film på kino.
+fabrikk	De jobber på fabrikken.
+butikk	Jeg handlet mat i butikken.
+hotell	De bor på hotellet nå.
+hostel	Et hostel er billig å bo på.
+garasje	Bilen står i garasjen.
+fyrtårn	Fyrtårnet står ved kysten.
+stadion	Fotballkampen spilles på stadion.
+arena	Konserten holdes i en stor arena.
+badehus	Vi gikk til badehuset for å svømme.
+brygge	Båten lå fortøyd ved bryggen.
+brostein	Gaten er dekket med brostein.
+port	De åpnet den store porten.
+leilighet	De leier en fin leilighet.
+slott	Kongen bor i slottet.
+tårn	Eiffeltårnet er et kjent tårn.
+bro	Vi kjørte over en lang bro.
+kirke	De giftet seg i kirken.
+moské	Bønnen ble holdt i moskéen.
+tempel	De besøkte et gammelt tempel i Japan.
+kapell	Det var et lite kapell ved siden av kirken.
+kontorbygg	Han jobber i et høyt kontorbygg.
+kjøpesenter	Vi handlet klær på kjøpesenteret.
+skyskraper	New York har mange skyskrapere.
+fasade	Fasaden på bygget er ny.
+konstruksjon	Konstruksjonen av broen tok tre år.
+arkitektur	Hun studerer moderne arkitektur.
+design	Designet på bilen var veldig futuristisk.
+renovering	Huset trenger en grundig renovering.
+byggmester	Byggmesteren startet arbeidet i går.
+murstein	De bygger veggen med rød murstein.
+betong	Fundamentet er laget av solid betong.
+treverk	Møblene er laget av lyst treverk.
+metallstruktur	Broen har en sterk metallstruktur.
+moderne bygg	Dette er et eksempel på et moderne bygg.
+bord	Vi spiser middag ved bordet.
+stol	Vær så snill og sitt på stolen.
+seng	Jeg sover godt i min nye seng.
+kjøkken	Vi lager mat på kjøkkenet.
+sofa	Hele familien satt i sofaen.
+lenestol	Han leste boken i lenestolen.
+kommode	Jeg la sokkene i kommoden.
+skap	Sett tallerkene inn i skapet.
+hylle	Bøkene står på hyllen.
+lampe	Slå på lampen, det er mørkt.
+teppe	Det ligger et tykt teppe på gulvet.
+pute	Jeg trenger en ekstra pute i sengen.
+madrass	Madrassen er veldig komfortabel.
+klokke	Hva er klokken nå?
+TV	Vi ser på TV om kvelden.
+nattbord	Vannflasken står på nattbordet.
+skrivebord	Han jobber ved skrivebordet sitt.
+gardin	Dra for gardinen før du legger deg.
+sengesett	Jeg kjøpte et nytt sengesett.
+dyne	Jeg ligger under en varm dyne.
+gardinstang	Gardinstangen er laget av metall.
+speil	Se deg selv i speilet.
+bokhylle	Bokhyllen er full av romaner.
+skjenk	Vi oppbevarer glass i skjenken.
+skuff	T-skjortene ligger i den øverste skuffen.
+stolpute	Stolputen gjør stolen mykere.
+benk	Vi satt på benken i parken.
+skoskap	Skoene mine står i skoskapet i gangen.
+skittentøyskurv	Legg de skitne klærne i skittentøyskurven.
+vaskemaskin	Vaskemaskinen er i gang nå.
+tørketrommel	Klærne tørker raskt i tørketrommelen.
+oppvaskmaskin	Sett inn de skitne tallerkenene i oppvaskmaskinen.
+kjøleskap	Melken er i kjøleskapet.
+fryser	Jeg har is i fryseren.
+komfyr	Vær forsiktig når du bruker komfyren.
+ovn	Jeg baker brød i ovnen.
+mikrobølgeovn	Varm maten i mikrobølgeovnen.
+kaffemaskin	Vi kjøpte en ny kaffemaskin i går.
+vannkoker	Bruk vannkokeren til å koke vann til te.
+blender	Hun lager smoothie i blenderen.
+kjøkkenbord	Vi spiser frokost ved kjøkkenbordet.
+kjøkkenstol	Ta plass på kjøkkenstolen.
+spisebord	Det store spisebordet har plass til ti personer.
+spiseplass	Vi har en liten spiseplass ved vinduet.
+entre	Legg jakken din i entreen.
+gang	Gangen leder inn til stuen.
+soverom	Jeg skal male soverommet i en ny farge.
+stue	Vi slapper av i stuen.
+bad	Badet er det første rommet til høyre.
+toalett	Hvor er toalettet?
+skjorte	Han tok på seg en hvit skjorte.
+bukse	Jeg må kjøpe en ny bukse.
+kjole	Hun hadde på seg en vakker rød kjole.
+hatt	Han glemte hatten sin.
+jakke	Det er kaldt ute, ta på deg jakken.
+genser	Jeg har en varm ullgenser.
+t-skjorte	En t-skjorte er fint om sommeren.
+skjørt	Jenta gikk med et blomstret skjørt.
+sko	Jeg trenger nye joggesko.
+sokker	Hvor er de rene sokkerne mine?
+lue	Hun tok på seg luen før hun gikk ut.
+belte	Han strammet beltet sitt.
+caps	Han hadde en rød caps på hodet.
+undertøy	Rent undertøy ligger i skuffen.
+nattøy	Jeg skiftet til nattøy før jeg la meg.
+badedrakt	Hun pakket badedrakten for strandturen.
+skjerf	Jeg knyttet skjerfet rundt halsen.
+bukseben	Han rullet opp buksebena sine.
+bukselomme	Han la nøkkelen i bukselommen.
+knapp	Knappen falt av jakken.
+glidelås	Glidelåsen på sekken er ødelagt.
+støvlett	Hun tok på seg de høye støvlettene.
+sandalette	En sandalette er en lett sommersko.
+joggesko	Jeg bruker joggesko når jeg trener.
+dress	Han kledde seg i en fin dress.
+slips	Slipset hans var blått.
+støvler	De brukte støvler i det våte gresset.
+sandaler	Sandaler er behagelige på varme dager.
+hansker	Jeg tok på meg hansker fordi det var kaldt.
+frakk	Han tok på seg en lang, varm frakk.
+kåpe	Kåpen hennes var elegant.
+blazer	Hun brukte en mørk blazer over kjolen.
+veske	Hun bar en stor veske over skulderen.
+ryggsekk	Jeg pakket bøkene i ryggsekken.
+solbriller	Han tok på seg solbriller i solen.
+klokke	Klokken på veggen er ny.
+smykke	Hun fikk et vakkert smykke i gave.
+ring	Hun har en gullring på fingeren.
+halskjede	Halskjedet glitret i lyset.
+armbånd	Barnet fikk et fargerikt armbånd.
+hårbånd	Hun brukte et hårbånd for å holde håret unna.
+skohette	Skohetter brukes ofte på byggeplasser.
+poncho	Hun tok på seg en poncho da det begynte å regne.
+cardigan	Jeg tok på meg en cardigan da det ble kjølig.
+fashion	Fashion-uken i Paris er kjent.
+mote	Hva er den nyeste moten nå?
+vann	Jeg drakk et glass vann.
+tre	Døren er laget av tre.
+metall	Bordbeina er laget av metall.
+plast	Flasken er laget av plast.
+glass	Glasset knuste da det falt i gulvet.
+stein	Vi fant en glatt stein ved sjøen.
+leire	Hun formet figuren av leire.
+gummi	Dekkene er laget av gummi.
+tekstil	Gardinene er laget av et tykt tekstil.
+bomull	T-skjorten er laget av 100% bomull.
+ull	Genserne er strikket i varm ull.
+silke	Skjerfet er laget av fin silke.
+lær	Lærjakken er veldig slitesterk.
+papir	Vennligst skriv på et papir.
+papp	Eska er laget av tykk papp.
+sand	Barn leker med sand på stranden.
+jord	Blomstene trenger god jord for å vokse.
+jern	Jern er et hardt metall.
+stål	Broen er bygget med stål.
+kobber	Elektriske ledninger er ofte laget av kobber.
+aluminium	Boksen er laget av lett aluminium.
+bly	Bly er et tungt metall.
+olje	Norge eksporterer mye olje.
+bensin	Bilen trenger bensin for å kjøre.
+gass	Vi lager mat på en gasskomfyr.
+kull	Kull brukes fortsatt til oppvarming.
+sement	Sement er en viktig del av betong.
+betong	Bygningen er konstruert av betong.
+granitt	Benkeplaten er av polert granitt.
+marmor	Gulvet er belagt med hvit marmor.
+kalk	Kalk brukes for å nøytralisere sur jord.
+messing	Dørhåndtaket er laget av skinnende messing.
+bronse	Statuen er støpt i bronse.
+gull	Ringen er laget av rent gull.
+sølv	Sølv er mindre verdifullt enn gull.
+harpiks	Harpiks brukes i noen limtyper.
+fiber	Dette stoffet har lange fiber.
+polymer	Polymerer er store molekyler.
+akryl	Genseren er strikket i akryl.
+keramikk	Vasen er laget av vakker keramikk.
+porselen	De spiser av fint porselen.
+vinyl	Gulvet i gangen har et vinylbelegg.
+lin	Duken er laget av lin.
+linoleum	Linoleum er et slitesterkt gulvbelegg.
+asbest	Asbest er nå et forbudt materiale.
+sementblanding	Vi trenger mer sementblanding til muren.
+sementmørtel	Bruk sementmørtel for å feste mursteinene.
+blanding	Saften er en blanding av ulike frukter.
+materiale	Hvilket materiale er denne skjorten laget av?
+substans	Vann er en kjemisk substans.
+kjemikalie	Forskeren testet det nye kjemikaliet.
+lik	Disse to eplene er helt like.
+samme	De har på seg den samme genseren.
+ulik	Fargene er veldig ulike.
+mer	Vil du ha mer kaffe?
+mindre	Jeg ønsker meg mindre stress.
+høyere	Fjellet er høyere enn vi trodde.
+lavere	Temperaturen var lavere i dag.
+fortere	Han løp fortere enn alle andre.
+tregere	Skilpadden beveger seg tregere enn haren.
+bedre	Denne kaken smaker bedre.
+verre	Situasjonen er blitt verre.
+best	Hun er den beste studenten.
+dårligst	Det laget spilte dårligst.
+sterkest	Han er sterkest i klassen.
+svakest	Batteriet er svakest nå.
+lignende	De har lignende interesser.
+forskjellig	Vi har forskjellig mening om saken.
+identisk	Kopi-en er identisk med originalen.
+sammenlignet	Han er høyere sammenlignet med broren.
+analog	Dette problemet har en analog løsning.
+parallell	De to linjene er parallelle.
+kontrast	Det er en skarp kontrast mellom fargene.
+ulikhet	Vi må redusere sosial ulikhet.
+forskjell	Hva er forskjellen mellom de to?
+sammenheng	Det er en klar sammenheng mellom trening og helse.
+samsvar	Resultatene er i samsvar med teorien.
+overensstemmelse	Det er full overensstemmelse mellom partene.
+forskjellighet	Forskjellighet i kulturer er en berikelse.
+tilsvarende	Jeg trenger en tilsvarende mengde melk.
+analogi	Han brukte en analogi for å forklare det vanskelige konseptet.
+forhold	Det er et nært forhold mellom dem.
+sammenligne	Vi kan sammenligne de to modellene.
+relativ	Prisen er relativt lav.
+relativt	Han er relativt fornøyd med resultatet.
+likhet	Vi fant en likhet i de to rapportene.
+uoverensstemmelse	Det var en liten uoverensstemmelse i tallene.
+samsvarende	Funnene var samsvarende med hypotesen.
+harmonisk	De lever et harmonisk liv.
+symmetrisk	Bygget har en symmetrisk fasade.
+usymmetrisk	Formen på steinen var usymmetrisk.
+sammenlignelig	De to produktene er sammenlignelige i pris.
+ikke-sammenlignbar	Disse dataene er ikke-sammenlignbare.
+analogt	De løste problemet analogt med forrige gang.
+parallelt	De jobbet parallelt med to prosjekter.
+kontrasterende	De brukte kontrasterende farger i maleriet.
+evaluere	Vi må evaluere prosjektet ved slutten av måneden.
+målestokk	Kartet er tegnet i en målestokk på 1:50 000.
+årsak	Hva var årsaken til ulykken?
+virkning	Medisinene hadde en god virkning.
+effekt	Kampanjen hadde stor effekt på salget.
+resultat	Resultatet av testen var positivt.
+konsekvens	Manglende planlegging kan få alvorlige konsekvenser.
+grunn	Det er ingen god grunn til å være redd.
+følge	Suksessen var en følge av hardt arbeid.
+respons	Vi venter på en respons fra kundeservice.
+reaksjon	Hennes reaksjon var overraskende rolig.
+handling	Dette krever rask handling.
+hendelse	Bryllupet var en gledelig hendelse.
+utfall	Vi venter spent på utfallet av valget.
+betingelse	Du får låne bilen på den betingelsen at du fyller bensin.
+forbindelse	Han har gode forbindelser i bransjen.
+relasjon	De to landene har en sterk relasjon.
+kjede	En kjede av hendelser førte til problemet.
+sekvens	Følg sekvensen av trinn nøye.
+endring	Det er en stor endring i været.
+påvirkning	Media har stor påvirkning på folk.
+påvirke	Musikken kan sterkt påvirke humøret.
+resultere	Dårlig søvn kan resultere i lav energi.
+skape	Hun liker å skape kunst med leire.
+utløse	Stress kan utløse hodepine.
+oppstå	Det kan oppstå en feil i systemet.
+kausalitet	Vi studerer kausalitet mellom variabler.
+logikk	Bruk sunn logikk for å løse gåten.
+begrunnelse	Han ga en god begrunnelse for forslaget.
+reaksjonsmåte	Hennes reaksjonsmåte var rolig og profesjonell.
+årsaksforhold	Analysen viste et klart årsaksforhold.
+årsaksforklaring	Han ga en detaljert årsaksforklaring.
+motivasjon	Motivasjon er nøkkelen til suksess.
+interaksjon	Interaksjonen mellom elevene var god.
+fremkalle	Lukten fremkaller gamle minner.
+frembringe	Eksperimentet klarte å frembringe et nytt stoff.
+generere	Selskapet klarer å generere mye strøm.
+initiere	Hun fikk lov til å initiere prosjektet.
+påvirkningskraft	Lederen har stor påvirkningskraft i organisasjonen.
+utløser	Sjokoladen var en utløser for allergien hans.
+konsekvensfull	Det var en konsekvensfull avgjørelse.
+virkningsfull	Medisinen er virkningsfull mot smertene.
+hendelsesforløp	Vi diskuterte hendelsesforløpet i detalj.
+følgevirkning	Langvarig tørke har alvorlige følgevirkninger.
+dominans	Han har en naturlig dominans i gruppen.
+utløsning	Forskere studerer utløsning av vulkanutbrudd.
+konsekvenskjede	Én feil kan starte en konsekvenskjede.
+kjedereaksjon	Det var en kjedereaksjon av små uhell.
+ettervirkning	Det er fortsatt ettervirkninger av stormen.
+konsekvensanalyse	Vi utførte en konsekvensanalyse før bygging.
+effektmål	Hva er effektmålet for dette programmet?
+opp	Gå opp trappen.
+ned	Ballen falt ned fra bordet.
+venstre	Snu til venstre i krysset.
+høyre	Hun pekte mot høyre.
+frem	Gå frem og si hei.
+tilbake	Kom tilbake senere i dag.
+inn	Kom inn i varmen.
+ut	Gå ut av rommet.
+rundt	Vi gikk rundt innsjøen.
+langs	Vi kjørte langs kysten.
+svinge	Han måtte svinge til siden for å unngå kollisjon.
+bøye	Du må bøye deg for å plukke det opp.
+strekke	Hun må strekke ut før hun løper.
+hoppe	Barnet liker å hoppe i vanndammer.
+løpe	Jeg liker å løpe om morgenen.
+gå	Vi kan gå til butikken.
+springe	Hesten begynte å springe raskt.
+krype	Babyen begynte å krype over gulvet.
+klatre	De prøvde å klatre opp fjellet.
+falle	Vær forsiktig så du ikke faller.
+gli	Han var nær ved å gli på isen.
+skli	Vi sklidde ned bakken på kjelken.
+svømme	Kan du svømme i havet?
+fly	Fuglen kan fly høyt.
+ro	De rodde båten over vannet.
+padle	Vi skal padle kano i helgen.
+kjøre	Jeg skal kjøre deg hjem.
+bremse	Du må bremse for den røde bilen.
+akselerere	Bilen kan akselerere veldig raskt.
+stoppe	Vi må stoppe ved rødt lys.
+starte	La oss starte møtet nå.
+snu	Han måtte snu og gå tilbake.
+dreie	Hjulet fortsetter å dreie.
+bevege	Du må bevege armen forsiktig.
+bevegelse	Han gjorde en rask bevegelse.
+bevegelighet	Trening forbedrer bevegeligheten.
+retning	I hvilken retning skal vi gå?
+kurs	Skipet satte kurs mot sør.
+vei	Den raskeste veien er motorveien.
+rute	Bussen følger en fast rute.
+sti	Vi fulgte den smale stien gjennom skogen.
+bane	Toget kjørte på sin egen bane.
+diagonalt	Vi gikk diagonalt over plassen.
+transportere	De må transportere varene over grensen.
+trekke	Hunden liker å trekke i båndet.
+dytte	Vi måtte dytte bilen i gang.
+dra	Han må dra kofferten etter seg.
+løfte	Kan du løfte denne tunge esken?
+senke	De måtte senke farten på båten.
+fremdrift	Fremdriften i prosjektet er god.
+tall	Hva er det høyeste tallet?
+noen	Har du noen spørsmål?
+mange	Det er mange folk i parken.
+få	Bare få personer møtte opp.
+alle	Alle kom i tide til festen.
+ingen	Det var ingen mat igjen i kjøleskapet.
+hver	Hver deltaker fikk en premie.
+mer	Jeg vil ha mer kake, takk.
+mindre	Bruk mindre salt i suppen.
+mest	Hvem har mest erfaring?
+minst	Jeg har minst penger av oss.
+halv	Jeg spiste en halv pizza.
+del	Dette er en viktig del av planen.
+halvpart	Halvparten av elevene var jenter.
+tredjedel	Bare en tredjedel av pengene er igjen.
+kvart	Jeg tok en kvart av kaken.
+flere	Vi må kjøpe flere stoler.
+ekstra	Trenger du en ekstra pute?
+tilstrekkelig	Har vi tilstrekkelig med mat?
+nok	Det er nok melk til frokosten.
+for mye	Det er for mye sukker i teen.
+for lite	Vi har for lite tid.
+altfor	Været er altfor kaldt i dag.
+over	Flyet fløy over oss.
+under	Katten gjemte seg under sengen.
+dobbelt	Prisen er dobbelt så høy nå.
+tredobbelt	Han får tredobbelt lønn for overtid.
+hel	Han spiste en hel appelsin.
+portion	Jeg vil ha en stor portion med ris.
+mengde	En stor mengde snø falt i natt.
+volum	Vi målte volumet i sylinderen.
+kapasitet	Stadionet har en kapasitet på 50 000.
+antall	Antallet deltakere økte.
+sum	Hva er summen av to pluss tre?
+differanse	Finn differansen mellom tallene.
+total	Totalt sett var turen en suksess.
+gjennomsnitt	Gjennomsnittsalderen er 35 år.
+rest	Spis resten av maten din.
+overskudd	Selskapet hadde et stort overskudd.
+underskudd	Budsjettet viste et lite underskudd.
+prosent	Han får ti prosent rabatt.
+andel	Hva er din andel av kostnadene?
+variasjon	Det er stor variasjon i tilbudet.
+deling	Vi feiret med deling av mat og drikke.
+multiplikasjon	Multiplikasjon er motsatt av divisjon.
+tillegg	Du må betale et lite tillegg for frokost.
+reduksjon	Det var en reduksjon i utgiftene.
+overflod	De levde i overflod.
+knapphet	Det er knapphet på ferskvann.
+begrensning	Det er en begrensning på antall billetter.
+kvote	Hver fisker får en kvote.
+tall	Fem er et partall.
+en	Jeg har bare en bok.
+to	Hun har to katter.
+tre	De var tre venner på tur.
+fire	Bordet har fire bein.
+fem	Klokken er fem på ettermiddagen.
+seks	En uke har seks hverdager.
+sju	Nummer sju vant løpet.
+åtte	Han er åtte år gammel.
+ni	Jeg ser ni fugler på taket.
+ti	Det er ti fingre på to hender.
+addere	Du må addere tallene for å finne summen.
+trekke fra	Vi må trekke fra utgiftene fra inntekten.
+multiplisere	Multiplisere fire med to gir åtte.
+dividere	Vi må dividere kaken i like store deler.
+sum	Summen av regnestykket er ti.
+differanse	Differansen mellom dem er tre.
+produkt	Produktet av multiplikasjonen er seks.
+kvotient	Kvotienten er fire når åtte divideres med to.
+brøk	En halv er en brøk.
+desimal	Tallet 0,5 er et desimaltall.
+måle	Vi må måle høyden på veggen.
+lengde	Lengden på rommet er fem meter.
+vekt	Hva er din vekt?
+volum	Volumet av boksen er stort.
+temperatur	Temperaturen er behagelig i dag.
+areal	Arealet av hagen er 200 kvadratmeter.
+omkrets	Vi regnet ut omkretsen av sirkelen.
+sirkel	Tegn en perfekt sirkel på papiret.
+kvadrat	En firkant med fire like sider er et kvadrat.
+trekant	Huset har et tak formet som en trekant.
+rektangel	Døren er formet som et rektangel.
+formel	Bruk riktig formel for utregningen.
+ligning	Løs denne matematiske ligningen.
+variabel	$x$ er en variabel i denne ligningen.
+konstant	$pi$ er en matematisk konstant.
+prosent	Prisen har økt med ti prosent.
+prosentandel	Hva er prosentandelen av jenter i klassen?
+proporsjon	Fargene må blandes i riktig proporsjon.
+statistikk	Vi bruker statistikk for å analysere data.
+gjennomsnitt	Gjennomsnittet er en viktig verdi.
+median	Medianen er midtverdien i settet.
+modus	Modus er den hyppigste verdien.
+sannsynlighet	Det er lav sannsynlighet for regn.
+graf	Tegn en graf for å vise utviklingen.
+diagram	Diagrammet viser salgsresultatene.
+koordinat	Hva er koordinatene til dette punktet?
+tallinje	Vi brukte tallinjen for å forklare subtraksjon.
+måleenhet	Meter er en internasjonal måleenhet for lengde.
+radius	Radiusen er halvparten av diameteren.
+diameter	Diameteren til sirkelen er ti centimeter.
+jul	Vi feirer jul i desember.
+påske	Påske er en viktig kristen høytid.
+nyttår	Godt nyttår til deg og dine!
+fest	Vi skal ha en stor fest i helgen.
+marked	Jeg kjøpte ferske grønnsaker på markedet.
+teater	Vi så et morsomt stykke på teateret.
+musikk	Jeg hører på musikk hver dag.
+sang	Vi sang en gammel folkesang sammen.
+dans	De lærte seg en ny dans.
+kultur	Norge har en rik kultur.
+tradisjon	Det er en gammel tradisjon å feire Sankthans.
+skikk	Det er en hyggelig skikk å gi blomster.
+mattradisjon	Pinnekjøtt er en vestnorsk mattradisjon.
+bryllup	De feiret sitt bryllup i en gammel låve.
+begravelse	Begravelsen var en trist, men verdig seremoni.
+dåp	Barnet skal ha dåp neste måned.
+konfirmasjon	Min bror skal ha konfirmasjon til våren.
+folkedans	Folkedans er populært i mange land.
+folkedrakt	Hun hadde på seg en vakker folkedrakt.
+festival	Vi skal på en festival for sjømat.
+høytid	Julen er en viktig høytid.
+midsommer	I Sverige er midsommer en stor feiring.
+Sankthans	Vi feirer Sankthans med et stort bål.
+karneval	Karnevalet i Rio er kjent over hele verden.
+seremoni	De holdt en rørende seremoni.
+ritual	Bønn er et viktig ritual for mange.
+kunst	Museet viser moderne kunst.
+håndverk	Lærarbeid er et gammelt håndverk.
+historie	Vi lærer om norsk historie på skolen.
+kulturarv	Bygningen er en del av vår nasjonale kulturarv.
+språk	Norsk er mitt morsspråk.
+fortelling	Bestemoren leste en spennende fortelling.
+legende	Legenden om trollene er kjent i Norge.
+myte	Norrøn myte var populær.
+eventyr	Han leste et gammelt eventyr for barna.
+skikker	De har sine egne sosiale skikker.
+folk	Mange folk kom til arrangementet.
+identitet	Språket er viktig for ens identitet.
+kulturutveksling	De deltok i et program for kulturutveksling.
+kulturminne	Gamle stavkirker er viktige kulturminner.
+kulturinstitusjon	Operaen er en stor kulturinstitusjon.
+museum	Vi besøkte et historisk museum.
+bibliotek	Jeg låner bøker på biblioteket.
+festivalprogram	Festivalprogrammet inneholder mye god musikk.
+feiring	De holdt en stor feiring for jubileet.
+parade	17. mai paraden var lang.
+samling	Det var en stor samling av mennesker.
+arrangement	Konserten var et vellykket arrangement.
+markering	Markeringen av frigjøringsdagen var viktig.
+kulturell praksis	Jakt er en gammel kulturell praksis.
+tradisjonsbevaring	De jobber med tradisjonsbevaring av gamle bygg.
+lokal kultur	Vi studerte den lokale kulturen nøye.
+fattigdom	De kjemper mot fattigdom i verden.
+rikdom	Landet har stor naturrikdom.
+kultur	Kultur forteller hvordan folk lever.
+tradisjon	Det er en gammel tradisjon i familien.
+religion	Kristendom er en stor religion.
+utdanning	Alle barn har rett til god utdanning.
+helse	God helse er viktig for et godt liv.
+bolig	De leier en ny bolig i sentrum.
+sosialt	Det er viktig å ha et godt sosialt nettverk.
+kriminalitet	Kriminalitet er et alvorlig samfunnsproblem.
+vold	De jobber for å redusere vold.
+fred	Alle ønsker seg fred i verden.
+konflikt	Det oppsto en liten konflikt mellom naboene.
+offentlig	Offentlig transport er veldig effektiv.
+politikk	Hun er interessert i internasjonal politikk.
+demokrati	Norge er et demokrati.
+befolkning	Byens befolkning vokser raskt.
+samfunn	Vi er alle en del av samfunnet.
+likestilling	Likestilling mellom kjønnene er viktig.
+ulikhet	Vi må jobbe mot sosial ulikhet.
+kjønnsroller	De tradisjonelle kjønnsrollerne er i endring.
+migrasjon	Migrasjon er et globalt fenomen.
+innvandring	Landet har opplevd økt innvandring.
+flyktning	De tok imot mange flyktninger.
+arbeidsledighet	Arbeidsledigheten har sunket i det siste.
+sosialarbeid	Han studerer sosialarbeid på universitetet.
+omsorg	Eldre trenger god omsorg.
+velferd	Vi har et godt velferdssystem i Norge.
+eldreomsorg	Eldreomsorgen må styrkes.
+barnevern	Barnevernet hjelper familier i krise.
+kriminalomsorg	Kriminalomsorgen jobber med rehabilitering.
+miljøvern	Miljøvern er viktig for fremtiden.
+bærekraft	Vi må fokusere på bærekraft.
+klima	Klimaet endrer seg raskt.
+minoritet	De er en etnisk minoritet i landet.
+majoritet	Majoriteten stemte for forslaget.
+etnisitet	Hennes etnisitet er spansk.
+identitet	Identiteten formes av erfaringer.
+kulturarv	Kulturarv må tas vare på for framtiden.
+diskriminering	Diskriminering på grunn av alder er ulovlig.
+rasisme	Vi må bekjempe rasisme i samfunnet.
+menneskerettigheter	Menneskerettigheter gjelder for alle.
+ytringsfrihet	Ytringsfrihet er grunnleggende i et demokrati.
+fattigdomsbekjempelse	Fattigdomsbekjempelse er et globalt mål.
+sosial inkludering	Sosial inkludering er viktig for minoriteter.
+toleranse	Vi må vise toleranse for ulike meninger.
+solidaritet	De viste solidaritet med de streikende.
+frivillighet	Frivillighet er en viktig del av lokalsamfunnet.
+frivillig arbeid	Hun gjør mye frivillig arbeid.
+urbanisering	Urbanisering fører til at byene vokser.
+landsbygd	Han foretrekker å bo på landsbygda.
+samfunnsutvikling	Samfunnsutvikling krever politisk vilje.
+kirke	Vi besøkte den gamle kirken.
+moské	Moskéen er åpen for bønn.
+tempel	Det buddhistiske tempelet var vakkert.
+synagoge	Jødene feiret sabbat i synagogen.
+bønn	Han avsluttet dagen med en stille bønn.
+gud	Mange tror på én gud.
+tro	Hun har en sterk tro.
+åndelighet	Yoga handler om åndelighet og velvære.
+prest	Presten holdt en tale i kirken.
+imam	Imamen ledet fredagsbønnen.
+rabbi	Rabbien underviste i Toraen.
+munk	En munk lever et enkelt liv.
+nonne	Nonnen jobber på sykehuset.
+religion	Kristendom er en stor religion.
+religionstilhenger	Han er en dedikert religionstilhenger.
+ritual	Bønn er et viktig ritual for mange.
+seremoni	De holdt en rørende seremoni.
+høytid	Julen er en viktig høytid.
+påske	Påske er en viktig kristen høytid.
+jul	Vi feirer jul i desember.
+ramadan	Under ramadan faster muslimer fra soloppgang til solnedgang.
+sabbat	Sabbat er hviledagen i jødedommen.
+sjel	Mange tror at mennesket har en sjel.
+moral	Han har en sterk moral og etikk.
+etikk	Etikk er viktig i medisin.
+bønnestund	De møttes til en kort bønnestund.
+meditasjon	Jeg bruker meditasjon for å slappe av.
+læresetning	Det er en viktig læresetning i kristendommen.
+trosbekjennelse	De leste opp sin trosbekjennelse.
+skrifter	Gamle skrifter forteller om profeter.
+hellig	Jerusalem er en hellig by.
+helligdom	De besøkte en gammel helligdom.
+bønnematte	Han la ut bønnematten for å be.
+gudstjeneste	De gikk i gudstjeneste hver søndag.
+menighet	Menigheten samlet seg i kirken.
+kloster	De besøkte et gammelt kloster i Italia.
+pilgrimsreise	Å reise til Mekka er en pilgrimsreise.
+ånd	Hun har en sterk ånd.
+offer	De brakte et offer til guden.
+sakrament	Dåp er et sakrament i kirken.
+dåp	Barnet skal ha dåp neste måned.
+nattverd	De deltok i nattverd.
+frelse	Håpet om frelse er viktig.
+karma	God handling gir god karma.
+dharma	Dharma er et sentralt begrep i buddhismen.
+meditasjonsøvelse	Hun startet dagen med en meditasjonsøvelse.
+trosretning	Det finnes mange ulike trosretninger.
+religiøs praksis	Religiøs praksis varierer mellom kulturer.
+åndelig praksis	Yoga er en form for åndelig praksis.
+trosfellesskap	De samlet seg i et trosfellesskap.
+pilegrim	En pilegrim reiser til et hellig sted.
+stor	Elefanten er et stort dyr.
+liten	Huset er ganske litent.
+høy	Bygget er veldig høyt.
+lav	Taket er litt lavt.
+lang	Filmen var for lang.
+kort	Hun har kort hår.
+bred	Gaten er veldig bred.
+smal	Vi kjørte gjennom en smal gate.
+tykk	Han leste en tykk bok.
+tynn	Modellen var veldig tynn.
+tung	Sekken var for tung.
+lett	Fjæren er utrolig lett.
+varm	Dagen er veldig varm.
+kald	Vannet i sjøen er kaldt.
+myk	Putene er veldig myke.
+hard	Gulvet er laget av hard stein.
+sterk	Han er en sterk mann.
+svak	Hun følte seg svak etter sykdommen.
+lys	Solen gir lys.
+mørk	Rommet er veldig mørkt.
+nyanse	Maleren brukte en nyanse av blått.
+kontrast	Det er en skarp kontrast mellom lys og skygge.
+rund	Ballen er helt rund.
+firkant	Vinduet har form som en firkant.
+trekantet	Skiltet er trekantet.
+skarp	Kniven er veldig skarp.
+myk	Trekanten er myk
+bølget	Vannet i sjøen er bølget.
+spiral	Trappen er formet som en spiral.
+polygon	En polygon er en figur med mange sider.
+rombe	En rombe er en firkant med like lange sider.
+trekantvinkel	Summen av trekantvinkelne er 180 grader.
+diagonal	Tegn en diagonal linje fra hjørne til hjørne.
+radius	Radiusen er halvparten av diameteren.
+diameter	Diameteren til sirkelen er ti centimeter.
+rød	Hennes favorittfarge er rød.
+blå	Himmelen er blå i dag.
+gul	Sola er gul.
+grønn	Gresset er grønnt.
+svart	Katten er svart og hvit.
+hvit	Snøen er hvit.
+farge	Blå er min favorittfarge.
+linje	Trekk en rett linje på arket.
+punkt	Start fra dette punktet.
+form	Kuben har en perfekt form.
+sirkel	Tegn en stor sirkel.
+kvadrat	Bordet er formet som et kvadrat.
+trekant	Pizzaen er delt i trekanter.
+rektangel	Døren har form som et rektangel.
+oval	Egget har en oval form.
+ellipse	Månens bane er en ellipse.
+oransje	Gresskaret er oransje.
+lilla	Jeg liker den lilla genseren.
+rosa	Blomstene er rosa.
+brun	Sjokolade er brun.
+grå	Himmelen er grå i dag.
+kontrast	Det er en sterk kontrast mellom svart og hvit.
+stjerne	Jeg så en lys stjerne på himmelen.
+diamant	Ringen har en stor diamant.
+hjerte	Jeg tegnet et hjerte på kortet.
+kryss	Sett et kryss i riktig boks.
+pil	Pilen peker mot venstre.
+kant	Vær forsiktig med den skarpe kanten.
+hjørne	Sett bordet i hjørnet av rommet.
+mønster	Tapetet har et fint mønster.
+sirkelbue	Vi målte sirkelbuen på figuren.
+sektor	En pizza er delt i sektorer.
+kvadratmeter	Leiligheten er 50 kvadratmeter.
+geometrisk	Geometrisk form er viktig i design.
+symmetri	Symmetri i naturen er vakkert.
+asymmetri	Maleriet har bevisst asymmetri.
+rund	Tellus er rund.
+firkant	Et vindu kan være en firkant.
+trekantet	Seilet er trekantet.
+skarp	Kniven er veldig skarp.
+myk	Sanden på stranden var myk.
+bølget	Vannet i sjøen er bølget.
+spiral	Trappen er formet som en spiral.
+polygon	En polygon er en figur med mange sider.
+rombe	Romben har fire like lange sider.
+trekantvinkel	En trekantvinkel er en vinkel i en trekant.
+diagonal	Tegn en diagonal linje over kvadratet.
+radius	Radiusen i sirkelen er fem cm.
+diameter	Diameteren er dobbelt så lang som radius.
+rett	Alle har rett til en rettferdig rettssak.
+plikt	Vi har en plikt til å hjelpe andre.
+makt	Han har stor politisk makt.
+autoritet	Læreren har autoritet i klasserommet.
+ære	Det var en ære å møte henne.
+skam	Han følte stor skam over feilen.
+lykke	Jeg ønsker deg all lykke i livet.
+sorg	De delte sin dype sorg.
+fred	Vi ønsker fred i verden.
+krig	De håper krigen snart er over.
+håp	Det er fortsatt håp om bedring.
+frykt	Mørket gir meg frykt.
+mot	Hun viste stort mot i møte med fare.
+ærlighet	Ærlighet varer lengst.
+tillit	De har full tillit til lederen.
+respekt	Du må vise respekt for eldre.
+lojalitet	Han har vist stor lojalitet til bedriften.
+ansvar	Jeg har ansvar for prosjektet.
+trofasthet	Trofasthet er en viktig egenskap.
+solidaritet	Vi må vise solidaritet med de svakeste.
+toleranse	Toleranse er nødvendig for å leve sammen.
+samarbeid	Samarbeid er nøkkelen til suksess.
+verdighet	Alle mennesker har krav på verdighet.
+ydmykhet	Ydmykhet er en sjelden dyd.
+stolthet	Han følte stolthet over datterens prestasjon.
+integritet	Hun har høy personlig integritet.
+likhet	Vi jobber for likhet mellom alle.
+ulikhet	Sosial ulikhet er et problem.
+rettferdig	Dommen var rettferdig.
+urettferdig	Behandlingen var urettferdig.
+velstand	Landet lever i stor velstand.
+fattigdom	Vi må bekjempe global fattigdom.
+frihet	Frihet er viktig for alle borgere.
+sannhet	Vi søker etter sannheten i saken.
+rettferdighet	Rettferdighet er grunnleggende i loven.
+kjærlighet	Kjærlighet er den sterkeste følelsen.
+moral	De diskuterte moralske spørsmål.
+etikk	Etikk er læren om rett og galt.
+tro	Min tro gir meg styrke.
+ånd	Hun har en sterk og fri ånd.
+sjel	Noen tror sjelen lever videre etter døden.
+bevissthet	Han mistet bevisstheten etter fallet.
+kunnskap	Kunnskap er makt.
+visdom	Alder gir ofte visdom.
+intelligens	Hun har en imponerende intelligens.
+skjønnhet	Fjellene har en utrolig skjønnhet.
+sannsynlighet	Sannsynligheten for regn er høy.
+urett	Det var en stor urett mot ham.
+er	Han er min venn.
+finnes	Det finnes mange typer sopp i skogen.
+tilstede	Hun var tilstede på møtet.
+lever	Han lever et sunt liv.
+dør	Blomstene dør om vinteren.
+vedvarer	Problemet vedvarer til tross for innsats.
+oppstår	En ny mulighet oppstår ofte.
+forblir	Huset forblir tomt i lang tid.
+forsvinner	Nøkkelen forsvinner alltid.
+eksisterer	Alle vet at solen eksisterer.
+eksisterende	Vi må forbedre de eksisterende systemene.
+ikke-eksisterende	En enhjørning er et ikke-eksisterende dyr.
+tilstand	Huset er i god tilstand.
+situasjon	Vi må vurdere den aktuelle situasjonen.
+realitet	Det er den harde realiteten.
+virkelighet	Filmen reflekterer virkeligheten.
+liv	Hun har et lykkelig liv.
+død	Død er en naturlig del av livet.
+overlevelse	Overlevelse i villmarken er vanskelig.
+eksistens	Han tvilte på sin egen eksistens.
+tilstedeværelse	Hennes rolige tilstedeværelse var beroligende.
+nærvær	Vi setter pris på ditt nærvær.
+fravær	Hans fravær ble lagt merke til.
+levende	Fisken er fortsatt levende.
+døende	Planten var døende etter tørken.
+midlertidig	Løsningen er bare midlertidig.
+permanent	Tatoveringen er permanent.
+konstant	Temperaturen holdt seg konstant.
+skiftende	Været er skiftende i Norge.
+endring	Vi ønsker en positiv endring.
+utvikling	Utviklingen av prosjektet går bra.
+stabilitet	Landet trenger politisk stabilitet.
+ubalanse	Det er en ubalanse i økosystemet.
+fenomen	Global oppvarming er et alvorlig fenomen.
+subjekt	Setningen har et subjekt og et predikat.
+objekt	Han betraktet det rare objektet.
+entitet	Selskapet er en uavhengig entitet.
+substans	Den ukjente substansen ble analysert.
+kvalitet	Vi legger vekt på god kvalitet.
+karakter	Hun har en sterk karakter.
+essens	Essensen i problemet er kommunikasjon.
+natur	Vi må beskytte naturen.
+status	Hva er statusen på søknaden min?
+posisjon	Han har en viktig posisjon i bedriften.
+dimensjon	Tid er den fjerde dimensjonen.
+tilværelse	Jeg setter pris på min enkle tilværelse.
+virke	Han har et viktig virke som lærer.
+funksjon	Hva er funksjonen til denne knappen?
+aktivitet	Han deltar i mange fritidsaktiviteter.
+passivitet	Passivitet løser ingen problemer.
+transformasjon	Selskapet gjennomgår en digital transformasjon.
+mangler	Det mangler melk i kjøleskapet.
+spise	Vi skal spise middag klokken fem.
+drikke	Jeg vil gjerne drikke et glass vann.
+ta	Kan du ta den boken for meg?
+holde	Jeg kan holde vesken din.
+klemme	Han ga meg en god klemme.
+smake	Vil du smake på kaken?
+lukte	Blomstene lukter fantastisk.
+føle	Jeg kan føle varmen fra solen.
+gripe	Du må gripe sjansen når du får den.
+åpne	Kan du åpne vinduet?
+lukke	Husk å lukke døren.
+hente	Jeg skal hente barna på skolen.
+dele	Vi må dele på utgiftene.
+røre	Ikke røre den varme platen!
+bruke	Vi må bruke mindre strøm.
+berøre	Han turte ikke berøre det gamle maleriet.
+inhalere	Vi må inhalere frisk luft.
+puste	Ta deg tid til å puste dypt.
+tygge	Du må tygge maten godt.
+sluke	Jeg måtte sluke maten i all hast.
+binde	Hun måtte binde fast båten.
+rive	Ikke rive i stykker papiret.
+servere	De skal servere laks til middag.
+tilby	Vi kan tilby deg en ny stilling.
+dra	Vi må dra tidlig i morgen.
+skyve	Vi måtte skyve bilen ut av snøen.
+klappe	Barnet liker å klappe katten.
+samle	Vi skal samle inn penger til veldedighet.
+ta på	Ikke ta på de våte maleriene.
+male	Hun liker å male landskaper.
+tegne	Kan du tegne et kart for meg?
+bygge	De skal bygge et nytt hus.
+designe	Han skal designe logoen.
+skrive	Jeg må skrive en viktig e-post.
+sy	Jeg lærer å sy min egen kjole.
+lage	Vi skal lage middag sammen.
+forme	Skulptøren kan forme leire til vakre figurer.
+konstruere	De skal konstruere en ny bro.
+skape	Hun ønsker å skape noe unikt.
+dekorere	Vi skal dekorere rommet til jul.
+planlegge	Vi må planlegge turen nøye.
+improvisere	Musikeren liker å improvisere på scenen.
+veve	Hun lærte å veve tepper.
+hugge	De måtte hugge ned et gammelt tre.
+støpe	Vi skal støpe fundamentet i betong.
+smi	Smeden kan smi jern til verktøy.
+lage musikk	Han liker å lage musikk på fritiden.
+komponere	Han skal komponere et nytt stykke for orkesteret.
+fotografere	Jeg elsker å fotografere naturen.
+filme	De skal filme en ny reklame.
+animere	Det tar tid å animere en hel film.
+programmere	Hun lærer å programmere i Python.
+restaurere	De skal restaurere den gamle kirken.
+modellere	Arkitekten brukte leire for å modellere bygget.
+skrive dikt	Han liker å skrive dikt om kjærlighet.
+koreografere	Hun skal koreografere en ny ballett.
+tegne kart	Vi må tegne kart over området.
+designe klær	Hun elsker å designe klær for motevisninger.
+lage smykker	Han bruker sølv til å lage smykker.
+lage kunst	Det er en glede å lage kunst med hendene.
+komponere sang	Han sitter og prøver å komponere sangen til bryllupet.
+designe rom	Arkitekten fikk i oppdrag å designe rommet.
+bygge modell	Vi skal bygge modell av en gammel båt.
+lage skulptur	Hun brukte marmor for å lage skulptur.
+skrive novelle	Han brukte helgen på å skrive novellen ferdig.
+male bilde	Jeg vil male bilde av solnedgangen.
+tegne portrett	Hun er flink til å tegne portretter.
+sy klær	Jeg lærer å sy klær på et kurs.
+dekorere rom	Vi skal dekorere rommet før festen.
+lage mosaikk	Lage mosaikk med små glassbiter er tidkrevende.
+smi smykker	Gullsmeden kan smi smykker av gull.
+forme leire	Hun brukte hendene til å forme leiren.
+designe logo	Byrået skal designe logoen til det nye selskapet.
+lage film	De planlegger å lage film om byens historie.
+animere figur	Det tar lang tid å animere figurene i filmen.
+komponere musikk	Hun fikk i oppdrag å komponere musikk til stykket.
+konstruere modell	Studenter skal konstruere modell av broen.
+skrive manus	Forfatteren måtte skrive manuset flere ganger.
+male vegg	Han skal male veggen i en lysere farge.
+tegne skisse	Kan du tegne skisse av huset du vil bygge?
+lage keramikk	Vi skal lage keramikk på verkstedet.
+bygge hus	De har begynt å bygge huset sitt ved sjøen.
+designe møbel	Han ønsker å designe møbel for IKEA.
+vokse	Barnet fortsetter å vokse raskt.
+endre	Vi må endre planene på grunn av været.
+forandre	Han bestemte seg for å forandre livsstilen sin.
+modnes	Frukten trenger tid til å modnes.
+bryte	Han måtte bryte en dårlig vane.
+utvikle	Hun ønsker å utvikle sine ferdigheter.
+forbedre	Vi må forbedre kvaliteten på produktet.
+reparere	Jeg må reparere sykkelen min.
+redusere	Vi må redusere utslippene våre.
+øke	Temperaturen vil øke i morgen.
+utvide	Selskapet planlegger å utvide driften.
+krympe	Ull kan krympe i varmt vann.
+svinne	Håpet begynte å svinne bort.
+helbrede	Tiden vil helbrede såret.
+bygge opp	Vi må bygge opp lagånden igjen.
+falle fra hverandre	Den gamle stolen holdt på å falle fra hverandre.
+utvikle seg	Barnet fortsetter å utvikle seg kognitivt.
+tilpasse	Vi må tilpasse oss de nye reglene.
+transformere	Larven vil transformere til en sommerfugl.
+regenerere	Noen dyr kan regenerere tapte lemmer.
+metamorfosere	Figuren later til å metamorfosere til noe annet.
+fermentere	Bøndene lar teen fermentere før tørking.
+forvitre	Steinene vil forvitre over tid.
+forvandle	Maleren klarte å forvandle rommet helt.
+intensivere	Vi må intensivere innsatsen nå.
+svekke	Sykdommen kan svekke immunforsvaret.
+styrke	Trening vil styrke musklene.
+erstatte	De måtte erstatte den ødelagte delen.
+rekonstruere	De skal rekonstruere det historiske bygget.
+vokse sakte	Planten vil vokse sakte i skyggen.
+utvikle ferdighet	Det tar tid å utvikle ferdighet i sjakk.
+forbedre kvalitet	Målet er å forbedre kvaliteten på tjenesten.
+bryte mønster	Det er vanskelig å bryte mønster av dårlige vaner.
+endre mening	Etter debatten valgte han å endre mening.
+forandre utseende	Malingen vil forandre utseendet på huset.
+modnes gradvis	Vinen må modnes gradvis i tønner.
+bygge opp tillit	Det tar tid å bygge opp tillit etter et svik.
+falle sammen	Den gamle hytten var i ferd med å falle sammen.
+reparere skader	Forsikringen dekker å reparere skader etter stormen.
+redusere risiko	Vi må redusere risikoen for brann.
+øke hastighet	Sjåføren måtte øke hastigheten på motorveien.
+utvide område	Regjeringen ønsker å utvide området for nasjonalparken.
+krympe størrelse	Vaskemaskinen fikk genseren til å krympe størrelse.
+svinne bort	Energien hans begynte å svinne bort mot slutten av dagen.
+regenerere vev	Kroppen kan regenerere vev etter et kutt.
+helbrede sår	Legen sa at såret vil helbrede sårt.
+tilpasse seg miljø	Dyr må tilpasse seg miljøet for å overleve.
+transformere idé	De klarte å transformere idéen til et produkt.
+metamorfosere form	Steinen ser ut til å metamorfosere form.
+fermentere mat	Surkål er fermenteret mat.
+forvitre materiale	Vinden får forvitre materialet i fjellet.
+modne frukt	Solen hjelper til med å modne frukt.
+forvandle rom	Lys og maling kan forvandle rom.
+intensivere farge	Varmen vil intensivere fargen på stoffet.
+svekke strukturen	Rust kan svekke strukturen på broen.
+styrke muskler	Du må trene for å styrke musklerne.
+erstatte deler	Det var nødvendig å erstatte deler av motoren.
+rekonstruere bygning	Det tok to år å rekonstruere bygningen etter brannen.
+være	Det er en fin dag i dag.
+bli	Jeg håper jeg kan bli en god lærer.
+ha	Vi har mye tid sammen.
+gjøre	Hva skal vi gjøre nå?
+skal	Du skal følge reglene.
+vil	Jeg vil gjerne se filmen.
+kan	Kan du hjelpe meg med leksene?
+må	Vi må skynde oss til bussen.
+bør	Du bør spise mer grønnsaker.
+kunne	Jeg kunne løpe fortere før.
+måtte	Vi måtte avlyse turen på grunn av regnet.
+ville	Hva ville du gjort i min situasjon?
+tørre	Han tørrer ikke hoppe fra tårnet.
+ønsker	Jeg ønsker deg alt godt.
+pleie	De pleier å spise middag klokken seks.
+finnes	Det finnes mange typer fisk i fjorden.
+begynne	Vi kan begynne å spise nå.
+avslutte	De skal avslutte prosjektet i morgen.
+lykkes	Jeg håper du lykkes med eksamen.
+anta	Vi må anta at planen er riktig.
+klare	Jeg er sikker på at du vil klare det.
+fortsette	Vi kan fortsette møtet etter lunsj.
+bli nødt til	De vil bli nødt til å endre strategien.
+tillate	Foreldrene mine vil tillate meg å dra.
+nekte	Han valgte å nekte å svare på spørsmålet.
+ha lov til	Du har lov til å ta en pause nå.
+se ut til	Det ser ut til å bli fint vær i dag.
+virke som	Det virker som en god idé.
+gjøre ferdig	Hun skal gjøre ferdig rapporten i kveld.
+holde på å	Jeg holder på å lære meg å spille gitar.
+være til stede	Alle studentene må være til stede på forelesningen.
+bli ferdig	Når skal arbeidet bli ferdig?
+ha ansvar	Hun har ansvar for å organisere arrangementet.
+gjøre klart	Jeg må gjøre klart presentasjonen.
+skal kunne	Du skal kunne svømme over bassenget.
+vil gjerne	Jeg vil gjerne ha en kopp te.
+kan utføre	Han kan utføre oppgaven alene.
+må gjøre	Vi må gjøre det vi har lovet.
+bør prøve	Du bør prøve den nye restauranten.
+kunne mestre	Han kunne mestre vanskelige situasjoner.
+måtte vente	De måtte vente i en lang kø.
+ville handle	Hva ville handlet om dersom du skrev en bok?
+tørre prøve	Du må bare tørre prøve noe nytt.
+ønsker å	Jeg ønsker å reise til Italia neste år.
+pleie å	Han pleier å gå en tur hver morgen.
+bli nødt til å	Vi vil bli nødt til å jobbe overtid.
+finnes alltid	Håpet finnes alltid, selv i mørke tider.
+fortsette arbeidet	Vi må fortsette arbeidet selv om det er sent.
+begynne nytt	De skal begynne nytt prosjekt neste uke.
+avslutte prosjekt	Det er viktig å avslutte prosjektet med stil.
+lykkes med	Hun lykkes med alt hun foretar seg.
+tillate handling	Regjeringen vil tillate handling for å redde økonomien.
+nekte tilbud	Hun valgte å nekte tilbudet fra den andre bedriften.
+ha lov til å	Barna har lov til å være oppe sent i kveld.
+anta riktig	Det er best å anta riktig enn å gjette.
+se ut til å	Været ser ut til å bli bedre.
+virke sann	Historien virker sann, men er den?
+gjøre ferdig oppgave	Du må gjøre ferdig oppgaven før du går.
+klare oppgaven	Vi er to som skal klare oppgaven.
+holde på å starte	Flyet holder på å starte motoren.
+si	Hva har du å si til det?
+snakke	Vi må snakke sammen i morgen.
+skrive	Jeg må skrive et brev til banken.
+rope	Ikke rope inne, takk.
+hviske	Hun måtte hviske for å ikke vekke barnet.
+spørre	Du må spørre om du lurer på noe.
+svare	Vennligst svare på e-posten min.
+fortelle	Kan du fortelle en vits?
+lese opp	Hun skal lese opp resultatet for oss.
+be	De pleier å be om hjelp ved vanskeligheter.
+dele	Vi skal dele kaken likt.
+forklare	Kan du forklare dette konseptet for meg?
+uttrykke	Han klarte å uttrykke sin frustrasjon.
+kommentere	Han nektet å kommentere saken.
+informere	Vi må informere alle om endringen.
+advare	Jeg må advare deg mot faren.
+uttrykke seg	Det er viktig å uttrykke seg klart.
+lovprise	Man bør lovprise andres gode arbeid.
+diskutere	De skal diskutere politikk i kveld.
+argumentere	Han prøvde å argumentere for sin sak.
+overbevise	Det er vanskelig å overbevise ham.
+beskrive	Kan du beskrive tyven for politiet?
+rapportere	Han må rapportere hendelsen til sjefen.
+presentere	Hun skal presentere prosjektet i morgen.
+påpeke	Jeg måtte påpeke feilen i regnestykket.
+annonsere	De skal annonsere vinneren i morgen.
+tilstå	Han valgte å tilstå tyveriet.
+intervjue	Journalisten skal intervjue statsministeren.
+referere	Han måtte referere til kildene sine.
+diskutere videre	Vi kan diskutere videre neste uke.
+fortelle historie	Jeg elsker å fortelle historier til barna.
+spørre om	Du må spørre om lov før du låner bilen.
+svare på	Jeg må svare på e-posten snarest.
+argumentere for	Han måtte argumentere for fordelene med planen.
+forklare nøye	Vær så snill å forklare nøye hvordan det fungerer.
+beskrive detaljert	Hun klarte å beskrive detaljert maleriet.
+rapportere hendelse	Han måtte rapportere hendelsen til politiet.
+uttrykke følelser	Det er sunt å uttrykke følelser.
+presentere idé	Vi skal presentere idéen for investorene.
+kommentere sak	Politiet vil ikke kommentere saken ytterligere.
+dele erfaring	Hun valgte å dele erfaringen sin med gruppen.
+lese høyt	Kan du lese høyt fra boken?
+advare mot	Jeg må advare mot å gå ut i stormen.
+be om hjelp	Ikke vær redd for å be om hjelp.
+intervjue person	Vi må intervjue personen før ansettelse.
+fortelle sannhet	Du må alltid fortelle sannheten.
+forklare konsept	Han prøvde å forklare konseptet på en enkel måte.
+diskutere problem	De samlet seg for å diskutere problemet.
+informere publikum	Vi må informere publikum om farene.
+uttrykke mening	Han har rett til å uttrykke meningen sin.
+annonsere nyhet	De vil annonsere nyheten i morgen.
+spørre spørsmål	Du må spørre spørsmål hvis du ikke forstår.
+svare ærlig	Vennligst svare ærlig på undersøkelsen.
+tenke	Jeg må tenke meg om før jeg bestemmer meg.
+huske	Jeg kan ikke huske navnet på filmen.
+glemme	Prøv å glemme den dårlige opplevelsen.
+forstå	Jeg klarer ikke å forstå denne regelen.
+lære	Vi må lære av våre feil.
+drømme	Hun drømmer om å reise til månen.
+velge	Du må velge hvilken vei du skal gå.
+bestemme	Vi må bestemme oss for en dato snart.
+vurdere	Vi må vurdere alle alternativene nøye.
+tro	Jeg tror på deg.
+anta	Vi kan anta at resultatet blir det samme.
+planlegge	Vi må planlegge ferien i god tid.
+fokusere	Prøv å fokusere på det viktigste.
+resonnere	Hun er flink til å resonnere logisk.
+oppdage	Han var den første som oppdaget feilen.
+undre seg	Barnet undrer seg over hvorfor himmelen er blå.
+tvile	Jeg tviler på at det er sant.
+forestille	Jeg kan ikke forestille meg et liv uten musikk.
+forestille seg	Kan du forestille deg hvordan det vil se ut?
+konsentrere seg	Han må konsentrere seg for å løse oppgaven.
+memorere	Det er vanskelig å memorere lange tekster.
+analysere	Vi må analysere dataene grundig.
+reflektere	Vi bør reflektere over hva som skjedde.
+spekulere	De begynte å spekulere i årsaken.
+evaluere	Vi må evaluere prosjektets suksess.
+reflektere over	Ta deg tid til å reflektere over dine valg.
+forklare for seg selv	Han måtte forklare for seg selv hvorfor han gjorde det.
+betrakte	Hun sto og betraktet maleriet lenge.
+oppfatte	Jeg klarte ikke å oppfatte hva han sa.
+erkjenne	Hun måtte erkjenne at hun tok feil.
+begrunne	Du må begrunne valget ditt godt.
+overveie	Vi må overveie konsekvensene nøye.
+forutsi	Det er vanskelig å forutsi været.
+tenke igjennom	Du må tenke igjennom dette før du svarer.
+gruble	Han satt lenge og grublet over problemet.
+fundere	Jeg satt og funderete på livets store spørsmål.
+analysere nøye	Vi må analysere nøye hvordan ulykken skjedde.
+tenke kreativt	Vi må tenke kreativt for å finne en løsning.
+planlegge strategisk	Selskapet må planlegge strategisk for fremtiden.
+huske detaljer	Han er flink til å huske detaljer.
+forstå sammenhenger	Det er viktig å forstå sammenhenger i faget.
+forestille seg muligheter	Man må forestille seg muligheter for å innovere.
+vurdere alternativer	Før du velger, må du vurdere alternativer nøye.
+reflektere kritisk	Vi må reflektere kritisk over kildene.
+drømme seg bort	Jeg liker å drømme seg bort med god musikk.
+spekulere videre	Vi kan spekulere videre på hvem som gjorde det.
+undre seg over	Jeg undrer meg over hvor lenge det vil vare.
+tvile på	Han har grunn til å tvile på rapporten.
+anta riktig	Vi må anta riktig for å unngå feil.
+konsentrere seg godt	Prøv å konsentrere deg godt under eksamen.
+evaluere situasjon	Politiet måtte evaluere situasjonen raskt.
+løpe	Jeg liker å løpe i skogen.
+gå	Vi kan gå til butikken.
+hoppe	Barnet elsker å hoppe i vanndammer.
+krype	Babyen begynte å krype over gulvet.
+falle	Vær forsiktig så du ikke faller på isen.
+gli	Han var nær ved å gli på det glatte gulvet.
+snuble	Jeg snublet over roten og falt.
+hinke	Hun måtte hinke på ett ben.
+skli	Vi sklir på kjelken ned bakken.
+sykle	Jeg sykler til jobben hver dag.
+svømme	De svømmer i havet om sommeren.
+fly	Fuglen flyr høyt over trærne.
+danse	Vi skal danse hele natten.
+trekke	Du må trekke i håndtaket for å åpne.
+skyve	Vi måtte skyve bilen ut av grøften.
+bære	Han hjalp meg med å bære esken.
+løfte	Du må løfte vektene forsiktig.
+kaste	De skal kaste ball med hunden.
+sparke	Han klarte å sparke ballen i mål.
+snurre	Datteren min elsker å snurre rundt.
+rulle	Ballen begynte å rulle ned bakken.
+ro	Vi rodde båten over innsjøen.
+padle	De liker å padle kajakk langs kysten.
+kjøre	Jeg må kjøre forsiktig på glatte veier.
+bremse	Du må bremse for den røde bilen.
+akselerere	Bilen kan akselerere veldig raskt.
+stoppe	Vi må stoppe ved rødt lys.
+starte	La oss starte møtet nå.
+snu	Han måtte snu og gå tilbake.
+dreie	Hjulet fortsetter å dreie.
+bevege	Du må bevege armen forsiktig.
+spasere	Vi tok oss tid til å spasere i parken.
+jogge	Jeg jogger tre ganger i uken.
+springe	Hesten begynte å springe raskt.
+løpe etter	Hunden min liker å løpe etter ballen.
+løpe vekk	Tyven klarte å løpe vekk fra åstedet.
+løpe opp	Vi måtte løpe opp alle trappene.
+hoppe ned	Han turte ikke å hoppe ned fra steinen.
+svømme over	Vi skal svømme over fjorden neste sommer.
+gå rundt	Vi måtte gå rundt hele bygget.
+krype under	Barnet måtte krype under bordet.
+løpe raskt	Hun klarte å løpe raskt og vinne løpet.
+løpe sakte	Han måtte løpe sakte på grunn av smerten.
+hoppe høyt	Kan du hoppe høyt over hindringen?
+hoppe lavt	De måtte hoppe lavt for å unngå laserstrålen.
+gli ned	Han lot seg gli ned sklia.
+snurre rundt	Danseparet begynte å snurre rundt.
+rulle bort	Ballen rullet bort og inn under bilen.
+trekke til seg	Magneten klarte å trekke til seg metall.
+skyve bort	Hun klarte å skyve bort frykten.
+hinke frem	Han måtte hinke frem til mållinjen.
+skli på is	Vær forsiktig så du ikke sklir på isen.
+løpe i sirkel	Barnet løper i sirkel for å gjøre seg svimmel.
+falle bakover	Han var nær ved å falle bakover i stolen.
+snuble over	Jeg er redd jeg skal snuble over dørstokken.
+løpe til	Du må løpe til butikken nå.
+hoppe til siden	Hun måtte hoppe til siden for å unngå ballen.
+svømme raskt	Han svømmer raskt og vant konkurransen.
+spasere sakte	Vi tok oss tid til å spasere sakte langs elven.
+gå frem	Du må gå frem og presentere deg.
+gå tilbake	Vi må gå tilbake og hente nøklene.
+balansere	Du må balansere vekten din nøye.
+balansere på line	Sirkusartisten klarte å balansere på line.
+krype inn	Hunden pleier å krype inn under teppet.
+krype ut	Han måtte krype ut av den trange plassen.
+løpe om kapp	Vi pleide å løpe om kapp da vi var barn.
+transportere	De må transportere varene over grensen.
+bevegelighet	Yoga forbedrer bevegeligheten i leddene.
+bevegelse	Han gjorde en rask bevegelse.
+fremdrift	Fremdriften i prosjektet er god.
+retning	I hvilken retning skal vi gå?
+kurs	Skipet satte kurs mot sør.
+vei	Den raskeste veien er motorveien.
+rute	Bussen følger en fast rute.
+sti	Vi fulgte den smale stien gjennom skogen.
+bane	Toget kjørte på sin egen bane.
+hvem	Hvem er den personen?
+hva	Hva heter du?
+hvor	Hvor bor du?
+når	Når starter filmen?
+hvorfor	Hvorfor er himmelen blå?
+hvordan	Hvordan har du det i dag?
+hvilken	Hvilken bok leser du?
+hvilke	Hvilke farger liker du?
+hvilket	Hvilket hus er ditt?
+hvem sin	Hvem sin bil er dette?
+hva tid	Hva tid skal vi møtes?
+hvor mye	Hvor mye koster den?
+hvor mange	Hvor mange epler vil du ha?
+hva for	Hva for en type mat er det?
+hva slags	Hva slags musikk liker du?
+hvilken vei	Hvilken vei skal vi ta for å komme dit?
+hvilket tidspunkt	Hvilket tidspunkt passer best for deg?
+hvem sin tur	Hvem sin tur er det til å vaske opp?
+hvor lenge	Hvor lenge skal du være borte?
+hvilken retning	I hvilken retning flyr fuglene?
+hva tid på dagen	Hva tid på dagen er du mest våken?
+hvordan fungerer	Hvordan fungerer denne maskinen?
+hvorfor ikke	Hvorfor ikke prøve noe nytt?
+hvem kan	Hvem kan hjelpe meg med dette?
+hva er	Hva er klokken nå?
+når skal	Når skal du reise?
+hvor ligger	Hvor ligger den nye butikken?
+hvorfor skjer	Hvorfor skjer dette med meg?
+hvilken grunn	På hvilken grunn ble han arrestert?
+hva heter	Hva heter denne planten?
+hvem gjorde	Hvem gjorde dette rotet?
+hva betyr	Hva betyr dette ordet?
+hvordan lage	Hvordan lager man en god kake?
+hvorfor velge	Hvorfor velger du denne fargen?
+hva skjedde	Hva skjedde i går kveld?
+hvem sier	Hvem sier at det er sant?
+hva ønsker	Hva ønsker du deg i bursdagsgave?
+hvor finner	Hvor finner jeg toalettet?
+hvem eier	Hvem eier dette huset?
+hva trenger	Hva trenger vi for å starte?
+hvordan vet	Hvordan vet du det?
+hvilken metode	Hvilken metode brukte de?
+hvem vil	Hvem vil være med på tur?
+hvorfor spør	Hvorfor spør du om det?
+hvem sin idé	Hvem sin idé var det?
